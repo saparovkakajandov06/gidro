@@ -1,0 +1,1896 @@
+AWSTATS DATA FILE 7.4 (build 20150714)
+# If you remove this file, all statistics for date 201605 will be lost/reset.
+# Last config file used to build this data file was /etc/awstats/awstats.meteo.gov.tm.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 1995                
+POS_TIME 2679                
+POS_VISITOR 29579               
+POS_DAY 60069               
+POS_DOMAIN 3752                
+POS_LOGIN 4012                
+POS_ROBOT 4208                
+POS_WORMS 5190                
+POS_EMAILSENDER 5321                
+POS_EMAILRECEIVER 5464                
+POS_SESSION 60600               
+POS_SIDER 60814               
+POS_FILETYPES 5599                
+POS_DOWNLOADS 5899                
+POS_OS 5947                
+POS_BROWSER 6286                
+POS_SCREENSIZE 8638                
+POS_UNKNOWNREFERER 8712                
+POS_UNKNOWNREFERERBROWSER 11380               
+POS_ORIGIN 11580               
+POS_SEREFERRALS 11738               
+POS_PAGEREFS 11924               
+POS_SEARCHWORDS 13665               
+POS_KEYWORDS 18556               
+POS_MISC 2341                
+POS_ERRORS 22390               
+POS_CLUSTER 3868                
+POS_SIDER_404 22604               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20160601000858 10111 4170601 13021434622266
+FirstTime 20160517040535
+LastTime 20160531235328
+LastUpdate 20160601010105 1 0 0 0 0
+TotalVisits 1071                
+TotalUnique 320                 
+MonthHostsKnown 1                   
+MonthHostsUnknown 994                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 748 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 545 3175 40612333 817 965 26194787
+1 278 2665 28816946 589 688 24929576
+2 492 2667 27259821 516 658 22220150
+3 234 2045 19688565 429 570 17364888
+4 372 2416 24746982 446 527 15599385
+5 1523 3676 64633143 1691 1772 13661986
+6 1441 4419 71550921 1365 1449 19789829
+7 1257 4554 79270336 1509 1976 34496689
+8 978 5195 78046850 1451 1899 47225369
+9 3239 5705 140520699 2705 2950 22905890
+10 700 3672 57422853 631 873 25446100
+11 1996 5636 107822074 1495 1694 16540029
+12 1562 4428 85686423 1363 1571 24982832
+13 622 3196 45574399 680 869 19347108
+14 2334 5614 130034183 2166 2592 48617347
+15 2300 5143 116695889 1592 1924 29956551
+16 1629 4153 88021670 1297 1650 31860873
+17 2526 6058 133658240 2259 2544 32585026
+18 1161 4405 72217873 1211 1332 26479050
+19 981 4466 66232482 678 884 23041051
+20 1125 4888 82270080 1008 1188 29207659
+21 995 4559 73379644 928 1108 30985168
+22 714 4194 68595986 671 832 23270253
+23 563 4355 56791693 574 753 19604015
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 2
+tm 19786 19786 853034426
+ip 9781 81498 906515659
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 1
+-_- 19786 19786 853034426 20160531235327
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 22
+googlebot 3813 364926227 20160531233929 708
+mj12bot 2451 77225857 20160531234031 504
+yandex 1638 56936333 20160531235856 126
+rambler 1366 11702930 20160531172824 0
+bingbot 678 32310840 20160531233846 63
+slurp 660 19648209 20160531220911 132
+crawl 549 26614286 20160524193844 3
+ahrefsbot 255 7153793 20160531222842 36
+baiduspider 228 12195076 20160531161441 3
+bingpreview 207 2453453 20160531004214 0
+no_user_agent 105 3583620 20160530150557 3
+ia_archiver 39 800276 20160531144017 18
+googlebot\-image 3 192262 20160530090952 0
+blexbot 12 225559 20160529161645 9
+dotbot 6 216835 20160527141157 3
+unknown 24 7785 20160531232244 24
+robot 19 419836 20160530134709 0
+cliqzbot 6 90277 20160523085116 3
+favicon 108 5586166 20160531125107 0
+discovery 76 2009576 20160529023141 0
+bot[\s_+:,\.\;\/\\-] 6 50898 20160529035720 3
+ltx71 18 498713 20160531172201 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 11
+css 18598 27764799 0 0
+eot 36 0 0 0
+png 6613 17675029 0 0
+ttf 12 450840 0 0
+woff 375 5288040 0 0
+php 643 9848034 0 0
+html 9094 338512285 0 0
+jpg 27199 430387439 0 0
+js 18267 30832394 0 0
+Unknown 19407 897933663 0 0
+gif 1040 857562 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 18
+linuxandroid 6878 2155
+winlong 205 150
+macosx11 376 162
+winxp 1682 863
+ios_iphone 1183 281
+symbian 6 0
+j2me 527 78
+macosx9 397 396
+win8 64 42
+ios_ipad 143 24
+java 29 27
+linux 629 378
+win7 86608 24337
+macosx10 33 33
+Unknown 1482 330
+win10 392 114
+win8.1 641 188
+macosx8 9 9
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 107
+msie6.0 138 132
+safari7.0.3 117 117
+opera32.0.1948.25 3 3
+chrome50.0.2661.89 884 174
+firefox3.6 237 237
+chrome34.0.1847.137 386 384
+firefox44.0 6 6
+opera17.0.1241.53 16 12
+chrome1617.0.1617.135 9 9
+chrome49.0.2623.110 12 6
+chrome29.0.1547.67 37 21
+sonyericsson 2 0
+chrome28.0.1500.94 310 92
+chrome39.0.2171.95 18 18
+firefox18.0 15 15
+chrome31.0.1650.57 62 18
+opera26.0.1656.60 12 12
+chrome31.0.1650.63 80 9
+firefox34.0 21 21
+chrome43.0.2357.121 2 2
+msie8.0 622 430
+chrome50.0.2661.94 337 198
+msie7.0 228 150
+chrome50.0.2661.102 79484 20149
+firefox23.0 3 3
+firefox40.1 27 27
+firefox41.0 2 2
+chrome49.0.2623.91 37 3
+chrome50.0.2661.86 24 3
+chrome1516.0.1516.129 12 12
+chrome49.0.2623.112 2726 1922
+chrome31.0.1650.59 11 8
+opera12.16 518 75
+firefox40.0 275 99
+cloudflare 96 18
+chrome49.0.2623.105 196 60
+chrome40.0.2214.109 105 21
+chrome1676.0.1676.139 9 9
+firefox21.0 6 6
+firefox29.0 450 450
+firefox38.0 327 51
+firefox7.0.1 3 3
+chrome51.0.2704.63 561 454
+firefox45.0 714 168
+firefox33.0 6 6
+firefox25.0 55 8
+opera12.10 58 6
+mozilla 9 9
+opera21.0.1432.67 146 84
+chrome42.0.2311.135 14 9
+safari8.0.2 6 6
+chrome46.0.2490.86 76 51
+chrome41.0.2228.0 33 33
+chrome44.0.2403.133 96 18
+safari 271 53
+firefox35.0 21 21
+safari7.0 27 15
+chrome34.0.1847.76 161 60
+chrome41.0.2200.0 3 3
+chrome23.0.1271.64 12 12
+chrome1896.0.1896.151 9 9
+chrome38.0.1025.166 2525 1007
+android 1001 251
+chrome47.5.2526.111 48 14
+chrome28.0.1500.95 57 6
+chrome36.0.1985.125 3 3
+chrome12.0.742.112 42 9
+firefox24.0 49 3
+opera9.80 3 3
+chrome33.0.0.0 31 14
+firefox6.0.2 9 9
+chrome47.0.2526.80 13 6
+chrome47.0.2526.111 5 5
+chrome43.0.2357.93 106 18
+safari8.0 138 15
+opera34.0.2036.47 29 3
+msie9.0 290 200
+chrome16.0.912.63 17 9
+Unknown 33 33
+firefox27.0 6 6
+chrome30.0.1599.101 110 27
+chrome47.0.2526.83 12 6
+chrome30.0.0.0 50 9
+chrome8.0.552.224 20 12
+chrome1894.0.1894.151 12 12
+chrome34.0.1847.114 127 29
+samsung 43 0
+chrome1791.0.1791.145 12 12
+safari9.1 246 117
+chrome41.0.2272.118 332 84
+chrome35.0.1916.141 37 3
+firefox46.0 1567 266
+chrome38.0.2125.102 578 131
+nokia 1254 297
+chrome36.0.1985.135 237 159
+msie11.0 271 183
+safari9.0 935 228
+opera36.0.2130.65 133 66
+msie10.0 210 177
+safari5.1 7 3
+chrome39.0.2171.99 18 18
+opera11.62 6 6
+opera11.10 49 6
+firefox 104 9
+opera9.21 257 45
+chrome33.0.1750.517 40 6
+chrome48.0.2564.97 69 30
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 25
+SAMSUNG-GT-C3592/1.0_NetFront/4.2_Profile/MIDP-2.0_Configuration/CLDC-1.1_Google 20160530201007
+NokiaC2-01/5.0_(11.40)_Profile/MIDP-2.1_Configuration/CLDC-1.1_nokiac2-01/UC_Browser8.0.3.107/69/444_UNTRUSTED/1.0 20160517182123
+Nokia6303classic/2.0_(08.90)_Profile/MIDP-2.1_Configuration/CLDC-1.1__UNTRUSTED/1.0 20160529223332
+Nokia206/2.0_(04.51)_Profile/MIDP-2.1_Configuration/CLDC-1.1_nokia206/UC_Browser7.7.1.88/69/400_UNTRUSTED/1.0 20160518143437
+OneBrowser/3.1_(Nokia5130c-2/07.95) 20160521180912
+Mozilla/5.0_(MeeGo;_NokiaN9)_AppleWebKit/534.13_(KHTML,_like_Gecko)_NokiaBrowser/8.5.0_Mobile_Safari/534.13_Google 20160521231434
+Nokia302/5.0_(14.23)_Profile/MIDP-2.1_Configuration/CLDC-1.1__UNTRUSTED/1.0_Google 20160520214347
+NokiaX2-02/2.0_(11.79)_Profile/MIDP-2.1_Configuration/CLDC-1.1_Google 20160517131824
+Mozilla/5.0_(compatible;_CloudFlare-AlwaysOnline/1.0;__http://www.cloudflare.com/always-online)_AppleWebKit/534.34 20160528090016
+SAMSUNG-GT-B5722/B5722XXIK8_NetFront/3.5_Profile/MIDP-2.0_Configuration/CLDC-1.1_Google 20160526205118
+luis@cybo.com 20160525072814
+SAMSUNG-GT-S3850/S3850XEKC5_SHP/VPP/R5_Dolfin/2.0_NexPlayer/3.0_SMM-MMS/1.2.0_profile/MIDP-2.1_configuration/CLDC-1.1_OPN-B_Google 20160518150603
+SAMSUNG-GT-S5230/S523MXEJF1_SHP/VPP/R5_Jasmine/1.0_Nextreaming_SMM-MMS/1.2.0_profile/MIDP-2.1_configuration/CLDC-1.1_Google 20160524080901
+NokiaX2-02/2.0_(11.79)_Profile/MIDP-2.1_Configuration/CLDC-1.1_nokiax2-02/UC_Browser7.8.0.95/69/400_UNTRUSTED/1.0 20160518204027
+Nokia6300/2.0_(07.30)_Profile/MIDP-2.0_Configuration/CLDC-1.1_Google 20160531054604
+Nokia5330-1d/5.0_(06.88)_Profile/MIDP-2.1_Configuration/CLDC-1.1_Mozilla/5.0_AppleWebKit/420__(KHTML,_like_Gecko)_Safari/420_ 20160520020246
+Nokia6300/2.0_(07.00)_Profile/MIDP-2.0_Configuration/CLDC-1.1_Google 20160526155834
+NokiaX2-05/2.0_(08.60a)_Profile/MIDP-2.1_Configuration/CLDC-1.1_Google 20160522072829
+Nokia305/2.0_(07.42)_Profile/MIDP-2.1_Configuration/CLDC-1.1_nokia305/UC_Browser7.8.0.95/70/400_UNTRUSTED/1.0 20160518115814
+SAMSUNG-GT-S5610/S5610XEML1_NetFront/4.1_Profile/MIDP-2.0_Configuration/CLDC-1.1_Google 20160518202752
+NokiaC3-01/5.0_(07.51)_Profile/MIDP-2.1_Configuration/CLDC-1.1_Google 20160531195315
+SAMSUNG-GT-C3322/C3322XXKE3_NetFront/4.1_Profile/MIDP-2.0_Configuration/CLDC-1.1_Google 20160521063727
+Go-http-client/1.1 20160520112830
+SAMSUNG-GT-B2710/B2710XEJJ1_SHP/VPP/R5_Dolfin/2.0_QTV/5.3_SMM-MMS/1.2.0_profile/MIDP-2.1_configuration/CLDC-1.1_OPN-B_Google 20160519205623
+Opera/9.80_(Series_60;_Opera_Mini/7.1.32444/37.8433;_U;_en)_Presto/2.12.423_Version/12.16 20160526115832
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+luis@cybo.com 20160525072814
+Apache-HttpClient/4.5.1_(Java/1.8.0_77) 20160528042249
+Go-http-client/1.1 20160520112830
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 4689 4720
+From1 60 60
+From2 1066 1184
+From3 3058 3058
+From4 20694 92262
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 3
+google 925 1043
+bing 15 15
+yandex 126 126
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 22
+http://217.174.238.28/monitor/ 2586 2586
+http://googleweblight.com 368 368
+http://serdar76.wix.com.usrfiles.com/html/a9ea59_1ff6ed3aa6a855fa8a99c6254c8b9a68.html 27 27
+http://a9ea5934-5c97-4087-8b4b-3822703ea5d3.htmlcomponentservice.com/get_draft 21 21
+http://megaserial.net/737-sverhestestvennoe.html 6 6
+http://ok.ru/guests 3 3
+http://ok.ru 3 3
+http://www.cosmo.ru/sex-love/he_and_you/smotri-no-rukami-ne-trogay-pochemu-muzhchin-otpugivaet-sovershennaya-krasota/ 3 3
+http://www.cosmo.ru/beauty/nails/pedikyur-na-leto-15-neveroyatno-krasivyh-idey/ 3 3
+http://static.usrfiles.com/html/a9ea59_1ff6ed3aa6a855fa8a99c6254c8b9a68.html 3 3
+http://yandex.by/clck/jsredir 2 2
+http://www.cosmo.ru 3 3
+http://www.cosmo.ru/stars/news/25-05-2016/dzhennifer-eniston-ne-gotova-prostit-mat-nahodyashchuyusya-pri-smerti/ 3 3
+http://ashgabad.net/novosti/internet-smi/tm-net/svodki-pogody-turkmengidrometa-teper-dostupny-vo-vsemirnoi-seti.html 3 3
+http://cawater-info.net/water_world/turkmenistan.htm 3 3
+http://www.caspcom.com 3 3
+http://www.cosmo.ru/beauty/makeup/gym-skin-glavnyy-letniy-trend-v-makiyazhe/ 3 3
+http://www.cosmo.ru/sex-love/mens_mind/8-sposobov-dogadatsya-chto-tvoy-paren-tebya-lyubit/ 3 3
+http://ok.ru/messages/408825484476 3 3
+http://hostelshoppe.com/seems%20to%20forget%20about%20privacy%20and%20the%20data%20protection%20act%20and%20could%20be%20prosecuted%20for%20hosting%20spyware%20scripts 3 3
+http://www.cosmo.ru/beauty/makeup/15-samyh-modnyh-ottenkov-pomad-leta-2016-hotim-ih-vse/ 3 3
+http://www.cosmo.ru/fashion/trends/i-snova-telnyashka-25-modnyh-veshchey-v-polosku-dlya-leta/ 3 3
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 63
+howa+maglumaty 86
+howa+maglumaty+mary 19
+www.howa+maglumaty.com 18
+dashoguz+howa 18
+%f2%f3%f0%ea%ec%e5%ed.%f5%ee%e2%e0.%ec%e0%e3%eb%f3%ec%e0%f2%fb 18
+burdalyk 11
+turkmenistanyn+mary+welayat+howa+maglumaty 9
+howa+mary+su+gun 9
+howa+maglumaty+lebap 9
+%f2%f3%f0%ea%ec%e5%ed.%f5%ee%e2%e0.%ec%e0%e3%eb%f3%ec%e0%f2%fb.%f5%e0%e7%e8%f0%ea%e8.%e2%e0%e3%f2%fb 9
+%f5%ee%e2%e0.%ec%e0%e3%eb%f3%ec%e0%f2%fb. 3
+howa+maglumat+asgabat 3
+turkmen%c4%b1stan+howasy 3
+%d0%a5%d0%be%d0%b2%d0%b0+%d0%bc%d0%b0%d1%80%d1%8b 3
+dashoguz.boldumsaz+etraby+howa+maglumaty 6
+howa 6
+ashgabat+howa+maglumaty 3
+howa+maglumaty+da%c5%9foguz 3
+howa+maglumaty+ahal 6
+http+//googleweblight.com/%3flite_url%3dhttp+//www.meteo.gov.tm/tm/weather/forecast%3ff_selectcat%253d%2526button_search%253dsa%2525c3%2525bdlamak%2526cck%253dforecast%2526a_lfilter%253dtm-tm%2526search%253dforecast_view%2526task%253dsearch%26ei%3d88mvgole%26lc%3dru%26s%3d1%26m%3d994%26host%3dwww.google.com%26f%3d1%26q%3dhowa+maglumaty+dashoguz+welayaty+saparmyrat+turkmenbashy+etrap%26ts%3d1463988317%26sig%3dapy536ys057klpbipqfbxpf2kxuzg8mviq 2
+http+%2f%2fwww.mintradefer.gov.tm%2f 6
+howamaglumaty 3
+www.dasoguz.com 3
+mary+welayaty+howa+maglumaty 3
+howa+maglumaty. 6
+http+//googleweblight.com/%3flite_url%3dhttp+//www.meteo.gov.tm/tm/weather/forecast%3fcck%253dforecast%2526search%253dforecast_view%2526task%253dsearch%2526f_selectcat%253d52%26ei%3da332nulp%26lc%3dru-ru%26s%3d1%26m%3d419%26host%3dwww.google.ru%26f%3d1%26gl%3dru%26q%3dhowa+maglumaty.%26ts%3d1463554793%26sig%3dapy536xziswanf2v3ulnbb444u4bbrbccq 3
+howa+maglumaty+dashoguz+welayaty+saparmyrat+turkmenbasy+etrap 2
+howa+maglumaty+balkanabat 3
+howa+maglumaty.com/ 3
+tukmenictan+abhowa+mglmmat 3
+turkmenistan+mary+howa+maglumaty 6
+hova+maglumaty 6
+dasoguzyn+howa+maglumaty 6
+dasoguz+howa+magulamati 3
+http+//googleweblight.com/%3flite_url%3dhttp+//www.meteo.gov.tm/tm/weather/forecast%3fcck%253dforecast%2526search%253dforecast_view%2526task%253dsearch%2526f_selectcat%253d52%26ei%3dxzmstu8x%26lc%3den%26s%3d1%26m%3d812%26host%3dwww.google.com%26f%3d1%26q%3dhowa+maglumaty+lebapda%26ts%3d1463804531%26sig%3dapy536wda-t6jxssjomcswqslvlqw7bodq 3
+howa+maglumaty+dashoguz 3
+dashoguz+howa+maglumati 3
+konurgenc+howa+maglumat 3
+%f5%ee%e2%e0+%ec%e0%e3%eb%f3%ec%e0%f2%fb 3
+howa+maglumaty+t%c3%bcrkmenba%c5%9fy 3
+koneurgench+howa+maglumaty 6
+howa+maglumaty+lebapda 6
+%d0%bf%d1%80%d0%be%d0%b3%d0%bd%d0%be%d0%b7+%d0%bf%d0%be%d0%b3%d0%be%d0%b4%d0%b0+%d0%ba%d0%be%d0%bd%d0%b5%d1%83%d1%80%d0%b3%d0%b5%d0%bd%d1%87 3
+%d0%a5%d0%be%d0%b2%d0%b0+%d0%bc%d0%b0%d0%b3%d0%bb%d1%83%d0%bc%d0%b0%d1%82%d1%8b 3
+mary+howa+maglumaty 3
+mary+howa+maglumat 3
+hepdelik+howa+maglumaty 6
+%d5o%e2a+%eca%e3%eb%f3%eca%f2%fb 3
+http+//googleweblight.com/%3flite_url%3dhttp+//www.meteo.gov.tm/tm/weather/forecast%3ff_selectcat%253d%2526button_search%253dsa%2525c3%2525bdlamak%2526cck%253dforecast%2526a_lfilter%253dtm-tm%2526search%253dforecast_view%2526task%253dsearch%26ei%3dizl_-31i%26lc%3dru-ru%26s%3d1%26m%3d835%26host%3dwww.google.ru%26f%3d1%26gl%3dru%26q%3dhowa+maglumaty+t%25c3%25b9rkmenistan+dasoguz+welayaty+su.turkmenbasy%26ts%3d1463988057%26sig%3dapy536xezuehrdqvrwwy8m8ou0vmm2xkxg 2
+balkanabat+howa+maglumaty 6
+http+//googleweblight.com/%3flite_url%3dhttp+//www.meteo.gov.tm/tm/weather/forecast%3fcck%253dforecast%2526search%253dforecast_view%2526task%253dsearch%2526f_selectcat%253d51%26ei%3da332nulp%26lc%3dru-ru%26s%3d1%26m%3d419%26host%3dwww.google.ru%26f%3d1%26gl%3dru%26q%3dhowa+maglumaty.%26ts%3d1463554793%26sig%3dapy536zhr3oyuong3fy5bmsagxlsx2m7uw 3
+howa+maglumaty+ashgabat 6
+howa+maglumaty+turkmenabat 8
+http+//googleweblight.com/%3flite_url%3dhttp+//www.meteo.gov.tm/tm/weather/forecast%3fcck%253dforecast%2526search%253dforecast_view%2526task%253dsearch%2526f_selectcat%253d52%26ei%3dxgyc00vd%26lc%3den%26s%3d1%26m%3d812%26host%3dwww.google.com%26f%3d1%26q%3dhowa+maglumaty+lebapda%26ts%3d1463934312%26sig%3dapy536yicwx0h3c7qmgtsabi1yavepl3yq 3
+http+//googleweblight.com/%3flite_url%3dhttp+//www.meteo.gov.tm/en/weather/forecast%3fcck%253dforecast%2526search%253dforecast_view%2526task%253dsearch%2526f_selectcat%253d52%26ei%3dbnwx0css%26lc%3dru-ru%26s%3d1%26m%3d419%26host%3dwww.google.ru%26f%3d1%26gl%3dru%26q%3dhowa+maglumaty+lebap%26ts%3d1463555205%26sig%3dapy536wcgrqynhdlwl0iqzjlciez87am_g 3
+www.gov.meteo.tm. 3
+howa+maglumaty+t%c3%b9rkmenistan+dasoguz+welayaty+su.turkmenbasy 2
+http+//googleweblight.com/%3flite_url%3dhttp+//www.meteo.gov.tm/%26ei%3dpi65pmw6%26lc%3den%26s%3d1%26m%3d183%26host%3dwww.google.com%26f%3d1%26q%3dwww.gov.meteo.tm.%26ts%3d1464659095%26sig%3dapy536zjb6bsudhtcr6t1myu8i5_lnvuyq 3
+turkmenistan+howa+maglumaty+mary 3
+ashgabat+howany%c3%b1+%c3%bdagda%c3%bdy 3
+dashoguz+howa+maglumaty 3
+howa.maglumtaty 3
+meteo.gov.tm+kunyaurgench 3
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 86
+howa 273
+maglumaty 235
+mary 55
+dashoguz 31
+http 28
+//googleweblight.com/%3flite_url%3dhttp 22
+www.howa 18
+%f2%f3%f0%ea%ec%e5%ed.%f5%ee%e2%e0.%ec%e0%e3%eb%f3%ec%e0%f2%fb 18
+maglumaty.com 18
+ashgabat 12
+t%25c3%25b9rkmenistan 2
+su 9
+//www.meteo.gov.tm/tm/weather/forecast%3ff_selectcat%253d%2526button_search%253dsa%2525c3%2525bdlamak%2526cck%253dforecast%2526a_lfilter%253dtm-tm%2526search%253dforecast_view%2526task%253dsearch%26ei%3d88mvgole%26lc%3dru%26s%3d1%26m%3d994%26host%3dwww.google.com%26f%3d1%26q%3dhowa 2
+%f5%ee%e2%e0.%ec%e0%e3%eb%f3%ec%e0%f2%fb. 3
+welayat 9
+dasoguz 7
+%d0%ba%d0%be%d0%bd%d0%b5%d1%83%d1%80%d0%b3%d0%b5%d0%bd%d1%87 3
+turkmenbasy 2
+abhowa 3
+burdalyk 11
+//www.meteo.gov.tm/tm/weather/forecast%3ff_selectcat%253d%2526button_search%253dsa%2525c3%2525bdlamak%2526cck%253dforecast%2526a_lfilter%253dtm-tm%2526search%253dforecast_view%2526task%253dsearch%26ei%3dizl_-31i%26lc%3dru-ru%26s%3d1%26m%3d835%26host%3dwww.google.ru%26f%3d1%26gl%3dru%26q%3dhowa 2
+su.turkmenbasy%26ts%3d1463988057%26sig%3dapy536xezuehrdqvrwwy8m8ou0vmm2xkxg 2
+//www.meteo.gov.tm/tm/weather/forecast%3fcck%253dforecast%2526search%253dforecast_view%2526task%253dsearch%2526f_selectcat%253d52%26ei%3da332nulp%26lc%3dru-ru%26s%3d1%26m%3d419%26host%3dwww.google.ru%26f%3d1%26gl%3dru%26q%3dhowa 3
+lebapda 6
+howamaglumaty 3
+www.dasoguz.com 3
+%d5o%e2a 3
+kunyaurgench 3
+maglumaty.com/ 3
+hepdelik 6
+%d0%bf%d0%be%d0%b3%d0%be%d0%b4%d0%b0 3
+howasy 3
+mglmmat 3
+meteo.gov.tm 3
+turkmen%c4%b1stan 3
+dasoguzyn 6
+maglumati 3
+konurgenc 3
+//www.meteo.gov.tm/tm/weather/forecast%3fcck%253dforecast%2526search%253dforecast_view%2526task%253dsearch%2526f_selectcat%253d52%26ei%3dxgyc00vd%26lc%3den%26s%3d1%26m%3d812%26host%3dwww.google.com%26f%3d1%26q%3dhowa 3
+maglumaty.%26ts%3d1463554793%26sig%3dapy536zhr3oyuong3fy5bmsagxlsx2m7uw 3
+lebapda%26ts%3d1463804531%26sig%3dapy536wda-t6jxssjomcswqslvlqw7bodq 3
+www.gov.meteo.tm. 3
+lebap 9
+koneurgench 6
+magulamati 3
+turkmenbashy 2
+etrap 2
+%2f%2fwww.mintradefer.gov.tm%2f 6
+dashoguz.boldumsaz 6
+da%c5%9foguz 3
+tukmenictan 3
+%d0%bc%d0%b0%d0%b3%d0%bb%d1%83%d0%bc%d0%b0%d1%82%d1%8b 3
+asgabat 3
+ahal 6
+maglumaty.%26ts%3d1463554793%26sig%3dapy536xziswanf2v3ulnbb444u4bbrbccq 3
+howany%c3%b1 3
+%d0%bc%d0%b0%d1%80%d1%8b 3
+%eca%e3%eb%f3%eca%f2%fb 3
+//www.meteo.gov.tm/%26ei%3dpi65pmw6%26lc%3den%26s%3d1%26m%3d183%26host%3dwww.google.com%26f%3d1%26q%3dwww.gov.meteo.tm.%26ts%3d1464659095%26sig%3dapy536zjb6bsudhtcr6t1myu8i5_lnvuyq 3
+%ec%e0%e3%eb%f3%ec%e0%f2%fb 3
+//www.meteo.gov.tm/en/weather/forecast%3fcck%253dforecast%2526search%253dforecast_view%2526task%253dsearch%2526f_selectcat%253d52%26ei%3dbnwx0css%26lc%3dru-ru%26s%3d1%26m%3d419%26host%3dwww.google.ru%26f%3d1%26gl%3dru%26q%3dhowa 3
+lebapda%26ts%3d1463934312%26sig%3dapy536yicwx0h3c7qmgtsabi1yavepl3yq 3
+saparmyrat 4
+//www.meteo.gov.tm/tm/weather/forecast%3fcck%253dforecast%2526search%253dforecast_view%2526task%253dsearch%2526f_selectcat%253d52%26ei%3dxzmstu8x%26lc%3den%26s%3d1%26m%3d812%26host%3dwww.google.com%26f%3d1%26q%3dhowa 3
+etrap%26ts%3d1463988317%26sig%3dapy536ys057klpbipqfbxpf2kxuzg8mviq 2
+welayaty 11
+%f5%ee%e2%e0 3
+hova 6
+t%c3%bcrkmenba%c5%9fy 3
+%d0%a5%d0%be%d0%b2%d0%b0 6
+gun 9
+turkmenabat 8
+turkmenistanyn 9
+%d0%bf%d1%80%d0%be%d0%b3%d0%bd%d0%be%d0%b7 3
+%c3%bdagda%c3%bdy 3
+etraby 6
+maglumat 9
+%f2%f3%f0%ea%ec%e5%ed.%f5%ee%e2%e0.%ec%e0%e3%eb%f3%ec%e0%f2%fb.%f5%e0%e7%e8%f0%ea%e8.%e2%e0%e3%f2%fb 9
+//www.meteo.gov.tm/tm/weather/forecast%3fcck%253dforecast%2526search%253dforecast_view%2526task%253dsearch%2526f_selectcat%253d51%26ei%3da332nulp%26lc%3dru-ru%26s%3d1%26m%3d419%26host%3dwww.google.ru%26f%3d1%26gl%3dru%26q%3dhowa 3
+maglumaty. 6
+su.turkmenbasy 2
+t%c3%b9rkmenistan 2
+lebap%26ts%3d1463555205%26sig%3dapy536wcgrqynhdlwl0iqzjlciez87am_g 3
+turkmenistan 9
+balkanabat 9
+howa.maglumtaty 3
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 12
+206 6 57909
+303 18656 0
+400 16 0
+429 97 14420
+401 1 596
+408 2 0
+302 3 86
+499 148 0
+500 135 259736
+508 9 65667
+404 690 607718
+301 13 3143
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 121
+/editor/editor/filemanager/connectors/asp/connector.asp 3 -
+/tm/component/cck/index.php 12 -
+/sites/all/themes/online/images/snow/ru/show/1.png 3 http://meteo.gov.tm/
+/FCKeditor/editor/filemanager/browser/default/connectors/aspx/connector.aspx 3 -
+/sites/all/modules/jquery_update/replace/ui/ui/minified/jquery.ui.core.min.js 3 http://meteo.gov.tm/
+/editor/editor/filemanager/connectors/aspx/connector.aspx 3 -
+/tm/cfg-contactform-2/inc/upload.php 3 -
+/admin/FCKeditor/editor/filemanager/browser/default/connectors/asp/connector.asp 3 -
+/tm/pzhocxazkzvw.html 3 -
+/sites/default/files/styles/flex_slider/public/TB%20banner%20RUS_1.jpg 3 http://meteo.gov.tm/
+/sites/default/files/styles/flex_slider/public/HOSTING.jpg 3 http://meteo.gov.tm/
+/install/index.php.bak 6 -
+/FCKeditor/editor/filemanager/connectors/aspx/connector.aspx 3 -
+/FCKeditor/editor/filemanager/browser/default/connectors/asp/connector.asp 3 -
+/cmyuconfig/AspCms_config.asp 3 -
+/sbqninstall/index.php.bak 3 -
+/plugins/cck_field/calendar/assets/css/theme/shadow-b.png 12 http://meteo.gov.tm/plugins/cck_field/calendar/assets/css/theme/steel/steel.css
+/tm/registration-form 6 -
+/tm/cfg-contactform-8/inc/upload.php 3 -
+/editor/editor/filemanager/browser/default/connectors/asp/connector.asp 3 -
+/sites/default/files/css/css_PHA2-N6O7n7oi-Ouw89MrvTHX88IiJTThOJZBaV8M3U.css 3 http://meteo.gov.tm/
+/sites/all/modules/ctools/js/modal.js 3 http://meteo.gov.tm/
+/xmlrpc.php 3 -
+/tm/cfg-contactform-19/inc/upload.php 3 -
+/sites/default/files/languages/ru_v_S3ORLIW9tFxYp9hnQSS-1qOhnUWjc10O3jotaPeLk.js 3 http://meteo.gov.tm/
+/tm/register 3 -
+/sites/default/files/css/css_PXcPEVqefyEVZituljXznedzRAZ3qWjvVK8aKeWjEk4.css 3 http://meteo.gov.tm/
+/tm/cfg-contactform-11/inc/upload.php 3 -
+/sites/all/modules/views_slideshow_xtra/views_slideshow_xtra_overlay/js/views_slideshow_xtra_overlay.js 3 http://meteo.gov.tm/
+/sites/all/modules/jquery_update/replace/ui/external/jquery.cookie.js 3 http://meteo.gov.tm/
+/admin/FCKeditor/editor/filemanager/connectors/asp/connector.asp 3 -
+/ru/component/cck/index.php 12 -
+/bitrix/admin/index.php 6 -
+/sites/default/files/css/css__LeQxW73LSYscb1O__H6f-j_jdAzhZBaesGL19KEB6U.css 3 http://meteo.gov.tm/
+/sites/default/files/tarif.jpg 3 http://meteo.gov.tm/
+/soft/check/js/jquery.simplemodal.js 3 http://meteo.gov.tm/
+/sites/default/files/styles/flex_slider/public/iPT%20rus_0_1.jpg 3 http://meteo.gov.tm/
+/tm/ 42 -
+/sites/all/modules/modal_forms/js/modal_forms_popup.js 3 http://meteo.gov.tm/
+/tm/pgmbllct.html 3 -
+/tm/cfg-contactform-1/inc/upload.php 3 -
+/tm/cfg-contactform-3/inc/upload.php 3 -
+/apple-touch-icon-120x120.png 3 -
+/tm/components/com_creativecontactform/fileupload/index.php 3 -
+/tm/cfg-contactform-4/inc/upload.php 3 -
+/sites/default/files/wi-fi.jpg 3 http://meteo.gov.tm/
+/tm/qpwoeifchgvbxskfgueoxmzz 3 -
+/sites/all/modules/popup/popup.css 3 http://meteo.gov.tm/
+/tm/cfg-contactform-14/inc/upload.php 3 -
+/tm/blog 3 http://meteo.gov.tm/
+/tm/components/com_sexycontactform/fileupload/index.php 3 -
+/sites/all/themes/online/images/snow/ru/show/4.png 3 http://meteo.gov.tm/
+/tm/register.html 3 -
+/tm/cfg-contactform-17/inc/upload.php 3 -
+/sites/default/files/css/css_YoH0xXT0sT6iPjOHQAcoCxzth4EtDDAJGhlxjO3ks1w.css 3 http://meteo.gov.tm/
+/tm/cfg-contactform-15/inc/upload.php 3 -
+/apple-touch-icon-120x120-precomposed.png 3 -
+/tm/user-profile 12 -
+/tm/nhrautoaivdrwb.html 3 -
+/tm/cfg-contactform-7/inc/upload.php 3 -
+/misc/ajax.js 3 http://meteo.gov.tm/
+/tm/cfg-contactform-13/inc/upload.php 3 -
+/tm/cfg-contactform-12/inc/upload.php 3 -
+/soft/check/css/basic.css 3 http://meteo.gov.tm/
+/tm/users/registration 3 -
+/tm/loggin.html 3 -
+/FCKeditor/editor/filemanager/connectors/asp/connector.asp 3 -
+/images/weather/.jpg 12 http://meteo.gov.tm/ru/weather/forecast
+/sites/all/themes/online/images/snow/ru/show/3.png 3 http://meteo.gov.tm/
+/tm/cfg-contactform-16/inc/upload.php 3 -
+/sites/all/themes/online/images/snow/ru/show/2.png 3 http://meteo.gov.tm/
+/misc/drupal.js 3 http://meteo.gov.tm/
+/sites/default/files/styles/flex_slider/public/WiFi%20bannerRUS_2_0.jpg 3 http://meteo.gov.tm/
+/tm/mail 9 -
+/tm/log-out.html 3 -
+/apple-touch-icon.png 93 -
+/misc/jquery.once.js 3 http://meteo.gov.tm/
+/admin/FCKeditor/editor/filemanager/connectors/aspx/connector.aspx 6 -
+/tm/cfg-contactform-10/inc/upload.php 3 -
+/templates/meteo/font/League_Gothic.eot 27 http://www.meteo.gov.tm/tm/weather/forecast
+/tm/Create-an-account 3 -
+/tm/register-for-access 3 -
+/sites/default/files/styles/flex_slider/public/3%20RUS.jpg 3 http://meteo.gov.tm/
+/tm/* 3 -
+/sites/all/themes/online/images/bg_services.jpg 3 http://meteo.gov.tm/
+/config/AspCms_config.asp 6 -
+/editor/editor/filemanager/browser/default/connectors/aspx/connector.aspx 3 -
+/sites/default/files/css/css_mxAyeYWVOxOVNQrfMOcxud_KcwwngoxDvaof3-tNomE.css 3 http://meteo.gov.tm/
+/images/weather/.png 12 http://meteo.gov.tm/ru/weather/forecast
+/en/ 9 http://www.meteo.gov.tm/
+/soft/check/js/basic.js 3 http://meteo.gov.tm/
+/tm/joomla-extends.php 3 -
+/sites/all/modules/admin_menu/admin_devel/admin_devel.js 3 http://meteo.gov.tm/
+/tm/cfg-contactform-6/inc/upload.php 3 -
+/tm/cfg-contactform-18/inc/upload.php 3 -
+/tm/components/com_hwdvideoshare/assets/uploads/flash/flash_upload.php 3 -
+/tm/user 6 -
+/tm/cfg-contactform-20/inc/upload.php 3 -
+/misc/progress.js 3 http://meteo.gov.tm/
+/sites/all/libraries/flexslider/jquery.flexslider-min.js 3 http://meteo.gov.tm/
+/apple-touch-icon-precomposed.png 90 -
+/sites/all/modules/flexslider/assets/js/flexslider.load.js 3 http://meteo.gov.tm/
+/blog/robots.txt 6 -
+/sites/all/modules/jquery_update/replace/misc/jquery.form.min.js 3 http://meteo.gov.tm/
+/sites/all/modules/popup/popup.js 3 http://meteo.gov.tm/
+/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css 3 http://meteo.gov.tm/
+/admin/FCKeditor/editor/filemanager/browser/default/connectors/aspx/connector.aspx 3 -
+/sites/all/modules/views_slideshow_xtra/views_slideshow_xtra.js 3 http://meteo.gov.tm/
+/tm/guestbook 3 http://meteo.gov.tm/
+/tm/forum 3 http://meteo.gov.tm/
+/tm/vxxuixpyhbwf.html 3 -
+/tm/cfg-contactform-9/inc/upload.php 3 -
+/tm/components/com_hdflvplayer/hdflvplayer/download.php 3 -
+/tm/log-out 3 -
+/sites/all/modules/jquery_update/js/jquery_update.js 3 http://meteo.gov.tm/
+/tm/using-joomla/extensions/components/users-component/registration-form 3 -
+/sites/default/files/int%20cafe200x288_2.jpg 3 http://meteo.gov.tm/
+/media/cck/scripts/images/loading.gif 3 http://meteo.gov.tm/media/cck/scripts/jquery-colorbox/styles/style0/colorbox.css
+/sites/all/modules/jquery_update/replace/jquery/1.8/jquery.min.js 3 http://meteo.gov.tm/
+/tm/profile 3 -
+/tm/cfg-contactform-5/inc/upload.php 3 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 995
+meteo.gov.tm 19786 19786 853034426 20160531235327
+217.174.229.206 5448 7096 217871338 20160531235328
+217.174.233.18 1008 54657 406008003 20160531235248
+173.245.48.92 328 328 9602473 20160522065926
+162.158.92.233 317 496 11207856 20160531180927
+162.158.93.248 281 369 29788984 20160531173026
+217.174.230.107 223 652 6859396 20160527152619
+217.174.232.146 134 1000 8164941 20160531194312
+173.245.48.128 99 100 2693373 20160522073400
+173.245.48.120 90 90 2429005 20160522000044
+188.114.103.205 0 1 19221 
+162.158.56.197 0 5 1789 
+173.245.54.28 0 9 92894 
+108.162.222.152 0 1 0 
+188.114.102.207 1 2 46794 20160528070118
+173.245.48.129 0 6 3209 
+162.158.56.131 0 5 1971 
+173.245.56.71 0 31 0 
+72.13.86.181 2 2 141986 20160525215611
+162.158.92.194 0 85 96774 
+141.101.104.65 0 1 3341 
+217.69.133.169 1 1 70891 20160524144751
+173.245.52.221 0 1 72403 
+162.158.203.154 7 9 178907 20160524024301
+108.162.246.213 0 1 1491 
+108.162.228.179 21 23 274951 20160519093608
+141.101.104.185 1 20 394083 20160527082943
+188.114.102.97 0 1 2248 
+108.162.226.239 0 2 28808 
+108.162.246.212 0 1 5581 
+173.245.48.137 0 7 95957 
+173.245.50.25 1 1 15564 20160526185505
+141.101.99.242 0 15 0 
+188.114.111.190 0 4 24621 
+188.114.110.182 0 1 4360 
+108.162.215.210 0 1 52288 
+188.114.102.206 0 1 1446 
+108.162.222.136 0 2 0 
+162.158.255.52 2 2 41610 20160520203706
+108.162.229.41 0 9 9789 
+108.162.221.93 0 5 20564 
+108.162.222.129 0 1 745 
+162.158.203.146 0 3 22187 
+94.25.228.35 1 47 679627 20160518211518
+162.158.202.141 0 2 4789 
+8.37.233.72 2 10 99817 20160522072129
+162.158.93.243 3 91 201004 20160531091530
+173.245.62.63 0 1 0 
+141.101.98.53 0 1 2988 
+173.245.54.73 0 7 8799 
+162.158.92.212 4 30 345077 20160520092725
+162.158.93.249 1 171 149779 20160520020210
+173.245.56.27 0 43 218458 
+162.158.214.138 0 3 84474 
+141.101.104.133 1 7 79825 20160524180801
+108.162.221.85 3 3 161457 20160531064944
+108.162.228.131 0 12 81127 
+162.158.93.221 0 32 242843 
+108.162.226.221 0 2 51186 
+162.158.203.43 4 4 47400 20160519030718
+141.101.80.173 0 4 75775 
+162.158.202.152 0 1 0 
+162.158.202.143 0 4 10185 
+141.101.104.27 0 1 27361 
+173.245.48.93 0 26 353320 
+141.101.104.51 0 40 8993 
+37.110.70.102 1 24 240779 20160526165129
+141.101.79.37 1 18 77175 20160529150206
+162.158.92.215 0 87 107088 
+108.162.246.221 2 2 469076 20160526115831
+162.158.68.71 0 26 65814 
+217.174.225.42 6 46 759241 20160526224019
+173.245.56.62 5 6 152372 20160526113707
+108.162.218.47 0 1 4360 
+162.158.127.212 0 2 28808 
+162.158.150.147 0 1 21 
+141.101.104.123 0 3 4496 
+188.114.102.211 0 1 4069 
+108.162.229.104 1 1 13530 20160522133804
+108.162.246.207 0 1 19221 
+141.101.80.35 0 2 27213 
+108.162.215.222 0 11 1883 
+217.174.225.70 14 134 2868501 20160527145914
+217.174.232.186 12 97 1405475 20160529233728
+188.114.109.18 0 5 97887 
+108.162.229.50 0 3 2580 
+108.162.245.208 0 4 383828 
+108.162.221.62 4 5 460340 20160528194945
+141.101.99.186 0 5 0 
+141.101.104.145 0 20 0 
+162.158.255.89 0 1 30074 
+162.158.215.198 8 13 687323 20160523001234
+141.101.75.233 58 58 762939 20160519093606
+217.174.230.178 35 208 3122986 20160531003356
+173.245.50.60 0 7 59790 
+162.158.99.182 0 8 42515 
+162.158.98.171 0 6 135457 
+173.245.54.34 1 2 67852 20160520153620
+141.101.99.180 0 10 0 
+141.101.80.28 1 21 64066 20160526131511
+188.114.102.98 0 1 10282 
+162.158.202.142 0 5 11697 
+108.162.226.214 0 1 21029 
+108.162.221.24 0 6 73069 
+162.158.92.223 0 2 104576 
+141.101.104.21 0 3 5976 
+108.162.229.74 0 8 0 
+173.245.62.113 0 1 0 
+108.162.246.167 0 1 1446 
+162.158.92.231 0 230 3730028 
+141.101.104.86 1 5 37895 20160517075814
+162.158.202.149 0 1 55567 
+188.114.103.210 0 3 5088 
+173.245.50.29 0 5 21029 
+108.162.215.212 0 6 27361 
+173.245.48.121 0 7 61752 
+108.162.228.233 0 8 0 
+162.158.151.199 0 2 7140 
+141.101.80.212 0 4 320521 
+173.245.54.56 12 12 1008110 20160528090001
+162.158.68.137 0 5 125911 
+108.162.219.4 0 1 49695 
+23.27.244.53 6 85 1530964 20160520093642
+162.158.215.211 0 2 99996 
+162.158.115.209 0 1 2634 
+108.162.221.8 0 4 76826 
+173.245.48.88 0 6 3656 
+173.245.48.113 0 7 0 
+162.158.127.202 0 4 76284 
+108.162.222.86 0 1 0 
+141.101.81.30 0 4 158642 
+162.158.177.125 2 2 142550 20160521184118
+141.101.99.219 0 5 0 
+162.158.211.75 0 8 203644 
+108.162.229.48 0 7 0 
+188.114.110.184 0 1 49695 
+141.101.98.131 0 5 0 
+162.158.127.201 0 5 103511 
+141.101.81.178 1 45 719146 20160525012103
+162.158.92.213 0 86 52288 
+173.245.54.54 3 63 124469 20160518192646
+141.101.99.182 0 5 0 
+108.162.219.153 0 1 0 
+108.162.245.207 0 2 49716 
+162.158.202.144 6 6 658910 20160530224243
+188.114.111.186 0 5 44725 
+108.162.221.30 0 3 56550 
+162.158.92.219 1 1 79985 20160518213235
+173.245.54.75 0 7 125877 
+188.114.102.208 0 1 28275 
+188.114.103.208 0 1 896 
+173.245.48.89 0 6 935 
+162.158.214.139 0 13 185821 
+162.158.126.138 0 2 82685 
+162.158.211.213 0 6 41146 
+162.158.92.208 0 48 0 
+162.158.68.47 0 4 4496 
+108.162.240.169 0 4 0 
+162.158.115.200 0 1 5042 
+108.162.229.60 0 1 26649 
+141.101.104.172 3 3 47929 20160523181026
+66.249.81.227 3 21 360749 20160526234427
+108.162.238.186 1 1 15564 20160527145017
+188.114.111.181 0 2 14351 
+162.158.93.244 0 3 108628 
+162.158.166.43 0 1 5581 
+89.178.83.45 1 22 242194 20160521143259
+141.101.99.157 0 6 1825 
+162.158.92.229 0 84 182863 
+173.245.48.94 0 8 78023 
+173.245.54.66 0 72 82089 
+108.162.218.185 4 4 291868 20160517225136
+108.162.246.206 0 2 16041 
+173.245.48.136 0 1 2407 
+162.158.214.147 0 3 29658 
+108.162.229.11 0 7 0 
+141.101.81.33 0 2 15535 
+141.101.104.30 0 14 49695 
+162.158.93.204 0 2 122334 
+108.162.226.188 0 3 12342 
+162.158.114.137 0 2 7238 
+108.162.215.211 2 3 457638 20160530092103
+173.245.54.42 0 9 135356 
+173.245.48.67 0 5 1917 
+162.158.93.223 0 104 75775 
+173.245.48.116 0 2 151550 
+10.103.3.66 7 77 1379657 20160529200300
+173.245.52.226 0 1 21 
+84.201.143.41 2 6 223910 20160528095627
+162.158.56.155 0 4 1962 
+141.101.75.227 0 21 86457 
+162.158.202.43 0 1 0 
+95.213.218.106 6 91 1131519 20160518143436
+141.101.104.41 6 30 1094382 20160521185141
+162.158.92.241 0 10 85330 
+108.162.214.20 39 39 557267 20160521051834
+162.158.93.252 0 56 55082 
+66.249.93.122 1 7 223911 20160517225447
+173.245.54.35 0 2 107088 
+173.245.56.29 3 37 93800 20160531154859
+173.245.48.110 0 6 6342 
+108.162.221.25 0 3 3602 
+162.158.92.201 1 89 181084 20160531120834
+95.85.96.76 5 40 725787 20160517224519
+141.101.104.22 0 1 22187 
+108.162.218.191 0 1 5581 
+162.158.255.55 1 1 15555 20160518211021
+162.158.93.218 0 3 206227 
+162.158.203.45 0 2 75775 
+162.158.92.252 0 17 130838 
+108.162.226.220 0 1 7199 
+108.162.229.116 0 1 22187 
+162.158.90.97 5 7 725875 20160518210550
+162.158.151.198 0 2 73754 
+173.245.54.36 0 20 7939 
+217.174.226.98 3 48 393996 20160531182028
+173.245.56.65 0 1 75775 
+108.162.218.65 1 1 15692 20160530183024
+162.158.93.233 21 27 1352560 20160517114828
+108.162.245.165 0 1 0 
+141.101.93.78 0 1 2248 
+173.245.48.74 0 13 4832 
+108.162.219.208 0 1 19221 
+108.162.228.215 0 9 3416 
+176.77.105.119 1 24 255993 20160521143256
+95.213.218.90 16 227 2225737 20160518115813
+176.77.70.144 1 33 536977 20160521124116
+108.162.229.67 0 8 0 
+108.162.218.124 0 2 28473 
+141.101.81.25 0 2 7393 
+108.162.229.8 0 2 2841 
+162.158.167.14 0 1 28275 
+162.158.166.34 0 1 1491 
+141.101.80.219 1 15 70713 20160527055909
+173.245.48.72 0 10 66942 
+162.158.127.211 0 1 95957 
+108.162.212.119 3 3 46692 20160520191324
+108.162.215.216 0 7 896 
+141.101.81.170 0 55 76392 
+108.162.222.73 0 1 0 
+141.101.104.71 1 1 73996 20160518182930
+162.158.93.198 0 2 104576 
+162.158.92.232 0 43 124162 
+108.162.228.155 0 8 30074 
+141.101.80.27 0 9 11125 
+162.158.91.65 11 129 0 20160530150506
+108.162.242.51 0 6 0 
+162.158.167.27 0 1 6342 
+141.101.99.175 1 6 389042 20160519173923
+162.158.161.161 0 1 19221 
+162.158.93.214 0 4 2882 
+141.101.104.113 0 6 4622 
+188.114.103.87 0 1 6342 
+108.162.246.164 0 1 0 
+162.158.167.36 0 1 12002 
+141.101.92.23 0 2 4991 
+108.162.223.137 0 8 37872 
+212.68.41.83 2 101 887817 20160519180420
+141.101.104.226 0 21 12002 
+162.158.203.144 4 4 47400 20160526041546
+141.101.99.248 0 5 0 
+162.158.126.149 0 2 4225 
+108.162.240.187 0 6 0 
+162.158.211.214 0 9 173076 
+162.158.93.235 0 4 123986 
+188.32.182.86 0 3 52632 
+108.162.229.43 0 9 41959 
+108.162.229.40 1 3 74342 20160522133738
+173.245.56.61 0 42 33727 
+162.158.127.200 0 1 5042 
+188.32.128.47 1 23 211955 20160521143259
+109.207.80.226 1 30 529865 20160521143305
+188.114.111.187 0 1 4039 
+108.162.215.201 0 19 180254 
+162.158.93.251 0 88 107088 
+108.162.219.221 0 1 2634 
+162.158.177.59 0 1 0 
+84.201.143.39 3 38 325480 20160526123555
+141.101.99.221 0 1 2248 
+108.162.218.89 0 1 745 
+5.45.255.66 1 5 151532 20160526195102
+217.174.228.180 5 72 1308872 20160520122607
+95.85.96.101 3 42 554177 20160525201553
+141.101.81.34 0 23 15196 
+173.245.54.43 0 4 24291 
+108.162.226.234 0 1 21 
+108.162.228.137 3 4 242855 20160522134008
+108.162.221.91 0 1 75775 
+141.101.105.10 3 4 591863 20160522211017
+173.245.48.95 0 6 49695 
+141.101.104.33 6 27 313487 20160523235648
+141.101.98.126 0 1 1789 
+162.158.215.208 0 13 71698 
+217.174.227.66 5 75 1205656 20160530162909
+173.245.48.134 0 6 1801 
+173.245.56.25 12 12 818329 20160526113553
+10.103.7.199 1 27 405693 20160526113302
+108.162.246.215 12 13 376712 20160526125817
+173.245.54.22 0 1 75775 
+108.162.226.233 0 1 1446 
+141.101.79.31 0 1 2702 
+108.162.215.4 0 5 75775 
+141.101.104.230 0 1 862 
+162.158.166.9 0 1 1446 
+162.158.151.208 0 5 9377 
+108.162.246.222 0 1 896 
+108.162.221.20 0 1 75775 
+141.101.104.46 0 2 79072 
+162.158.167.13 0 3 6661 
+108.162.226.213 0 1 4069 
+141.101.104.121 5 28 266911 20160519125507
+173.245.54.252 0 83 146009 
+72.13.86.183 2 2 142617 20160525142709
+162.158.151.202 0 5 147675 
+108.162.240.103 0 10 95957 
+141.101.81.32 0 17 14341 
+162.158.92.242 0 5 228738 
+173.245.48.82 0 1 2988 
+108.162.218.130 0 1 1446 
+162.158.127.210 0 2 22483 
+162.158.92.209 2 2 86341 20160527102748
+188.114.103.98 0 1 3061 
+162.158.177.77 26 26 539451 20160521180213
+162.158.126.140 0 2 32635 
+188.114.102.93 0 1 2634 
+173.245.54.30 6 39 92441 20160530201035
+79.164.132.175 1 6 56357 20160526165417
+188.114.110.190 0 1 2852 
+162.158.166.31 0 1 745 
+108.162.229.71 0 16 745 
+173.245.48.126 0 13 22444 
+95.28.175.28 0 14 213801 
+173.245.48.115 0 63 92338 
+162.158.127.199 0 2 7027 
+162.158.68.113 0 1 2779 
+108.162.221.84 0 4 8491 
+108.162.220.11 0 6 26683 
+162.158.92.244 14 100 509289 20160528053718
+162.158.92.200 0 7 394414 
+141.101.104.42 1 4 22213 20160517123955
+10.103.34.135 2 2 87317 20160517190739
+173.245.54.68 34 34 2597277 20160531195307
+141.101.98.120 0 10 0 
+141.101.75.191 0 18 0 
+141.101.98.54 1 2 73461 20160520112830
+141.101.104.38 1 2 77652 20160522182710
+162.158.90.65 0 1 52288 
+162.158.91.49 2 213 1077568 20160525011225
+141.101.91.187 0 1 1800 
+108.162.229.59 3 27 964387 20160522144040
+108.162.226.210 0 7 21331 
+173.245.52.225 0 1 3061 
+173.245.54.50 0 50 255181 
+108.162.240.61 0 8 766 
+108.162.226.218 0 1 2634 
+141.101.81.219 0 6 63611 
+195.245.112.158 1 1 71199 20160530172259
+162.158.93.206 0 1 75775 
+108.162.238.83 2 2 31128 20160528042011
+162.158.93.234 0 5 110727 
+108.162.229.66 0 8 0 
+108.162.240.175 0 3 0 
+108.162.245.216 0 1 86457 
+173.245.56.76 0 67 317178 
+108.162.228.11 0 8 0 
+141.101.80.30 1 8 73996 20160525190435
+141.101.104.143 0 18 0 
+173.245.54.29 64 65 3717149 20160530201006
+108.162.222.72 5 5 1573680 20160529183327
+108.162.218.101 0 1 3262 
+141.101.99.99 0 5 0 
+162.158.167.39 0 1 1729 
+185.97.200.31 1 1 31176 20160529042147
+173.245.54.55 1 9 138610 20160530204929
+128.69.224.138 1 26 210222 20160531094040
+108.162.229.5 0 8 0 
+108.162.226.248 0 3 48180 
+173.245.48.73 0 7 2328 
+162.158.92.218 83 84 4997453 20160530211449
+5.45.192.72 2 12 273900 20160523195304
+173.245.48.68 0 6 2431 
+141.101.104.48 5 5 275823 20160521155619
+141.101.81.215 7 9 466922 20160519075025
+173.245.52.155 0 1 896 
+162.158.151.211 0 1 95957 
+141.101.81.171 27 31 1323361 20160526134101
+108.162.229.105 1 1 389042 20160522091731
+162.158.210.217 0 7 60265 
+141.101.81.29 0 2 97962 
+162.158.93.241 0 5 165929 
+162.158.90.81 2 131 219095 20160518113539
+188.114.111.180 0 2 134155 
+193.93.217.57 1 1 73492 20160520105549
+162.158.255.78 4 4 97907 20160520202958
+141.101.99.29 5 10 245696 20160520095355
+162.158.214.149 0 2 4225 
+173.245.48.69 0 6 30074 
+108.162.226.212 0 2 99219 
+142.4.216.172 26 26 821328 20160518091849
+141.101.99.249 0 5 0 
+162.158.93.253 0 4 4814 
+162.158.166.26 0 2 32120 
+84.13.57.207 2 2 146132 20160530231150
+108.162.226.153 0 2 6608 
+141.101.91.235 0 1 5581 
+108.162.221.14 0 5 2982 
+108.162.222.83 0 1 0 
+108.162.229.13 6 16 434247 20160526111725
+108.162.219.7 0 2 71666 
+162.158.203.152 0 1 0 
+162.158.203.155 3 7 35550 20160522164051
+162.158.161.143 0 2 6994 
+173.245.54.77 34 68 7046592 20160531212010
+173.245.48.87 0 1 75775 
+94.102.184.4 2 27 405285 20160522094241
+173.245.56.60 0 1 75775 
+162.158.215.201 0 11 133979 
+162.158.177.191 0 1 0 
+162.158.151.209 0 1 2634 
+162.158.93.220 0 3 198109 
+141.101.80.31 1 5 104131 20160524222011
+173.245.48.133 0 6 41959 
+217.174.228.178 1 1 46546 20160530122237
+162.158.167.22 0 2 4090 
+162.158.92.216 1 5 187411 20160531022850
+108.162.240.163 0 4 0 
+108.162.238.112 2 2 31128 20160530090713
+109.188.127.35 1 1 31161 20160528122103
+173.245.54.31 0 36 10084 
+141.101.91.31 0 1 95957 
+141.101.104.58 0 2 71666 
+108.162.228.191 0 1 2821 
+141.101.99.140 0 5 0 
+108.162.221.27 0 5 670 
+162.158.92.203 0 4 258638 
+141.101.104.84 0 20 0 
+66.249.93.126 2 6 150761 20160517225420
+141.101.80.176 0 3 16174 
+162.158.92.251 5 5 296188 20160531182002
+162.158.93.211 0 2 114101 
+141.101.98.63 0 15 0 
+162.158.93.219 0 12 82488 
+173.245.54.72 0 39 162121 
+162.158.92.224 69 69 5992796 20160531172822
+162.158.115.199 0 1 1446 
+216.163.188.240 1 1 73988 20160520224754
+108.162.246.208 0 1 4360 
+173.245.48.70 0 7 745 
+108.162.220.239 0 10 198438 
+162.158.93.228 0 1 48387 
+173.245.50.61 0 9 150510 
+108.162.215.213 0 7 745 
+108.162.245.222 0 1 1164 
+141.101.104.15 0 20 0 
+173.245.48.81 0 2 4814 
+108.162.229.106 0 1 24198 
+108.162.229.6 0 26 118295 
+141.101.104.40 0 31 1491 
+162.158.92.243 0 1 2779 
+50.203.185.106 1 1 71182 20160525072814
+108.162.221.7 0 4 7258 
+175.210.61.151 3 98 1563134 20160522154050
+162.158.92.217 1 9 192327 20160519081939
+46.183.218.199 1 1 6907 20160526202019
+141.101.99.142 0 5 0 
+162.158.93.216 0 1 50455 
+162.158.92.199 0 3 129506 
+95.85.96.104 4 49 384196 20160518112106
+141.101.75.197 3 26 553295 20160528195537
+108.162.245.186 0 2 32120 
+141.101.80.169 0 1 3656 
+108.162.240.127 0 8 0 
+10.103.45.125 1 35 647852 20160525223258
+162.158.255.114 12 12 306227 20160520205154
+141.101.104.170 0 1 16969 
+66.249.81.230 0 16 150651 
+37.23.190.172 1 1 30097 20160530004923
+141.101.75.18 0 1 75775 
+141.101.104.19 0 22 0 
+162.158.165.17 0 1 28473 
+108.162.229.23 2 3 110735 20160517220223
+188.114.111.182 0 1 896 
+162.158.202.148 0 3 6673 
+212.21.66.6 3 96 1583361 20160519180950
+108.162.240.193 0 8 0 
+162.158.93.242 0 2 130575 
+162.158.165.15 0 2 96739 
+173.245.48.117 1 12 22633 20160530174342
+162.158.99.183 0 4 18555 
+95.213.218.87 1 11 204234 20160518204027
+162.158.210.218 0 3 71465 
+141.101.104.28 4 5 148808 20160531172000
+162.158.99.184 0 6 124277 
+141.101.104.82 0 1 3566 
+108.162.240.121 0 8 0 
+141.101.81.26 2 14 85315 20160528172945
+141.101.80.180 0 3 0 
+173.245.56.63 0 9 12076 
+141.101.80.170 0 1 2407 
+108.162.226.219 0 1 19221 
+173.245.62.106 0 1 0 
+162.158.203.147 0 2 57788 
+173.245.48.127 0 7 51508 
+108.162.221.17 0 5 113761 
+141.101.99.218 0 1 1962 
+173.245.54.51 0 8 86743 
+173.245.48.112 1 1 15564 20160526203934
+162.158.115.210 0 1 19221 
+141.101.104.183 0 2 6356 
+173.245.54.52 0 29 6342 
+162.158.211.211 0 9 27654 
+108.162.219.152 0 1 61752 
+108.162.210.41 9 9 116039 20160528042251
+141.101.99.97 0 8 37872 
+188.114.102.82 0 1 4360 
+141.101.104.44 1 41 64138 20160531235229
+173.245.54.25 0 35 3061 
+108.162.229.121 0 1 8097 
+108.162.242.53 0 4 7199 
+108.162.241.51 2 9 175045 20160527122714
+141.101.104.52 0 1 2431 
+162.158.92.202 4 5 236065 20160519095651
+162.158.166.15 0 1 3262 
+141.101.92.74 0 1 49695 
+108.162.226.241 0 1 3061 
+108.162.229.45 0 9 5694 
+84.201.143.45 7 55 406018 20160531182134
+162.158.92.235 2 109 559524 20160530110943
+162.158.92.228 0 252 81333 
+108.162.229.115 0 2 6775 
+108.162.221.28 0 5 10545 
+173.245.62.107 0 18 30600 
+173.245.48.97 0 7 42058 
+108.162.240.18 1 1 76374 20160526170503
+83.217.26.215 74 325 2631959 20160525111445
+108.162.240.115 0 4 18936 
+108.162.215.221 0 7 7199 
+108.162.221.21 0 2 79116 
+162.158.165.35 0 2 168360 
+66.249.93.66 5 10 314920 20160517225554
+108.162.240.199 1 3 74064 20160520231025
+108.162.229.65 0 1 3341 
+162.158.93.209 0 44 79308 
+141.101.81.173 0 37 177642 
+162.158.211.217 0 2 54536 
+188.114.103.84 0 1 72403 
+173.245.48.140 0 6 12002 
+162.158.126.147 0 1 21 
+162.158.167.33 0 2 1792 
+108.162.219.211 0 1 0 
+37.204.90.210 1 23 174821 20160526165114
+108.162.218.113 0 1 0 
+141.101.99.151 0 1 2580 
+95.85.96.78 20 108 1602312 20160526224202
+141.101.81.212 0 8 20329 
+162.158.56.185 0 8 15964 
+162.158.92.230 0 32 258638 
+173.245.54.46 0 2 236825 
+108.162.246.203 0 1 61752 
+173.245.48.118 1 1 15701 20160525214508
+188.114.111.184 0 1 21 
+162.158.150.148 2 2 48833 20160524150415
+141.101.99.102 1 1 15564 20160518234245
+141.101.80.216 3 13 1295197 20160529231702
+141.101.97.124 1 1 13487 20160518052521
+108.162.229.58 1 17 17427 20160522134111
+173.245.52.222 0 2 2248 
+162.158.126.137 1 3 81234 20160525190559
+217.174.226.105 15 227 3070003 20160523102412
+162.158.93.227 0 3 192388 
+162.158.150.138 0 2 81948 
+141.101.104.101 0 21 0 
+108.162.245.210 0 3 39542 
+178.206.132.156 2 43 656712 20160521175101
+108.162.246.204 0 3 37667 
+141.101.98.135 0 4 0 
+173.245.48.102 0 10 5513 
+141.101.80.174 0 2 52862 
+141.101.93.75 0 1 4039 
+141.101.80.32 0 9 10650 
+173.245.54.61 63 99 3945776 20160531231320
+162.158.90.49 6 13 918795 20160525084357
+162.158.151.210 0 2 22483 
+173.245.54.53 0 19 2248 
+178.140.238.139 0 2 2937 
+162.158.92.198 0 15 148147 
+173.245.52.212 0 1 1729 
+108.162.229.64 0 3 745 
+108.162.222.147 0 1 0 
+162.158.115.211 0 1 4734 
+173.245.56.73 3 44 667205 20160521235205
+162.158.202.42 0 2 0 
+162.158.92.246 0 101 119018 
+141.101.104.139 5 63 325454 20160524223839
+162.158.93.203 0 5 56087 
+173.245.56.69 0 7 55567 
+141.101.79.55 0 2 9424 
+162.158.255.159 6 6 116288 20160520204217
+108.162.229.112 0 3 1801 
+162.158.203.145 1 9 31690 20160517215423
+108.162.241.54 0 4 0 
+173.245.54.41 0 73 102547 
+141.101.104.151 0 19 0 
+217.174.236.10 19 196 3112610 20160526074736
+141.101.91.25 0 1 72403 
+108.162.221.65 0 8 212041 
+188.114.103.94 0 1 21029 
+162.158.151.200 0 1 5042 
+141.101.79.49 0 2 69012 
+141.101.104.62 0 2 66157 
+162.158.93.212 0 1 50455 
+173.245.48.79 0 7 56946 
+141.101.80.171 0 11 97148 
+108.162.246.188 0 1 10282 
+162.158.92.197 5 94 394985 20160529033507
+141.101.104.61 1 2 68401 20160531171927
+108.162.229.107 0 8 0 
+162.158.93.193 16 17 1060996 20160531121056
+173.245.62.98 0 1 0 
+141.101.92.75 0 1 10282 
+162.158.210.215 0 3 96601 
+173.245.54.254 9 43 743164 20160527120034
+173.245.50.63 0 15 184033 
+108.162.221.86 0 6 19221 
+162.158.211.212 0 9 72385 
+173.245.48.104 0 6 926 
+108.162.228.125 0 7 0 
+162.158.68.89 0 1 30074 
+173.245.54.49 0 37 54922 
+176.195.27.238 1 23 204585 20160519023430
+108.162.229.113 0 6 7845 
+162.158.165.26 0 1 2852 
+108.162.229.9 0 1 3223 
+173.245.48.105 0 1 21 
+162.158.93.201 0 2 97014 
+108.162.215.220 0 6 1093 
+141.101.104.47 0 2 2779 
+173.245.54.38 17 72 263057 20160522194409
+162.158.203.42 0 4 88483 
+108.162.229.63 0 37 581698 
+173.245.62.96 1 1 71430 20160522030211
+108.162.226.183 0 1 5581 
+162.158.68.83 0 1 9289 
+162.158.93.199 0 54 94907 
+94.198.141.138 1 1 6920 20160517173158
+108.162.221.6 0 5 9183 
+162.158.92.247 0 2 124162 
+141.101.81.174 0 1 13794 
+162.158.151.212 1 3 70560 20160524150403
+95.85.96.79 2 2 79764 20160517151339
+95.85.96.65 1 1 55091 20160522052948
+217.174.226.3 3 198 3811396 20160529112038
+162.158.92.236 20 88 1314784 20160531200600
+173.245.54.80 6 7 82443 20160521064422
+188.114.102.209 0 1 1729 
+162.158.150.139 0 3 39319 
+5.35.93.15 8 8 567436 20160530050951
+141.101.99.146 0 5 0 
+162.158.210.213 1 9 128513 20160520203639
+173.245.48.91 0 9 72597 
+108.162.240.211 1 3 76373 20160519055048
+141.101.104.10 0 5 0 
+141.101.92.22 0 1 16060 
+162.158.92.210 0 31 51145 
+108.162.228.113 0 1 2407 
+141.101.80.215 1 6 308954 20160529221213
+108.162.221.94 0 2 3942 
+141.101.93.71 0 1 2852 
+141.101.93.22 0 1 21 
+162.158.91.97 1 12 405563 20160520231122
+162.158.151.201 0 3 95925 
+162.158.202.44 0 10 135679 
+188.114.109.193 0 2 6206 
+162.158.93.217 2 35 345486 20160520233452
+162.158.150.149 0 2 4225 
+93.80.170.71 1 26 234750 20160519023432
+173.245.50.62 0 7 108645 
+162.158.215.207 0 1 2988 
+141.101.91.211 0 2 7421 
+178.123.179.186 2 2 37911 20160530020153
+108.162.229.15 3 11 52464 20160521155047
+173.245.54.24 0 1 52288 
+173.245.54.91 1 1 50236 20160528090016
+162.158.167.40 0 1 61752 
+46.242.60.211 1 23 201706 20160519023431
+141.101.99.156 3 7 192416 20160522154202
+173.245.54.47 0 5 89587 
+141.101.104.69 6 6 779703 20160529153856
+108.162.229.72 0 3 56717 
+162.158.215.212 0 4 37121 
+108.162.222.146 0 1 0 
+162.158.127.198 0 3 74499 
+173.245.48.83 0 6 937 
+173.245.54.60 0 42 56671 
+103.7.29.254 2 2 106679 20160521180823
+188.114.109.42 0 2 30202 
+162.158.202.154 0 3 55140 
+108.162.218.172 1 1 79977 20160519165150
+217.174.228.62 11 209 4382183 20160518120721
+173.245.48.90 0 8 56648 
+95.85.96.71 3 28 172181 20160521224142
+108.162.219.225 0 1 21029 
+108.162.245.205 0 1 5042 
+162.158.177.113 0 1 0 
+162.158.92.245 0 1 54800 
+108.162.228.149 0 1 1789 
+108.162.226.223 0 1 5042 
+198.41.243.211 1 1 71015 20160519074603
+162.158.115.212 0 2 28808 
+162.158.126.139 0 5 71439 
+173.245.56.72 1 1 79445 20160518192115
+173.245.54.67 0 75 14618 
+141.101.104.160 0 22 91826 
+162.158.93.246 0 93 261867 
+173.245.48.119 0 6 1249 
+188.114.102.94 1 1 389058 20160528070019
+94.79.49.117 1 1 31169 20160526203650
+5.45.192.69 2 12 329003 20160525073356
+162.158.92.225 0 41 144278 
+141.101.104.187 0 59 943768 
+158.46.23.155 1 1 31160 20160525202101
+108.162.226.206 0 2 75255 
+108.162.240.79 0 4 0 
+141.101.80.220 0 8 0 
+162.158.92.237 0 1 75775 
+81.99.90.77 2 2 146064 20160518224622
+188.255.48.32 1 23 218259 20160519023424
+95.85.96.84 6 13 184080 20160531193645
+141.101.99.23 0 1 1819 
+108.162.229.14 2 2 33089 20160531104339
+141.101.104.80 0 58 274572 
+94.102.184.2 1 31 547906 20160525124005
+173.245.54.39 3 71 57256 20160530091115
+108.162.220.221 0 16 193884 
+108.162.219.8 0 1 4039 
+108.162.222.92 0 2 0 
+162.158.203.153 0 3 3262 
+108.162.218.136 0 1 28275 
+162.158.93.194 3 261 1410726 20160523104047
+141.101.104.100 1 2 16335 20160523145029
+185.100.86.128 2 49 691749 20160519181507
+162.158.98.168 0 1 61752 
+108.162.226.249 3 3 532879 20160522145904
+141.101.104.34 0 18 2702 
+173.245.48.131 1 7 82815 20160524203713
+217.174.234.10 1 31 563777 20160529194539
+108.162.245.213 3 3 118930 20160520192001
+188.114.110.189 0 2 13448 
+173.245.62.111 0 1 0 
+108.162.246.218 0 1 3061 
+162.158.92.240 0 35 149062 
+108.162.228.197 0 8 0 
+162.158.92.221 6 7 301440 20160520101629
+141.101.93.23 0 1 12002 
+162.158.203.141 0 3 745 
+162.158.165.43 0 1 21029 
+173.245.54.63 1 17 275133 20160518192356
+188.191.115.163 2 2 117352 20160521214239
+141.101.104.131 0 17 0 
+217.174.225.86 3 114 1779205 20160528191003
+46.119.58.190 1 1 6907 20160525213023
+162.158.56.221 1 7 111936 20160525204325
+141.101.81.175 0 4 11826 
+103.31.5.59 1 1 70982 20160526115506
+162.158.92.248 0 4 215714 
+173.245.52.206 0 4 13068 
+162.158.92.196 0 30 75775 
+188.114.103.207 0 6 155786 
+108.162.221.98 1 7 84169 20160525203739
+141.101.99.37 2 2 76433 20160523070058
+173.245.52.216 1 1 17488 20160528005119
+108.162.246.210 29 29 906705 20160520192355
+162.158.167.43 0 1 5042 
+108.162.229.110 1 1 54603 20160519125239
+141.101.81.214 0 8 50598 
+162.158.93.237 0 23 89569 
+162.158.114.149 0 1 1164 
+108.162.245.212 0 1 2634 
+108.162.240.97 0 6 0 
+162.158.93.240 0 1 75775 
+77.221.167.140 2 2 144923 20160524160536
+173.245.54.58 33 114 1139195 20160530184209
+108.162.221.23 1 16 38191 20160518173949
+141.101.105.13 0 49 84601 
+173.245.48.61 0 6 3538 
+217.174.232.180 36 264 5623075 20160530073111
+188.114.102.95 0 2 32120 
+176.77.117.111 1 1 19104 20160531094408
+108.162.245.201 0 6 53472 
+141.101.105.16 0 1 9289 
+10.103.39.77 2 19 232981 20160526234454
+108.162.221.97 3 4 268914 20160525174202
+141.101.104.26 2 4 153702 20160518141025
+162.158.92.250 0 4 205638 
+108.162.221.29 0 5 8078 
+173.245.48.64 0 9 4717 
+84.201.143.47 4 61 247917 20160520180935
+162.158.210.75 0 1 1491 
+188.163.110.120 3 3 85363 20160521054505
+141.101.99.178 0 5 0 
+162.158.210.212 1 7 114497 20160519232008
+108.162.229.51 0 1 9289 
+141.101.91.247 0 1 28275 
+141.101.104.50 0 22 85722 
+188.114.110.180 0 1 2634 
+217.174.226.4 33 475 13787631 20160531090829
+162.158.202.153 5 8 170682 20160523134649
+108.162.229.7 1 8 71332 20160522091847
+162.158.214.150 0 1 1825 
+162.158.68.5 0 1 9789 
+217.174.226.96 6 80 1508854 20160521235813
+188.114.109.36 0 1 745 
+141.101.99.243 0 7 12600 
+108.162.221.80 0 2 896 
+173.245.56.64 2 71 122924 20160526012255
+108.162.223.125 0 1 0 
+162.158.93.215 0 58 268207 
+162.158.203.148 1 4 105381 20160517215343
+188.114.103.86 0 1 21 
+162.158.92.205 2 3 476908 20160531231440
+108.162.226.216 0 1 61752 
+141.101.80.175 1 4 190059 20160521144710
+162.158.93.250 0 175 307182 
+141.101.80.25 0 1 12154 
+108.162.228.5 0 8 0 
+141.101.80.218 0 3 60776 
+141.101.81.213 0 1 83893 
+162.158.93.205 0 66 242720 
+141.101.99.244 1 1 15701 20160530112820
+173.245.48.77 0 7 9786 
+162.158.99.179 2 11 569703 20160528182757
+162.158.92.192 0 2 78182 
+162.158.99.180 1 3 410880 20160530184554
+162.158.92.214 0 3 227325 
+173.245.54.44 0 35 21029 
+95.141.228.60 3 78 825786 20160519115527
+162.158.167.15 0 1 4039 
+46.39.49.205 8 336 5251711 20160529015018
+141.101.104.125 0 43 0 
+141.101.104.37 0 1 1106 
+188.114.102.204 0 1 745 
+159.148.186.194 1 1 6907 20160526202017
+108.162.241.52 0 4 1446 
+173.245.48.130 0 32 121411 
+185.87.48.154 42 352 4024310 20160521212139
+108.162.221.13 0 1 3538 
+162.158.46.183 1 1 6932 20160521232851
+162.158.202.150 0 2 3538 
+188.114.111.188 0 6 176257 
+162.158.93.195 1 88 97799 20160529151449
+162.158.93.230 0 4 190967 
+162.158.93.247 2 287 616473 20160521083847
+108.162.220.17 0 2 107855 
+188.114.110.183 0 2 10260 
+188.114.102.90 0 1 2852 
+108.162.246.202 0 2 24291 
+141.101.80.172 0 9 16509 
+108.162.221.64 0 3 14935 
+162.158.115.198 1 3 451555 20160529160456
+173.245.54.70 13 13 782257 20160531064536
+162.158.92.253 2 3 139433 20160521090609
+176.193.100.159 1 23 240318 20160521143256
+141.101.104.154 0 1 3223 
+173.245.54.74 0 30 28275 
+108.162.246.165 0 1 745 
+162.158.203.143 0 3 5581 
+162.158.202.145 0 1 2248 
+108.162.221.10 2 2 13838 20160531154157
+108.162.219.216 0 1 0 
+108.162.215.219 1 7 15564 20160525054758
+162.158.93.224 0 44 289113 
+162.158.202.155 0 4 21029 
+108.162.226.238 0 1 6342 
+109.68.236.46 1 1 30080 20160530092721
+188.114.102.89 0 1 12002 
+162.158.203.44 0 1 0 
+141.101.104.24 0 1 2933 
+162.158.202.45 0 2 0 
+209.159.138.19 2 2 13814 20160524190958
+162.158.166.29 0 1 49695 
+162.158.68.35 2 2 463062 20160531070621
+162.158.210.211 0 4 97134 
+162.158.165.40 0 1 7199 
+162.158.92.227 0 2 151550 
+188.114.102.83 0 2 32512 
+173.245.56.75 0 35 7199 
+162.158.92.195 0 88 155031 
+162.158.211.218 0 5 37398 
+162.158.93.197 56 98 100609 20160531162950
+141.101.99.177 0 5 0 
+141.101.81.176 2 11 489568 20160523101542
+173.245.54.64 0 36 1446 
+188.114.102.205 0 1 1164 
+162.158.56.173 0 7 85064 
+162.158.92.249 0 60 154860 
+162.158.93.208 0 2 107088 
+162.158.203.150 0 1 3341 
+162.158.68.101 0 3 6822 
+162.158.68.59 5 5 284849 20160531073540
+141.101.99.36 0 13 208780 
+141.101.99.245 0 5 0 
+173.245.48.75 25 37 1065193 20160529223328
+188.114.102.96 0 2 12780 
+162.158.93.232 0 2 52288 
+162.158.92.220 0 51 48387 
+108.162.240.205 0 4 7200 
+141.101.104.147 0 5 2580 
+141.101.79.43 0 2 26900 
+162.158.202.146 0 1 2821 
+162.158.150.137 0 1 896 
+178.123.170.28 2 2 61813 20160523061052
+162.158.211.215 0 4 73635 
+108.162.228.119 1 1 389066 20160525170440
+108.162.226.228 0 1 28275 
+108.162.221.88 1 1 14014 20160531064921
+141.101.104.174 2 2 58436 20160527200850
+103.7.30.155 18 59 592808 20160521180912
+162.158.165.12 1 2 391282 20160528005127
+162.158.210.214 1 9 167483 20160519232152
+141.101.81.217 0 7 0 
+61.191.29.214 1 1 19083 20160529050440
+162.158.93.231 0 2 137588 
+108.162.229.61 1 1 16266 20160522134112
+94.102.184.62 1 8 176959 20160517222148
+108.162.245.209 0 1 1729 
+173.245.62.62 0 1 0 
+95.85.96.81 3 3 90746 20160529084152
+173.245.48.85 0 13 92038 
+108.162.226.240 0 1 4039 
+188.114.109.24 3 4 868970 20160526211406
+173.245.48.60 0 6 924 
+108.162.229.46 0 8 0 
+141.101.80.217 0 10 193950 
+162.158.93.196 1 4 174662 20160531213202
+141.101.104.141 4 6 642859 20160519215247
+162.158.161.155 0 1 335 
+95.85.96.77 3 16 108103 20160521214005
+162.158.127.209 1 3 94402 20160525190747
+108.162.221.96 3 3 147991 20160522212654
+95.85.96.82 2 8 85574 20160528214627
+162.158.115.202 0 3 26589 
+162.158.92.234 24 94 1551629 20160531175237
+162.158.93.202 0 148 108907 
+173.245.52.178 0 1 4069 
+162.158.165.32 0 1 1164 
+173.245.48.98 0 5 1801 
+188.114.102.91 0 1 61752 
+141.101.99.100 0 1 1801 
+162.158.93.245 0 87 174617 
+108.162.221.9 0 5 39656 
+108.162.226.208 0 1 86457 
+173.245.54.45 0 4 4814 
+173.245.54.71 1 2 113365 20160519131403
+108.162.229.111 0 9 0 
+162.158.127.208 0 4 7577 
+141.101.98.122 0 1 2248 
+162.158.126.150 1 1 87736 20160525191107
+95.27.42.232 1 23 262680 20160519023431
+141.101.81.216 1 19 102826 20160519073712
+173.245.48.122 1 7 15564 20160526070558
+108.162.221.63 0 4 172914 
+108.162.222.78 0 1 0 
+192.99.3.171 3 3 154419 20160526182127
+173.245.52.219 0 2 6342 
+108.162.240.133 0 4 0 
+108.162.223.59 0 1 0 
+173.245.56.68 0 4 0 
+173.245.52.211 0 1 2852 
+5.45.192.67 4 39 246869 20160525065817
+162.158.92.239 1 1 73996 20160527173708
+141.101.99.95 1 16 87738 20160518152244
+188.114.111.189 0 1 5581 
+162.158.252.227 0 1 22187 
+108.162.226.243 0 2 12747 
+173.245.50.64 0 6 1291 
+162.158.203.142 0 1 0 
+162.158.150.140 0 1 4360 
+108.162.240.145 1 1 70863 20160528005128
+162.158.166.41 0 1 4734 
+37.204.107.40 1 30 551322 20160526165107
+162.158.215.210 0 3 24731 
+108.162.222.88 0 1 0 
+141.101.104.25 0 1 2407 
+108.162.240.151 0 8 40475 
+108.162.223.47 0 1 0 
+108.162.219.217 0 1 10282 
+141.101.80.34 0 7 12740 
+188.114.103.91 0 1 86457 
+162.158.92.204 0 1 46559 
+10.103.33.48 6 45 684996 20160527155512
+108.162.245.203 10 10 281043 20160520192314
+173.245.54.62 0 25 13857 
+162.158.56.209 1 1 15701 20160529125927
+108.162.245.167 0 1 0 
+173.245.48.103 0 13 84820 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 15
+20160517 3007 6834 162702821 85
+20160518 1493 4931 95782429 88
+20160519 2804 8527 163744819 98
+20160520 2728 9911 156881360 95
+20160521 3015 6011 124829271 94
+20160522 1872 6941 120380573 67
+20160523 2254 8536 134424561 58
+20160524 1744 6602 102463530 63
+20160525 1255 4322 76897004 82
+20160526 1058 2898 67416575 85
+20160527 1710 6152 105718626 54
+20160528 1995 9189 139884371 52
+20160529 999 5867 79544202 30
+20160530 1405 5935 95251339 59
+20160531 2228 8628 133628604 61
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 168
+5mn-15mn 51
+2mn-5mn 52
+15mn-30mn 33
+30s-2mn 86
+0s-30s 585
+30mn-1h 96
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 166
+/tm/ 5185 247555196 310 267
+/ru/meteo-data/current-data/form/current_data 4842 216443271 0 0
+/ru/meteo-data/current-data 4737 96753757 0 7
+/tm/weather/forecast 3041 308805604 379 384
+/ru/ 2221 63715378 115 64
+/ru/meteo-data/forecast 1800 34380962 0 1
+/ru/meteo-data/forecast/form/fore 1431 85753847 0 0
+/tm/weather/weather-now 673 46261676 38 46
+/tm/component/cck/ 618 8202160 21 34
+/ru/weather/forecast 528 21667900 8 32
+/tm/component/cck/index.php 3 49279 0 0
+/ru/component/cck/cfg-contactform-3/inc/upload.php 3 41968 0 0
+/dolandyryjy/js/get_image.js.php 6 10932 0 0
+/en/component/users/ 105 1534145 23 23
+/tm/component/users/ 247 3656406 12 15
+/tm/photo-gallery/amyderya 6 106226 0 0
+/en/photo-gallery/60-year 3 71112 0 0
+/tm/photo-gallery 36 626388 1 3
+/media/editors/tinymce/skins/lightgray/fonts/tinymce-small.woff 15 0 0 0
+/dolandyryjy/navigation.php 18 50700 0 0
+/en/photo-gallery/ilchik 3 51736 0 0
+/dolandyryjy/db_import.php 9 45129 0 0
+/tm/component/cck/components/com_hwdvideoshare/assets/uploads/flash/flash_upload.php 3 40813 0 0
+/tm/component/cck/administrator/components/com_civicrm/civicrm/packages/OpenFlashChart/php-ofc-library/ofc_upload_image.php 9 116910 0 0
+/ru/contact 75 1517631 6 6
+/informer/ 54 3948 0 1
+/ru/informers/informers/form/informer 66 2844678 0 0
+/ru/photo-gallery/image 33 2280806 0 0
+/tm/documents/structure 30 529861 2 1
+/tm/component/cck/cfg-contactform-5/inc/upload.php 3 40570 0 0
+/ru/component/cck/administrator/components/com_bt_portfolio/helpers/uploadify/uploadify.php 6 79560 0 0
+/tm/component/cck/cfg-contactform-1/inc/upload.php 3 40570 0 0
+/media/editors/tinymce/skins/lightgray/fonts/tinymce.woff 15 0 0 0
+/tm/component/cck/cfg-contactform-8/inc/upload.php 3 40570 0 0
+/tm/contact 108 2246142 0 0
+/ru 6 438965 2 2
+/ru/component/cck/cfg-contactform-4/inc/upload.php 3 41941 0 0
+/ru/documents/structure 27 515764 4 3
+/tm/component/cck/cfg-contactform-7/inc/upload.php 3 40570 0 0
+/tm/meteo-data/forecast2 12 210223 0 0
+/ru/component/cck/index.php 3 50908 0 0
+/tm/informers/new-informer 9 367202 0 0
+/tm/component/cck/cfg-contactform-9/inc/upload.php 3 40516 0 0
+/ru/component/cck/components/com_hwdvideoshare/assets/uploads/flash/flash_upload.php 3 42184 0 0
+/tm/component/cck/cfg-contactform-11/inc/upload.php 3 40576 0 0
+/en/links 36 1594974 2 1
+/ru/component/cck/cfg-contactform-5/inc/upload.php 3 41968 0 0
+/dolandyryjy/import.php 9 45915 0 0
+/templates/meteo/fonts/fontawesome-webfont.ttf 6 410856 2 2
+/tm/documents/law 57 1991471 1 2
+/administrator/ 15 103706 2 1
+/dolandyryjy/phpmyadmin.css.php 9 192726 0 0
+/tm/component/cck/cfg-contactform-12/inc/upload.php 3 40576 0 0
+/ru/documents/history 47 1413886 7 5
+/templates/meteo/fonts/fontawesome-webfont.woff 321 5135496 55 63
+/en/weather/forecast 30 1063978 2 4
+/ru/component/cck/cfg-contactform-17/inc/upload.php 3 41947 0 0
+/dolandyryjy/js/get_scripts.js.php 21 2419923 0 0
+/dolandyryjy/js/whitelist.php 12 5976 0 0
+/informer/cityname.php 180 8460 2 1
+/tm/photo-gallery/geoktepe 6 100487 1 1
+/ru/photo-gallery/ilchik 3 54529 1 0
+/ru/photo-gallery/geoktepe 6 103418 1 0
+/ru/component/cck/administrator/components/com_jinc/classes/graphics/php-ofc-library/ofc_upload_image.php 3 39836 0 0
+/tm/component/cck/components/com_creativecontactform/fileupload/index.php 3 40702 0 0
+/tm/component/cck/administrator/components/com_maianmedia/utilities/charts/php-ofc-library/ofc_upload_image.php 12 155712 0 0
+/ru/component/cck/cfg-contactform-19/inc/upload.php 3 41947 0 0
+/tm/meteo-data/forecast 63 1131940 0 0
+/tm/meteo-data/forecast2/form/fore 3 201675 0 0
+/ru/weather/weather-now 317 25509883 0 12
+/tm/photo-gallery/ilchik 6 106208 0 0
+/ru/component/cck/administrator/components/com_maianmedia/utilities/charts/php-ofc-library/ofc_upload_image.php 6 79720 0 0
+/ru/sitemap 33 435376 0 2
+/ru/component/cck/cfg-contactform-10/inc/upload.php 3 41974 0 0
+/ru/meteo-data/forecast2 90 1721082 0 0
+/templates/meteo/fonts/fontawesome-webfont.eot 36 0 11 11
+/ru/component/cck/administrator/components/com_jnewsletter/includes/openflashchart/php-ofc-library/ofc_upload_image.php 6 79766 1 0
+/administrator/index.php 99 3570142 6 6
+/tm/weather/forecast2 3 49099 0 0
+/ru/component/cck/administrator/components/com_redmystic/chart/ofc-library/ofc_upload_image.php 3 39796 0 0
+/en/documents/history 15 280460 0 1
+/tm/documents/regulation 63 1602147 3 4
+/ru/component/cck/cfg-contactform-13/inc/upload.php 3 41974 0 0
+/ru/component/cck/components/com_sexycontactform/fileupload/index.php 3 42076 0 0
+/tm/component/cck/components/com_hdflvplayer/hdflvplayer/download.php 3 40765 0 0
+/ru/photo-gallery/amyderya 6 109076 0 1
+/tm 3 214436 0 0
+/tm/component/cck/administrator/components/com_joomleague/assets/classes/open-flash-chart/ofc_upload_image.php 6 77830 0 0
+/ru/component/cck/cfg-contactform-12/inc/upload.php 3 41947 0 0
+/ru/component/cck/cfg-contactform-1/inc/upload.php 3 41968 0 0
+/tm/component/cck/administrator/components/com_bt_portfolio/helpers/uploadify/uploadify.php 6 77678 0 0
+/tm/component/cck/cfg-contactform-18/inc/upload.php 3 40576 0 0
+/ru/component/cck/cfg-contactform-2/inc/upload.php 3 41968 0 0
+/tm/component/cck/cfg-contactform-3/inc/upload.php 3 40570 0 0
+/ru/weather/forecast2 6 217884 0 0
+/ru/meteo-data/forecast/form/forecast 168 7690674 0 0
+/en/documents/law 18 809996 3 3
+/ru/documents/regulation 36 1121492 7 8
+/ru/component/cck/cfg-contactform-20/inc/upload.php 3 41974 0 0
+/en/photo-gallery 9 153570 1 1
+/ru/component/cck/cfg-contactform-6/inc/upload.php 3 41968 0 0
+/en/component/cck/ 165 1937956 0 0
+/ru/component/cck/components/com_creativecontactform/fileupload/index.php 3 42100 0 0
+/en/contact 27 561912 2 2
+/ru/component/cck/cfg-contactform-18/inc/upload.php 3 41974 0 0
+/ru/component/cck/administrator/components/com_joomleague/assets/classes/open-flash-chart/ofc_upload_image.php 6 79712 0 0
+/ru/documents/law 18 826301 3 1
+/tm/component/cck/administrator/components/com_redmystic/chart/ofc-library/ofc_upload_image.php 3 38864 0 0
+/tm/component/cck/cfg-contactform-15/inc/upload.php 3 40576 0 0
+/ru/component/cck/cfg-contactform-14/inc/upload.php 3 41974 0 0
+/ru/component/cck/components/com_hdflvplayer/hdflvplayer/download.php 3 42136 0 0
+/ru/informers 45 752079 0 0
+/en/weather/weather-now 24 1327963 1 0
+/ru/component/cck/cfg-contactform-8/inc/upload.php 3 41968 0 0
+/tm/sitemap 113 1682995 7 7
+/tm/documents/history 36 685653 2 0
+/en/informers 27 419886 0 2
+/ru/informers/informers 81 1736057 0 0
+/tm/component/cck/cfg-contactform-14/inc/upload.php 3 40576 0 0
+/ru/component/cck/cfg-contactform-16/inc/upload.php 3 41947 0 0
+/ru/links 45 1999842 2 5
+/ru/informers/new-informer 15 628506 0 0
+/ru/component/cck/cfg-contactform-7/inc/upload.php 3 41914 0 0
+/tm/component/cck/cfg-contactform-19/inc/upload.php 3 40576 0 0
+/dolandyryjy/index.php 17 128314 0 0
+/ru/component/cck/administrator/components/com_maian15/charts/php-ofc-library/ofc_upload_image.php 3 39772 0 0
+/administrator/components/com_cck/assets/fonts/cck.ttf 6 39984 0 0
+/ru/component/cck/cfg-contactform-9/inc/upload.php 3 41968 0 0
+/tm/links 153 6974750 5 8
+/ru/component/cck/ 279 3902499 4 15
+/en/photo-gallery/geoktepe 3 48916 0 0
+/tm/component/cck/cfg-contactform-6/inc/upload.php 3 40570 0 0
+/en/sitemap 27 353393 0 0
+/tm/meteo-data/forecast/form/fore 27 1809273 0 0
+/tm/component/cck/cfg-contactform-16/inc/upload.php 3 40576 0 0
+/tm/photo-gallery/60-year 6 144958 1 0
+/tm/component/cck/cfg-contactform-20/inc/upload.php 3 40576 0 0
+/ru/component/cck/administrator/components/com_civicrm/civicrm/packages/OpenFlashChart/php-ofc-library/ofc_upload_image.php 6 79816 0 0
+/tm/component/cck/components/com_sexycontactform/fileupload/index.php 3 40678 0 0
+/ru/photo-gallery/60-year 6 147810 0 0
+/ru/component/cck/cfg-contactform-11/inc/upload.php 3 41974 0 0
+/tm/informers 96 1565246 2 2
+/tm/component/cck/cfg-contactform-17/inc/upload.php 3 40576 0 0
+/tm/component/cck/administrator/components/com_jnewsletter/includes/openflashchart/php-ofc-library/ofc_upload_image.php 3 38942 0 0
+/tm/component/cck/administrator/components/com_jinc/classes/graphics/php-ofc-library/ofc_upload_image.php 3 38886 0 0
+/tm/component/cck/cfg-contactform-2/inc/upload.php 3 40543 0 0
+/tm/component/cck/cfg-contactform-10/inc/upload.php 3 40576 0 0
+/en/ 96 6170230 6 3
+/tm/component/cck/administrator/components/com_maian15/charts/php-ofc-library/ofc_upload_image.php 3 38876 0 0
+/tm/component/cck/cfg-contactform-4/inc/upload.php 3 40570 0 0
+/en 3 0 1 0
+/ru/component/users/ 108 1727563 3 4
+/ru/photo-gallery 30 536473 0 0
+/dolandyryjy/db_structure.php 9 68641 0 0
+/tm/meteo-data/current-data 6 111398 0 0
+/en/documents/regulation 12 289430 1 1
+/dolandyryjy/ 1 3098 0 0
+/en/documents/structure 9 142146 1 1
+/ru/meteo-data/forecast2/form/fore 60 3653664 0 0
+/tm/component/cck/cfg-contactform-13/inc/upload.php 3 40549 0 0
+/ru/component/cck/cfg-contactform-15/inc/upload.php 3 41974 0 0
+/media/jui/fonts/IcoMoon.woff 24 152544 0 0
+/dolandyryjy/version_check.php 8 16 0 0
+/dolandyryjy/js/messages.php 12 117248 0 0
+/tm/meteo-data/forecast/form/forecast 45 1931802 0 0
+/en/photo-gallery/amyderya 3 51718 1 0
+END_SIDER

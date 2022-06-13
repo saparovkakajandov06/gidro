@@ -1,0 +1,2835 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202006 will be lost/reset.
+# Last config file used to build this data file was /etc/awstats/awstats.meteo.gov.tm.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 1995                
+POS_TIME 2685                
+POS_VISITOR 69859               
+POS_DAY 113391              
+POS_DOMAIN 3836                
+POS_LOGIN 4076                
+POS_ROBOT 4231                
+POS_WORMS 6551                
+POS_EMAILSENDER 6682                
+POS_EMAILRECEIVER 6825                
+POS_SESSION 114440              
+POS_SIDER 114656              
+POS_FILETYPES 6960                
+POS_DOWNLOADS 7298                
+POS_OS 7346                
+POS_BROWSER 7765                
+POS_SCREENSIZE 13525               
+POS_UNKNOWNREFERER 13599               
+POS_UNKNOWNREFERERBROWSER 16866               
+POS_ORIGIN 17160               
+POS_SEREFERRALS 17319               
+POS_PAGEREFS 17656               
+POS_SEARCHWORDS 23335               
+POS_KEYWORDS 23876               
+POS_MISC 2345                
+POS_ERRORS 24164               
+POS_CLUSTER 3932                
+POS_SIDER_404 24386               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20200701000100 20127 5177827 10609272093989
+FirstTime 20200601000022
+LastTime 20200630235908
+LastUpdate 20200701000101 906 0 905 0 0
+TotalVisits 2167                
+TotalUnique 1039                
+MonthHostsKnown 0                   
+MonthHostsUnknown 1060                
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 31313 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 2884 21380 477578268 2830 4356 74696665
+1 2906 21182 473821959 2938 4413 71782897
+2 4297 22779 523976578 4404 5864 81415356
+3 3916 21473 493851112 4367 5928 101892965
+4 3024 21623 487356398 3502 4983 107915072
+5 7452 25787 625211398 7264 8764 75699841
+6 3085 21821 492892300 3143 4783 91777714
+7 3138 22860 512540854 2817 4257 71044091
+8 7446 27163 652551861 6816 8293 77937652
+9 3972 24202 549586755 3807 5581 95257645
+10 3609 23541 532608714 2972 4567 77577298
+11 7289 28289 666895889 6629 8184 78123439
+12 3403 25206 533910924 3137 4779 76727079
+13 3422 23677 526470849 2800 4467 73844503
+14 6441 26907 621808052 5908 7449 73415370
+15 4154 24493 555203759 3546 5189 76413362
+16 4185 24527 561271693 3295 5050 83587909
+17 7417 27788 664416165 6380 7974 71535605
+18 3814 23459 530187894 3712 5399 85168735
+19 3470 23838 533320526 3272 4974 90896681
+20 7394 26626 642254294 6790 8443 74491845
+21 3403 23051 518225458 3053 4624 74907830
+22 3199 22917 515809372 2896 4382 75303012
+23 3456 22320 503840622 3368 4933 76198488
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 106776 576909 13195591694
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 55
+[\s_+:,\.\;\/\\-]bot 20160 697195456 20200630235830 0
+no_user_agent 8807 596759155 20200630234840 4
+YandexMobileBot/ 2830 52302334 20200630182521 0
+Googlebot/ 2196 106218190 20200630192232 106
+crawl 1723 84775032 20200625212714 32
+YandexBot/ 1445 41268590 20200630234110 648
+bot[\s_+:,\.\;\/\\-] 1391 63328983 20200630202842 126
+AhrefsBot/ 1164 62610333 20200630214314 100
+SemrushBot/ 988 28023464 20200630202608 482
+bingbot/ 825 25737241 20200630231258 26
+Googlebot\-Image/ 2 201527 20200616115707 0
+(firefox/)([0-9]\.|[0-1][0]\.) 34 2545476 20200623203443 2
+oBot/ 16 552628 20200623051814 8
+spider 468 22912052 20200622141135 108
+techbot 6 176492 20200625001644 2
+DotBot/ 472 23482930 20200630190504 56
+bingpreview 437 6913796 20200628014212 0
+ips\-agent 8 305703 20200614024305 2
+Mail\.RU_Bot/ 122 3351323 20200630203638 64
+YandexImages/ 8 736736 20200604073915 0
+Baiduspider/ 4 273024 20200608164507 0
+twitterbot 4 182786 20200602043045 2
+^mozilla\/5\.0$ 2 136157 20200612163647 0
+DomainStatsBot/ 24 1041257 20200601183511 2
+MJ12bot/ 48 1257973 20200629181727 26
+ltx71 23 158998 20200625140855 20
+^Mozilla$ 4 0 20200617190034 0
+Applebot/ 72 1939896 20200628095149 32
+CCBot/ 58 1524722 20200603161513 2
+Python\-urllib/ 6 5190 20200615160205 6
+r6\_ 2 123511 20200629181614 0
+BLEXBot/ 730 42669912 20200630194651 18
+ia_archiver 54 1129958 20200622232303 34
+Wget/ 2 136526 20200606040246 0
+360Spider 52 3546464 20200630125143 0
+smtbot 119 3224265 20200629163613 2
+MSIE[\x20]6 21 1217706 20200629072607 0
+baidu 82 1485206 20200630094018 0
+coccoc 16 702262 20200626074419 8
+unknown 56 48440 20200630074320 56
+TweetmemeBot/ 2 144572 20200603193333 0
+Jigsaw/ 18 343720 20200617014034 0
+Validator\.nu/ 2 137162 20200617014030 0
+qwantify 4 33911 20200629090551 2
+DuckDuckGo\-Favicons\-Bot/ 12 818938 20200623173742 0
+PhantomJS 72 1355494 20200615034121 0
+link 2 1730 20200604192300 2
+python 10 441715 20200630181453 2
+favicon 86 5115913 20200630120704 0
+archive\.org_bot 63 1145672 20200607003201 4
+wordpress 116 2760964 20200628192437 0
+yandex 2 144445 20200604043916 0
+2345Explorer/ 4 163499 20200624130717 0
+netcraft 2 135894 20200601105205 0
+facebookexternalhit/ 8 571172 20200628091544 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 12
+eot 14 464496 0 0
+css 126206 1631931325 0 0
+png 40738 374306573 0 0
+woff 13751 574096758 0 0
+json 6 32208 0 0
+php 36 1696565 0 0
+html 53766 3256696097 0 0
+xml 6 18364 0 0
+js 131819 2075067462 0 0
+jpg 164197 3760743203 0 0
+Unknown 39197 1454327185 0 0
+gif 7173 66211458 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 23
+linuxandroid 22146 3282
+winxp 178 110
+winlong 127 36
+macintosh 4 4
+macosx11 186 96
+ios_iphone 1799 190
+winphone 20 2
+symbian 494 40
+win2003 4 4
+macosx9 22 22
+win8 213 82
+unix 2 2
+linuxubuntu 60 60
+macosx5 4 4
+macosx12 182 182
+linux 492265 58935
+win7 43112 37568
+macosx 261 58
+macosx10 38 38
+Unknown 950 234
+win10 10287 3012
+win8.1 4553 2813
+macosx8 2 2
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 251
+firefox28.0 32 32
+firefox66.0 38 38
+chrome50.0.2661.89 309 40
+chrome45.0.2454.85 1 0
+chrome52.0.2743.116 25 24
+firefox44.0 2 2
+chrome72.0.3626.121 171 18
+firefox54.0 2 2
+chrome74.0.3729.157 2 2
+firefox49.0 10 10
+msie8.0 122 31
+chrome75.0.3770.143 1249 190
+safari7.2.0.0 2 2
+firefox64.0 8 8
+firefox73.0 2 2
+msie7.0 10 10
+chrome27.0.1453.93 2 2
+opera68.0.3618.173 44 2
+chrome67.0.3394.0 2 2
+opera54.0.2952.51 30 30
+chrome56.0.2976.0 4 4
+chrome50.0.2661.86 56 14
+chrome55.0.2909.87 2 2
+chrome31.0.1650.59 7 2
+safari13.0.5 210 9
+chrome77.0.3865.116 43 2
+chrome64.0.3282.137 103 6
+firefox50.0 2 2
+firefox40.0 2 2
+chrome76.0.3809.132 183 35
+firefox77.0 349 52
+chrome50.0.2687.7 6 6
+firefox38.0 14 14
+chrome74.0.3729.136 691 86
+chrome51.0.2704.103 8 4
+firefox68.0 142 14
+safari12.0.2 96 96
+chrome63.0.3239.108 1790 60
+firefox75.0 2 2
+netscape5.0 6 6
+chrome37.0.0.0 6 0
+chrome78.0.3904.96 311 58
+chrome52.0.2743.98 40 2
+chrome64.0.3282.186 6 6
+chrome35.0.1916.47 2 2
+safari12.1.2 424 40
+chrome41.0.2228.0 4 4
+safari 564 56
+chrome83.0.4103.116 7766 6545
+chrome67.0.3396.87 627 167
+safari7.0 56 5
+chrome34.0.1847.76 109 16
+opera52.0.2871.99 2 2
+android 2338 281
+chrome38.0.1025.166 270 16
+chrome75.0.3770.101 42 2
+chrome68.0.3440.75 22 22
+chrome67.0.3396.79 70 70
+firefox52.0 68 8
+opera12.12 78 78
+chrome71.0.3578.98 10 10
+chrome67.0.3381.1 4 4
+firefox63.0 48 48
+chrome61.0.3163.128 69 8
+chrome46.0.2490.76 125 6
+chrome39.0.0.0 106 12
+chrome61.0.3163.100 43 2
+edge16 14 14
+chrome26.0.1410.65 2 2
+chrome68.0.3440.15 2 2
+chrome34.0.1847.116 14 14
+chrome71.0.3578.99 362 81
+msie9.0 55 8
+safari13.0.3 283 20
+chrome66.0.3359.126 109 16
+opera62.0.3331.99 18 18
+chrome27.0.87.90 44 5
+chrome80.0.3987.99 9 2
+chrome39.0.2171.93 50 10
+edge18 232 28
+chrome83.0.4103.96 706 95
+chrome53.0.2785.143 8 8
+opera53.0.2907.99 54 54
+edge02 54 8
+firefox69.0 2 2
+chrome71.0.3542.0 2 2
+opera9.27 2 2
+chrome35.0.1916.141 62 17
+opera42.0.2393.517 242 146
+chrome52.0.2744.82 8 8
+firefox67.0 2 2
+chrome38.0.2125.102 1043 99
+safari4.0.2 2 2
+opera54.0.2952.54 28 28
+chrome74.0.3729.131 6 6
+chrome52.0.2743.82 76 10
+chrome45.0.2454.94 42 2
+nokia 519 46
+opera53.0.2907.106 22 22
+chrome51.0.2704.106 73 4
+chrome68.0.3440.91 113 14
+chrome81.0.4044.138 5178 2076
+chrome79.0.3945.116 135 22
+opera50.0.2762.58 158 30
+opera54.0.2952.64 74 74
+firefox51.0 76 12
+chrome51.0.2712.8 8 8
+chrome70.0.3538.110 1528 464
+chrome69.0.3497.100 214 32
+firefox 2 2
+chrome33.0.1750.517 24 6
+chrome66.0.3359.170 2 2
+chrome67.0.3396.62 22 22
+opera33.0.2002.97426 45 2
+chrome81.0.4044.0 87 4
+chrome75.0.3770.100 470 232
+opera51.0.2830.40 128 20
+firefox57.0 4 4
+chrome61.0.3143.0 6 6
+chrome81.0.4044.117 345 76
+chrome18.0.1025.308 98 6
+firefox26.0 4 4
+chrome18.11.0.102 41 4
+chrome49.0.2623.110 62 2
+sonyericsson 101 10
+chrome80.0.3987.122 75 14
+chrome5.0.375.99 26 26
+chrome36.0.1944.0 16 16
+chrome28.0.1500.94 317 49
+chrome83.0.4103.101 409 52
+chrome81.0.4044.113 39 8
+safari4.0.5 2 2
+chrome81.0.4044.129 11546 11424
+chrome39.0.2171.95 8 8
+chrome43.0.2357.121 47 5
+chrome68.0.3423.2 2 2
+chrome58.0.3029.110 4 4
+chrome83.0.4103.97 30392 28115
+chrome63.0.3239.84 10 8
+opera31.0.1889.174 14 2
+chrome77.0.3865.120 66 2
+chrome64.0.3282.167 151 44
+chrome80.0.3987.87 15 2
+chrome53.0.2785.146 170 22
+firefox43.0 35 2
+firefox40.1 10 10
+chrome79.0.3945.130 8 8
+chrome50.0.2661.102 90 90
+chrome70.0.3538.80 74 8
+firefox41.0 2 2
+chrome79.0.3945.93 304 34
+chrome66.0.3359.181 214 214
+chrome70.0.3538.102 51 8
+chrome71.0.3578.141 356 26
+chrome77.0.3835.0 35 2
+chrome49.0.2623.112 199 56
+edge34 2 2
+chrome65.0.3325.181 273 162
+edge17 6 6
+firefox53.0 27 2
+chrome55.0.2883.87 4 4
+chrome80.0.3987.162 338 38
+chrome58.0.3029.83 46 2
+wap 498 168
+firefox72.0 36 6
+chrome66.0.3359.117 2 2
+chrome81.0.4044.92 76 10
+chrome78.0.3904.62 151 28
+chrome40.0.2214.109 170 52
+chrome68.0.3440.106 460516 28328
+chrome63.0.3239.132 2 2
+chrome77.0.3865.92 376 149
+chrome80.0.3987.116 186 8
+chrome78.0.3904.87 35 4
+chrome81.0.4044.122 252 74
+firefox45.0 6 6
+chrome46.0.2490.80 4 4
+chrome81.0.4044.96 1722 949
+chrome5.0.375.86 41 2
+chrome83.0.4103.83 746 109
+mozilla 26 26
+opera58.2.2878.53403 44 2
+chrome79.0.3945.136 220 16
+chrome30.0.1599.12785 4 4
+safari12.1.1 82 14
+chrome68.0.3440.84 72 72
+chrome42.0.2311.135 2 2
+chrome40.0.2214.89 4 4
+firefox60.0 1218 1218
+opera55.0.2994.59 2 2
+chrome44.0.2403.133 765 166
+chrome73.0.3683.90 12 12
+chrome40.0.2214.93 2 2
+firefox71.0 24 2
+opera57.2.2830.52651 119 6
+chrome66.0.3359.139 4 4
+chrome55.0.2883.91 267 30
+safari12.0 162 28
+opera55.0.2994.44 16 16
+opera52.0.2871.64 8 8
+chrome56.0.2924.87 345 42
+chrome42.0.2311.111 157 26
+chrome57.0.2987.108 317 37
+chrome80.0.3987.106 14 14
+opera10.01 12 12
+chrome81.0.4044.111 208 24
+safari13.0.4 42 2
+chrome40.0.2214.85 3 3
+chrome83.0.4103.61 12360 10287
+chrome43.0.2357.93 374 62
+chrome74.0.3729.169 51 2
+chrome30.0.1599.66 6 6
+chrome33.0.1750.146 4 4
+chrome66.0.3359.158 32 2
+chrome69.0.3451.0 2 2
+chrome75.0.3770.142 189 30
+firefox27.0 4 4
+Unknown 239 36
+chrome72.0.3626.109 2 2
+chrome57.0.2987.137 51 2
+chrome30.0.0.0 150 24
+chrome70.0.3538.77 88 88
+chrome63.0.3239.111 45 2
+opera54.0.2952.71 42 42
+safari10.0 130 10
+chrome73.0.3683.86 8 8
+opera53.0.2907.68 38 38
+chrome41.0.2272.118 610 116
+chrome78.0.3904.108 2518 2136
+chrome69.0.3497.92 73 7
+firefox76.0 459 68
+chrome41.0.2227.0 2 2
+firefox46.0 8 8
+chrome59.0.3071.125 136 20
+chrome80.0.3987.149 314 52
+chrome41.0.2227.1 2 2
+chrome36.0.1985.135 244 108
+msie11.0 351 60
+chrome67.0.3396.99 162 162
+chrome80.0.3987.119 97 16
+safari9.0 49 8
+chrome45.0.2454.101 4 4
+chrome48.0.2564.109 2 2
+chrome44.0.2403.119 195 30
+msie10.0 44 4
+chrome80.0.3987.132 961 580
+safari5.1 8 8
+chrome83.0.4103.106 10415 8278
+chrome79.0 8 8
+chrome65.0.3325.146 16 16
+chrome48.0.2564.97 2 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 17
+HONGYU61M_11C_HW_(MRE/3.1.00(64);MAUI/SHX_V2806_OALE_Q1_V1.00_20190904;BDATE/2019/09/04_10:32;LCD/240320;CHIP/MT6261;KEY/Normal;TOUCH/0;CAMERA/1;SENSOR/0;DEV/HONGYU61M_11C_HW;WAP_Browser/MAUI_();GMOBI/001;MBOUNCE/002;MOMAGIC/003;INDEX/004;SPICEI2I/005;GAMELOFT/006;MOBIM/007)_C620_SHX_V2806_OALE_Q1_V1.00_20190904_Release/2019.09.04_WAP_Browser/MAUI_Profile/__Q03C1-2.40_ru-RU 20200601090816
+Mozilla/5.0_(compatible;_evc-batch/2.0) 20200628112151
+HONGYU61M_11C_HW_(MRE/3.1.00(64);MAUI/_SHX_V2412_MAXFONE_V16_V1_00_20191230;BDATE/2019/12/30_16:18;LCD/240320;CHIP/MT6261;KEY/Normal;TOUCH/0;CAMERA/1;SENSOR/0;DEV/HONGYU61M_11C_HW;WAP_Browser/MAUI_();GMOBI/001;MBOUNCE/002;MOMAGIC/003;INDEX/004;SPICEI2I/005;GAMELOFT/006;MOBI)_C620C_SHX_V2412_MAXFONE_V16_V1_00_20191230_Release/2019.12.30_WAP_Browser/MAUI_Profile/__Q03C1-2.40_ru-RU 20200630205627
+HONGYU61M_11C_HW_(MRE/3.1.00(64);MAUI/SHX_V1804_MAXFONE_V5_V3.00_20190909;BDATE/2019/09/09_09:08;LCD/128160;CHIP/MT6261;KEY/Normal;TOUCH/0;CAMERA/1;SENSOR/0;DEV/HONGYU61M_11C_HW;WAP_Browser/MAUI_();GMOBI/001;MBOUNCE/002;MOMAGIC/003;INDEX/004;SPICEI2I/005;GAMELOFT/006;MOBIM/)_C136_SHX_V1804_MAXFONE_V5_V3.00_20190909_Release/2019.09.09_WAP_Browser/MAUI_Profile/__Q03C1-2.40_ru-RU 20200622133549
+NokiaC1-01/2.0_(05.45)_Profile/MIDP-2.1_Configuration/CLDC-1.1 20200602235758
+Mozilla/5.0_zgrab/0.x 20200606050447
+HONGYU61M_11C_HW_(MRE/3.1.00(64);MAUI/SHX_V1803_MAXFONE_M28_V3.0_20190305;BDATE/2019/03/05_13:37;LCD/128160;CHIP/MT6261;KEY/Normal;TOUCH/0;CAMERA/1;SENSOR/0;DEV/HONGYU61M_11C_HW;WAP_Browser/MAUI_();GMOBI/001;MBOUNCE/002;MOMAGIC/003;INDEX/004;SPICEI2I/005;GAMELOFT/006;MOBIM/)_C118_SHX_V1803_MAXFONE_M28_V3.0_20190305_Release/2019.03.05_WAP_Browser/MAUI_Profile/__Q03C1-2.40_ru-RU 20200624214848
+FLYCOM61D_11C_HW_(!)_M116CD_V2401_Release/2019.04.08_WAP_Browser/MAUI_Profile/__Q03C1-2.40_ru-RU 20200606092706
+Nokia7230/5.0_(09.83)_Profile/MIDP-2.1_Configuration/CLDC-1.1_Mozilla/5.0_AppleWebKit/420__(KHTML,_like_Gecko)_Safari/420_ 20200623195741
+Opera/9.27 20200620062849
+HONGYU61M_11C_HW_(MRE/3.1.00(64);MAUI/SHX_V1803_MAXFONE_M28_V3.0_20181019;BDATE/2018/10/19_09:26;LCD/128160;CHIP/MT6261;KEY/Normal;TOUCH/0;CAMERA/1;SENSOR/0;DEV/HONGYU61M_11C_HW;WAP_Browser/MAUI_();GMOBI/001;MBOUNCE/002;MOMAGIC/003;INDEX/004;SPICEI2I/005;GAMELOFT/006;MOBIM/)_C118_SHX_V1803_MAXFONE_M28_V3.0_20181019_Release/2018.10.19_WAP_Browser/MAUI_Profile/__Q03C1-2.40_ru-RU 20200601105614
+HONGYU61M_11C_HW_(MRE/3.1.00(64);MAUI/SHX_V1803_MAXFONE_M28_V3.0_20190403;BDATE/2019/04/03_09:13;LCD/128160;CHIP/MT6261;KEY/Normal;TOUCH/0;CAMERA/1;SENSOR/0;DEV/HONGYU61M_11C_HW;WAP_Browser/MAUI_();GMOBI/001;MBOUNCE/002;MOMAGIC/003;INDEX/004;SPICEI2I/005;GAMELOFT/006;MOBIM/)_C118_SHX_V1803_MAXFONE_M28_V3.0_20190403_Release/2019.04.03_WAP_Browser/MAUI_Profile/__Q03C1-2.40_ru-RU 20200613234132
+node-fetch/1.0_(_https://github.com/bitinn/node-fetch) 20200620182927
+Dorado_WAP-Browser/1.0.0 20200626174508
+Go-http-client/1.1 20200630074322
+FLYCOM61D_11C_HW_(()_M116CD_V2401_Release/2019.04.08_WAP_Browser/MAUI_Profile/__Q03C1-2.40_ru-RU 20200603145657
+UCWEB/2.0_(MIDP-2.0;_U;_Adr_4.2.2;_ru;_U51GT-S)_U2/1.0.0_UCBrowser/9.5.1.494_U2/1.0.0_Mobile 20200626132931
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+node-fetch/1.0_(_https://github.com/bitinn/node-fetch) 20200620182927
+Go-http-client/1.1 20200630074322
+UCWEB/2.0_(MIDP-2.0;_U;_Adr_4.2.2;_ru;_U51GT-S)_U2/1.0.0_UCBrowser/9.5.1.494_U2/1.0.0_Mobile 20200626132931
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 48630 49501
+From1 44 44
+From2 1314 3141
+From3 298 298
+From4 56490 523925
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 11
+www_google_kz 2 2
+bing 9 9
+yandexcom 22 22
+www_google_ru 18 18
+www_google_nl 2 2
+baidu 2 2
+www_google_tm 16 16
+www_google_com_tr 12 12
+www_google_com 1123 2950
+go_mail_ru 2 2
+yandexru 106 106
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 131
+http://site.ru 26 26
+http://www.caspcom.com 6 6
+http://www.cawater-info.net/water_world/turkmenistan_e.htm 4 4
+http://www.psk-opticom.ru/wp-login.php 4 4
+http://myfusinagirl.com/wp-login.php 4 4
+http://rewinding-machines.com/wp-login.php 4 4
+http://ohochiangmai.com/administrator/ 2 2
+http://www.os-nhribara-velikagorica.skole.hr/administrator/ 2 2
+http://joyfulbirthdoula.com/wp-login.php 2 2
+https://maverix.hu/administrator/ 2 2
+https://panpapua.com/wp-login.php 2 2
+https://de-strafrechtadvocaat.nl/wp-login.php 2 2
+https://www.aps-esy.com/administrator/ 2 2
+http://specmetall.su/administrator/ 2 2
+http://nxthealth.org/wp-login.php 2 2
+http://prolocovivacitta.it/administrator/ 2 2
+https://cadsecurities.com/wp-login.php 2 2
+http://alcoinstallations.com/wp-login.php 2 2
+http://unitedinventornetwork.com/wp-login.php 2 2
+http://parenteauseaves.com/user/login 2 2
+http://masadisch.ir/wp-login.php 2 2
+http://dardesantis.com/wp-login.php 2 2
+http://venice2000.org/wp-login.php 2 2
+http://ioriente.edu.mx/administrator/ 2 2
+http://bodensee-brennerei.de/administrator/ 2 2
+http://www.antonioambrosi.com/wp-login.php 2 2
+https://thriveyoga.com/wp-login.php 2 2
+https://cg-systems.hu/wp-login.php 2 2
+http://caspcom.com/index.php 2 2
+https://stefania-mueller.ch/administrator/ 2 2
+http://mauternburg.at/administrator/ 2 2
+https://www.gospelofgod.church/wp-login.php 2 2
+https://pegau-touristik.info/wp-login.php 2 2
+http://ericcorsius.com/wp-login.php 2 2
+https://bildungswerk.de/wp-login.php 2 2
+http://emacau.co/wp-login.php 2 2
+https://sprachenschule-ole.de/administrator/ 2 2
+http://www.compucom-solutions.com/wp-login.php 2 2
+http://myplanetconcepts.com/user/ 2 2
+http://www.junctiontv.com/wp-login.php 2 2
+http://www.moodernists.com/wp-login.php 2 2
+https://farmaciapalaciodeportes.es/wp-login.php 2 2
+https://blackdogpottery.net/wp-login.php 2 2
+http://friedrichstreich.com/administrator/ 2 2
+http://gundogar-news.com/index.php 2 2
+http://shorevelocity.net/wp-login.php 2 2
+https://gonzalocastro.cl/wp-login.php 2 2
+https://pearson-airport-taxi.com/wp-login.php 2 2
+https://www.krizalys.com/user/ 2 2
+https://combisteamer.co.uk/administrator/ 2 2
+https://prip2.lt/wp-login.php 2 2
+https://mihibw.org/wp-login.php 2 2
+http://onlineclassescentral.com/wp-login.php 2 2
+http://firrin.com/administrator/ 2 2
+https://crystalsmanyreviewers.com/wp-login.php 2 2
+https://casasapunto.com/wp-login.php 2 2
+https://www.winwithyoung.com/wp-login.php 2 2
+https://childrencamp.ru/wp-login.php 2 2
+http://lhsys.eu/user/ 2 2
+https://bottegadelfabbrofirenze.com/wp-login.php 2 2
+https://brevis.ai/wp-login.php 2 2
+http://stevenglazier.com/administrator/ 2 2
+https://bsetmet.com/wp-login.php 2 2
+http://www.bokos.net/administrator/ 2 2
+https://fahrschule-burkhart.de/administrator/ 2 2
+http://seanandings.com/wp-login.php 2 2
+https://www.jumlaafrica.com/wp-login.php 2 2
+https://ibenetos.com/wp-login.php 2 2
+http://simplelifeinhawaii.com/wp-login.php 2 2
+http://dvavia.ru/wp-login.php 2 2
+http://scgworld.com/user/ 2 2
+http://dermatouch.gr/wp-login.php 2 2
+https://guso.be/wp-login.php 2 2
+https://www.sparesinmotion.com/user/ 2 2
+http://puretremblant.ca/wp-login.php 2 2
+http://clementmarchand.com/wp-login.php 2 2
+http://mmtplonline.com/blog/wp-login.php 2 2
+http://s31.pl/wp-login.php 2 2
+https://missalis.com/wp-login.php 2 2
+http://seguridad.guanajuato.gob.mx/wp-login.php 2 2
+http://itpsysteme.de/administrator/ 2 2
+https://siteverifier.ru/www.meteo.gov.tm 2 2
+http://nortech-weld.com.pl/administrator/ 2 2
+http://rsv4aprilia.com/wp-login.php 2 2
+https://wptop.nl/wp-login.php 2 2
+http://fotoboothdunia.com/wp-login.php 2 2
+https://www.click2help.at/wp-login.php 2 2
+http://www.gorou.net/wp-login.php 2 2
+http://draftcross.com/wp-login.php 2 2
+http://ferreteriaelfaro.es/wp-login.php 2 2
+http://butterandair.com/wp-login.php 2 2
+http://otedantalya.com/wp-login.php 2 2
+http://www.salvodj.ch/administrator/ 2 2
+http://theremreport.net/wp-login.php 2 2
+https://drmarkrackley.com/wp-login.php 2 2
+http://autohaus-rauch.de/wp-login.php 2 2
+http://chateau-malherbe.com/wp-login.php 2 2
+https://therichside.com/wp-login.php 2 2
+https://habb.kz/wp-login.php 2 2
+http://antje-fischer.com/administrator/ 2 2
+http://kanarske-ostrovy-web.cz/user/ 2 2
+https://vmedia7.com/wp-login.php 2 2
+http://helenleibman.xyz/wp-login.php 2 2
+https://makebettershirts.com/wp-login.php 2 2
+http://www.carismanagement.com/wp-login.php 2 2
+https://cafeagile.com/wp-login.php 2 2
+http://jasina.com.sg/wp-login.php 2 2
+https://partnersforsight.org/wp-login.php 2 2
+https://gfv-ev.de/administrator/ 2 2
+https://www.waschmaschinen-vorschaltgeraet.de/wp-login.php 2 2
+https://bb-warmteservice.nl/wp-login.php 2 2
+https://forum-cosmetic.ru/wp-login.php 2 2
+http://eci-llc.com/wp-login.php 2 2
+http://flyfishing-16.info/wp-login.php 2 2
+http://www.rhaken.net/wp-login.php 2 2
+https://www.gymmet.nu/wp-login.php 2 2
+http://svarshik.kz/administrator/ 2 2
+https://gentlyusedtools.com/wp-login.php 2 2
+http://txmsports.com/administrator/ 2 2
+http://travaux-publics-de-bretagne.fr/user/ 2 2
+https://www.rkvveli.nl/wp-login.php 2 2
+https://sascocyberventure.com/wp-login.php 2 2
+http://msoft.co.uk/wp-login.php 2 2
+https://americannaturalgas.com/wp-login.php 2 2
+http://orthocentrum-saale.biz/administrator/ 2 2
+https://velocitaracing.com/wp-login.php 2 2
+https://www.dittapisciotta.it/wp-login.php 2 2
+https://wnyautosales.com/wp-login.php 2 2
+http://vipservis27.com/administrator/ 2 2
+https://veganheaven.pl/wp-login.php 2 2
+http://finalpointdesign.co.uk/administrator/ 2 2
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 15
+howa+maglumaty 9
+anyk+howa+maglumat+gubadag 8
+howa+bayramaly+skacat 7
+howa+maglumaty+hepdelik 4
+howa+maglumaty+mary+2020 4
+howa+maglumaty+yel+yagdyy 2
+a%c5%9fgabatda+howa+maglumaty 2
+lebap+howa+durumu 2
+babarap+howa+maglumaty 2
+howa+maglumaty+mary 2
+turkmenistan+4+may+howa+maglumaty 2
+mary+howa+su+gunki 2
+mary+howa+maglumaty+28 2
+howa+maglumaty+s+turkmenba%bay+etraby 2
+howa+maglumat 2
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 25
+howa 52
+maglumaty 31
+maglumat 10
+mary 10
+anyk 8
+gubadag 8
+bayramaly 7
+skacat 7
+2020 4
+hepdelik 4
+turkmenba%bay 2
+su 2
+yagdyy 2
+gunki 2
+babarap 2
+a%c5%9fgabatda 2
+etraby 2
+durumu 2
+28 2
+may 2
+s 2
+lebap 2
+4 2
+yel 2
+turkmenistan 2
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 11
+403 10 13538
+206 189 2989269
+303 28988 72495
+400 31 2511
+429 85 17797
+408 11 0
+302 76 160
+499 204 0
+500 316 715
+301 27631 69314
+404 3690 4927422
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 892
+/tm/modules/mod_footer/tmpl/index.php 4 http://site.ru
+/tm/layouts/joomla/system/mark.php 6 http://site.ru
+/tm/oude/wp-content/themes/jasmijnbul/single-help.php 2 http://site.ru
+/tm/plugins/system/jsnframework/libraries/3rd-party/zipfile/htaccess.php 6 http://site.ru
+/en/component/users/ 2 http://www.meteo.gov.tm/
+/tm/templates/ambient/css/ionicons/5e39617b826c6.php 6 http://site.ru
+/tm/d3bio9.php 2 http://site.ru
+/tm/k.php 2 http://site.ru
+/templates/beez3/simple.php5.suspected 4 http://site.ru
+/tm/administrator/components/com_admin/controllers/theme.php 4 http://site.ru
+/tm/qxonetrmsq.php 2 http://site.ru
+/tm/index.php/component/users 4 -
+/tm/new 4 http://meteo.gov.tm/new/
+/modules/mod_tags_popular/data.php.suspected 4 http://site.ru
+/tm/modules/mod_latestdiscussion/tmpl/ix.php.PhP 4 http://site.ru
+/plugins/jquery.filer/php/readme.txt 4 http://www.meteo.gov.tm/plugins/jquery.filer/php/readme.txt
+/tm/errlog.php 4 http://site.ru
+/tm//sito/wp-includes/wlwmanifest.xml 26 -
+/tm/test/maint/popup-pomo.php 2 http://site.ru
+/blackhat.php.suspected 4 http://site.ru
+/tm//wp2/wp-includes/wlwmanifest.xml 28 -
+/tm/modules/mod_simplefileuploadv1.3/elements/udd.php 2 -
+/tm/administrator/components/com_xcloner-backupandrestore/index2.php 2 -
+/tm/libraries/cms/language/wp-side.php 4 http://site.ru
+/olad.php.suspected 2 http://site.ru
+/tm/images/theme.php 4 http://site.ru
+/tm/paypal/popup-pomo.php 4 http://site.ru
+/tm/media/media.php 2 http://site.ru
+/tm/action.php 2 http://site.ru
+/tm/components/com_banners/models/images.php 2 http://site.ru
+/tm/shx.php 2 http://site.ru
+/tm/xml.php 4 http://site.ru
+/tm/components/com_jce/editor/tiny_mce/plugins/print/htaccess.php 2 http://site.ru
+/tm/old 4 http://meteo.gov.tm/old/
+/tm/so.php 4 http://site.ru
+/tm/log/content-post.php 2 http://site.ru
+/tm/wp-contnt/wp-south.php 6 http://site.ru
+/tm/administrator/components/com_imageshow/language/site/ru-RU/htaccess.php 4 http://site.ru
+/public/hebadge_pagebadge/00/.h..php.suspected 4 http://site.ru
+/administrator/components/com_redmystic/chart/ofc-library/ofc_upload_image.php 4 -
+/tm/old/aaction.php 2 http://site.ru
+/tm/paypal/wp-cofigs.php 2 http://site.ru
+/modules/mod_roknavmenu/themes/default/index.php.suspected 2 http://site.ru
+/tm/xmlrpc/includes/includes.php 2 http://site.ru
+/tm//web/wp-includes/wlwmanifest.xml 28 -
+/404.php.suspected 2 http://site.ru
+/tm/seomarket.php 2 http://site.ru
+/tm/roots.php 4 http://site.ru
+/tm/homefeatured/popup-pomo.php 6 http://site.ru
+/tm/includes/404.php 2 http://site.ru
+/tm/fprww1.php 2 http://site.ru
+/tm/plugins/authentication/twatg.php 2 http://site.ru
+//backup/vendor/phpunit/phpunit/phpunit.xsd 2 -
+/tm/parseopml/wp-cofigs.php 2 http://site.ru
+//api/vendor/phpunit/phpunit/phpunit.xsd 2 -
+/tm/wp/shx.php 2 http://site.ru
+/default.php.suspected 2 http://site.ru
+/tm/modules/mod_system/mod_system.php 4 http://site.ru
+/tm//wp1/wp-includes/wlwmanifest.xml 26 -
+/tm/options/content-post.php 2 http://site.ru
+/tm/t9lbiw.php 4 http://site.ru
+/tm/bak 4 http://meteo.gov.tm/bak/
+/tm/League_Gothic.otf 2 http://www.meteo.gov.tm/tm/
+/tm/modules/mod_araticlws/mod_atlastic.php 2 http://site.ru
+/tm/layouts/joomla/edit/dz.php 2 http://site.ru
+/tm/.LICENCES.php 4 http://site.ru
+/tm/administrator/components/com_mapyandex/assets/images/deficon/htaccess.php 2 http://site.ru
+/tm/libraries/phpinputfilter/feal.php 4 http://site.ru
+/tm/wp-mains.php 8 http://site.ru
+/tm//wp/wp-includes/wlwmanifest.xml 28 -
+/tm/administrator/modules/mod_multilangstatus/language/en-GB/content-post.php 2 http://site.ru
+//administrator/components/com_civicrm/civicrm/packages/OpenFlashChart/php-ofc-library/ofc_upload_image.php 2 -
+/tm/libraries/legacy/error/content-post.php 4 http://site.ru
+/tm/templates/atomic/css/blueprint/src/images.php 2 http://site.ru
+/libraries/joomla/template/content-post.php.suspected 4 http://site.ru
+/tm/widgets/popup-pomo.php 2 http://site.ru
+/tm/Shell.php 2 http://site.ru
+/tm/images/ddd.php 4 http://site.ru
+/tm//test/wp-includes/wlwmanifest.xml 28 -
+/tm/media/system/media.php 4 http://site.ru
+/tm/media/media/css/sec.php 4 http://site.ru
+/tm/includes/freedoms.php 4 http://site.ru
+/en/documents/history 6 -
+/tm/plugins/editors/codemirror/layouts/editors/codemirror/theme.php 2 http://site.ru
+/tm/documents/regulation 20 -
+/tm/plugins/content/sdc/newsleter.php 4 http://site.ru
+/tm/components/com_wrapper/links.php 2 http://site.ru
+/cache/miniv48.php.suspected 4 http://site.ru
+/plugins/editors/tinymce/jscripts/tiny_mce/plugins/example/js/simpleside.php5 2 http://site.ru
+/tm/cache/ganks.php.PhP 2 http://site.ru
+/tm/tmp/install_505b916e48aa2/el-GR/apps/page/language/wp-update.php 4 http://site.ru
+/administrator/head_img.php.suspected 2 http://site.ru
+/tm/pebb7z.php 2 http://site.ru
+/tm/components/com_jbcatalog/libraries/jsupload/server/php 6 -
+/tm/assets/wp-info.php 2 http://site.ru
+/tm/media/editors/tinymce/plugins/save/data.php 2 http://site.ru
+/administrator/components/com_admin/controllers/simple.php5 6 http://site.ru
+/libraries/joomla/template/wp-cofigs.php.suspected 2 http://site.ru
+/tm/administrator/components/com_content/views/featured/tmpl/jhgfs.php 8 http://site.ru
+/plugins/header_img.php.suspected 2 http://site.ru
+/tm/wp-admin/admin-ajax.php 2 -
+/components/com_tabulizer/assets/js/responsive/bag.php.suspected 4 http://site.ru
+/tm/administrator/components/com_imageshow/sql/updates/sqlsrv/htaccess.php 2 http://site.ru
+/tm/old-wp 4 http://meteo.gov.tm/old-wp/
+/tm/modules/mod_simplefileuploadv1.3/elements/w.php 2 http://site.ru
+/tm/media/system/wp.php 2 http://site.ru
+/tm/dontme.php 2 http://site.ru
+/templates/protostar/less/.h..php.suspected 4 http://site.ru
+/tm/administrator/templates/system/lux.php 2 http://site.ru
+/tm/generationmap.php 4 http://site.ru
+/libraries/joomla/template/popup-pomo.php.suspected 2 http://site.ru
+/tm/tm/weather/forecast 2 -
+/tm/plugins/finder/newsfeeds/yashiro.php 2 http://site.ru
+/tm/tm/contact 2 -
+/tm/_cache/blackhat.php 4 http://site.ru
+/libraries/fof/autoloader/home.php.suspected 6 http://site.ru
+/tm/administrator/components/com_mapyandex/views/mapyandexajax/tmpl/htaccess.php 6 http://site.ru
+/install/js/install.js 4 -
+/ru/documents/law 10 -
+/tm/administrator/includes/img/mode.php 2 http://site.ru
+/tm/components/com_sexycontactform/fileupload 6 -
+/tm/assets/images/doc.php 2 http://site.ru
+/tm/administrator/components/com_rsform/views/submissions/tmpl/htaccess.php 2 http://site.ru
+/tm/site/components/com_media/mark.php 2 http://site.ru
+/tm//plugins/system/t3/base/bootstrap/js/bootstrap.js 2 -
+/tm/web/content-post.php 4 http://site.ru
+/tm/templates/beez5/index.php 4 http://site.ru
+/tm/urbanconcept.rw/wp-catcha.php 4 http://site.ru
+/tm/components/com_foxcontact/c_2018.php 4 http://site.ru
+/libraries/phputf8/native/mark.php.suspected 4 http://site.ru
+/tm/tmp/404.php 2 http://site.ru
+/tm/css.php 2 http://site.ru
+/tm/weather/League_Gothic.otf 2 http://www.meteo.gov.tm/tm/weather/forecast
+/tm/components/com_foxcontact/kd.php 4 http://site.ru
+/tm/plugins/editors/tinymce/field/index.php 2 http://site.ru
+/tm/templates/beez3/info.php 2 http://site.ru
+//vendor/phpunit/phpunit/build.xml 2 -
+/tm/modules/pp1.php 2 http://site.ru
+/tm/myshop.kinasportswear.com/wp-catcha.php 4 http://site.ru
+/tm/images/eventlist/images.php 2 http://site.ru
+/tm/documents/history 10 -
+/tm/components/com_foxcontact/foxcontact.php 6 -
+/tm//news/wp-includes/wlwmanifest.xml 26 -
+/tm/templates/beez3/html/com_weblinks/form/data.php 4 http://site.ru
+/tm/2020 4 http://meteo.gov.tm/2020/
+/tm/logs/a99.php 6 http://site.ru
+/wp-content/themes/twentynineteen/style.php.suspected 4 http://site.ru
+/tm/mw.php 2 http://site.ru
+/tm/aw.php 2 http://site.ru
+/tm/tlnehbrubo.php 2 http://site.ru
+/tm/blog 4 http://meteo.gov.tm/blog/
+/tm/hours.php 2 http://site.ru
+/tm/administrator/components/com_civicrm/civicrm/packages/OpenFlashChart/tmp-upload-images/root.php 2 -
+/administrator/components/com_associations/feal.php.suspected 4 http://site.ru
+/tm/libraries/fof/utils/installscript/feal.php 2 http://site.ru
+/tm/components/com_foxcontact/uploads/backup.php 2 http://site.ru
+/tm/wp-defence.php 2 http://site.ru
+/ru/weather/ 20 -
+/tm/images/nyty/images.php 2 http://site.ru
+/tm/site 4 http://meteo.gov.tm/site/
+/tm/kopia/en/plugins/editors/tinymce/jscripts/tiny_mce/plugins/tinybrowser/folders.php 4 http://site.ru
+/tm/cache/blackhat.php 4 http://site.ru
+//administrator/components/com_simplephotogallery/lib/uploadFile.php 2 -
+/libraries/joomla/base/content-footer.php.suspected 2 http://site.ru
+/tm/layouts/404.php 6 http://site.ru
+/tm/images/headers/indeh.php 2 http://site.ru
+/apple-touch-icon.png 36 -
+/tm/plugins1/editors/tinymce/jscripts/tiny_mce/plugins/emotions/ob.php 4 http://site.ru
+/tm/wp-plugins.php 4 http://site.ru
+/tm/modules/wp-info.php 2 http://site.ru
+/public/hebadge_pagebadge/f6/wp-side.php.suspected 2 http://site.ru
+/tm/test/blackhat.php 2 http://site.ru
+/tm/salim.php 4 http://site.ru
+/tm/freshrdp.com2.php 2 http://site.ru
+/tm/tmp/install_4ffcb135841c9/sv-SE/jhwtxu.php 2 http://site.ru
+/components/com_foxcontact/zc.php.suspected 2 http://site.ru
+/tm/components/com_search/models/mark.php 2 http://site.ru
+/tm/administrator/components/com_phocagallery/libraries/phocagallery/youtube/htaccess.php 2 http://site.ru
+/tm/libraries/joomla/caches.php 2 http://site.ru
+//administrator/components/com_redmystic/chart/ofc-library/ofc_upload_image.php 2 -
+/cache/2001981.php.suspected 2 http://site.ru
+/tm/fx.php 2 http://site.ru
+/tm/includes/wp-info.php 2 http://site.ru
+/tm/templates/system/css/class.php 4 http://site.ru
+/tm/components/wp-info.php 4 http://site.ru
+/tm/joomla/index.php 2 -
+/tm/components/com_foxcontact/ok.php 2 http://site.ru
+/tm/images/wp-blog.php 10 http://site.ru
+//desktopmodules/telerikwebui/radeditorprovider/telerik.web.ui.dialoghandler.aspx 2 -
+/tm/administrator/components/com_phocagallery/libraries/phocagallery/library/htaccess.php 6 http://site.ru
+/tm/ciosans.php 2 http://site.ru
+/wso.php.suspected 2 http://site.ru
+/tm/old-site 4 http://meteo.gov.tm/old-site/
+/tm/wp-caches.php 10 http://site.ru
+//demo/vendor/phpunit/phpunit/phpunit.xsd 2 -
+/apple-touch-icon-precomposed.png 34 -
+/tm//shop/wp-includes/wlwmanifest.xml 24 -
+/tm/wp2 4 http://meteo.gov.tm/wp2/
+/tm/tmp/com_csvi/bag.php 2 http://site.ru
+/tm/zewuw0.php 2 http://site.ru
+/tm/plugins/editors/tinymce/jscripts/tiny_mce/themes/advanced/langs/feter.php 2 http://site.ru
+/tm/tools/popup-pomo.php 4 http://site.ru
+/tm/alfa3.php 2 http://site.ru
+/tm/log.php 2 http://site.ru
+/tm/libraries/fof/utils/feal.php 2 http://site.ru
+/media/editors/tinymce/skins/lightgray/fonts/xixi.php.suspected 2 http://site.ru
+/tm/.haccess.php 4 http://site.ru
+/tm/plugins/content/s5_media_player/helper.php 6 -
+/tm/wp-content/plugins/background-image-cropper/wp-console.php 2 http://site.ru
+/tm/media/system/images/mooRainbow/gank.php.PhP 4 http://site.ru
+/tm/food.php 2 http://site.ru
+/tm/timco-aero.com/cache/blackhat.php 2 http://site.ru
+/tm/PROV/blackhat.php 2 http://site.ru
+/tm/images/ww-te.php 2 http://site.ru
+/tm/yusa.php 2 http://site.ru
+/tm/cli/donttouch.php 6 http://site.ru
+/tm/administrator/templates/isis/html/data.php 6 http://site.ru
+/tm/images/stories/ok.php 4 http://site.ru
+/tm/b.php 2 http://site.ru
+/modules/mod_maximenuck/themes/default/css/data.php.suspected 2 http://site.ru
+/modules/mod_simplefileuploadv1.3/elements/udd.php 2 -
+/tm/libraries/pattemplate/.h..php 2 http://site.ru
+/tm/language/dcomay.php 2 http://site.ru
+/tm/libraries/phpinputfilter/feter.php 2 http://site.ru
+/templates/beez3/html/layouts/beautifu.php.suspected 4 http://site.ru
+/tm/templates/beez3/content-post.php 2 http://site.ru
+/tm/libraries/joomla/html/parameter/element/.readme.php 2 http://site.ru
+/images/w.php.phpgif 2 http://site.ru
+/plugins/system/languagecode/language/en-GB/wp-side.php.suspected 2 http://site.ru
+/tm/xixi.php 4 http://site.ru
+/tm/bk30012020/viruscode--/components/com_foxcontact/c_2018.php 2 http://site.ru
+/tm/wolfis.php 6 http://site.ru
+/tm/plugins/system/legacy/content-post.php 2 http://site.ru
+//common/admin/Jobs2/Telerik.Web.UI.DialogHandler.aspx 2 -
+/ganks.php.PhP.suspected 2 http://site.ru
+/tm/cache/cache.php 4 http://site.ru
+/tm/modules/mod_jcomment/mod_jcomment.php 2 http://site.ru
+/tm/plugins1/system/legacy/content-post.php 2 http://site.ru
+/tm/libraries/joomla/template/module/modifier/feal.php 2 http://site.ru
+/components/com_content/models/green.php.suspected 2 http://site.ru
+/tm/templates/beez3/html/com_contact/categories/data.php 2 http://site.ru
+/libraries/joomla/crypt/data.php.suspected 2 http://site.ru
+/tm/timco-aero.com/cache/content-post.php 4 http://site.ru
+/tm/wp-block.php 4 http://site.ru
+/tm/administrator/components/com_admin/views/gank.php.PhP 2 http://site.ru
+/tm/administrator/components/com_installer/views/install/tmpl/htaccess.php 2 http://site.ru
+/tm/administrator/components/com_alberghi/upload.alberghi.php 6 -
+/tm/sad.php 4 http://site.ru
+/tm/templates/ja_purity/index.php 4 http://site.ru
+/tm/v2 4 http://meteo.gov.tm/v2/
+/tm/administrator/components/com_phocagallery/views/phocagalleryg/tmpl/htaccess.php 4 http://site.ru
+/tm/components/com_foxcontact/line.php 2 http://site.ru
+/tm/administrator/components/com_banners/controllers/images.php 2 http://site.ru
+/gallery.php.suspected 2 http://site.ru
+/tm/administrator/components/com_imageshow/language/site/it-IT/htaccess.php 4 http://site.ru
+/tm/admin.php 2 http://site.ru
+/tm/meta.php 2 http://site.ru
+/tm/network/popup-pomo.php 2 http://site.ru
+/Telerik.Web.UI.WebResource.axd 4 -
+/administrator/templates/system/simpleside.php5 4 http://site.ru
+/plugins1/editors/tinymce/jscripts/tiny_mce/plugins/example/js/simpleside.php5 4 http://site.ru
+/templates/protostar/simple.php5 2 http://site.ru
+/media/editors/tinymce/skins/lightgray/fonts/class-wp-filesystemss.php.suspected 2 http://site.ru
+/ru/documents/history 16 -
+/tm/images/chitradurga/licensed.php 2 http://site.ru
+/tm/libraries/joomla/template/k.php 8 http://site.ru
+/c0nfig.php 4 -
+/tm/components/Marvins.php 2 http://site.ru
+/tm/weather/ 18 -
+/tm/libraries/cms/help/data.php 2 http://site.ru
+/tm/Marvins.php 2 http://site.ru
+/old/simple.php5 2 http://site.ru
+/tm/cache/css.php 4 http://site.ru
+/tm/zb.php 2 http://site.ru
+//wp-includes/js/jquery/jquery.js 2 -
+/tm/maint/popup-pomo.php 4 http://site.ru
+/tm/components/com_media/mark.php 2 http://site.ru
+/tm/libraries/f0f/integration/joomla/wp-blog.php 2 http://site.ru
+/tm/administrator/com_pdf.php 4 http://site.ru
+/tm/system.php 4 http://site.ru
+/components/com_contact/controllers/green.php.suspected 4 http://site.ru
+/domains/bepo.eu/simple.php5.suspected 2 http://site.ru
+/media/editors/tinymce/plugins/visualblocks/css/content-post.php.suspected 2 http://site.ru
+/tm/tmp/doc.php 4 http://site.ru
+/tm/test/content-post.php 2 http://site.ru
+/modules/mod_maximenuck/elements/ckradio2/data.php.suspected 4 http://site.ru
+/en/weather/ 18 -
+/components/com_weblinks/views/404.php.suspected 2 http://site.ru
+/tm/components/com_content/views/archive/towerin.php 8 http://site.ru
+/public/hebadge_pagebadge/simpleside.php5.suspected 2 http://site.ru
+/tm/logs/irjsyc.php 2 http://site.ru
+/tm/templates/beez3/html/com_content/featured/data.php 4 http://site.ru
+/tm/images/nyty/theme.php 4 http://site.ru
+/tm/templates/wp-info.php 2 http://site.ru
+/tm/modx.php 4 http://site.ru
+/web/simple.php5 2 http://site.ru
+/tm/libraries/fof/integration/joomla/filesystem/data.php 4 http://site.ru
+/tm/templates/beez3/o.php 2 http://site.ru
+/tm/test.php 8 http://site.ru
+/tm/administrator/components/com_imageshow/language/site/de-DE/htaccess.php 2 http://site.ru
+/tm/postnew/popup-pomo.php 4 http://site.ru
+/tm/templates/yoo_lykka/error.php 4 http://site.ru
+/plugins/captcha/.h..php.suspected 2 http://site.ru
+/administrator/header_img.php.suspected 4 http://site.ru
+/tm/v8cvoj.php 2 http://site.ru
+/tm/components/com_content/controllers/images.php 2 http://site.ru
+/tm/components/com_banners/helpers/theme.php 6 http://site.ru
+/libraries/phpmailer/language/mark.php.suspected 2 http://site.ru
+/tm/components/com_foxcontact/uploads/ly.php 2 http://site.ru
+/tm/content-post.php 4 http://site.ru
+/tm/images/Files/licensed.php 4 http://site.ru
+/tm/wp-function.php 2 http://site.ru
+//vendor/phpunit/phpunit/phpunit.xsd 2 -
+/tm/language/admin.php 2 http://site.ru
+//providers/htmleditorproviders/telerik/telerik.web.ui.dialoghandler.aspx 2 -
+/tm/includes/wp-aespa.php 2 http://site.ru
+/tm/res.php 4 http://site.ru
+/tm/components/com_phocaphoto/views/gank.php.PhP 4 http://site.ru
+/content-post.php.suspected 6 http://site.ru
+/libraries/phpmailer/intact.php.suspected 4 http://site.ru
+/tm/administrator/components/com_redmystic/chart/tmp-upload-images/vuln.php 6 -
+/tm/includes/new_defines.php 2 http://site.ru
+/tm/components/com_foxcontact/misel.php 2 http://site.ru
+/tm/components/com_jooomlas/xyxz.php 2 http://site.ru
+/plugins/search/weblinks/content-post.php.suspected 2 http://site.ru
+/tm/zxpcis.php 4 http://site.ru
+/sitemap.xml 14 -
+/tm//blog/wp-includes/wlwmanifest.xml 28 -
+/modules/mod_articles_news/tmpl/gank.php.PhP.suspected 4 http://site.ru
+/tm/components/com_jce/editor/tiny_mce/plugins/advlist/htaccess.php 2 http://site.ru
+/tm/administrator/templates/hathor/html/mod_quickicon/data.php 2 http://site.ru
+/tm/user/register 2 -
+/tm/_Media/sitemps.php 4 http://site.ru
+/ru/documents/regulation 14 -
+/tm/libraries/joomla/template/module/modifier/hell.php 2 http://site.ru
+/tm/options/popup-pomo.php 4 http://site.ru
+/tm/cache/sim5.php 4 http://site.ru
+/tm//media/cck/scripts/jquery-colorbox/js/jquery.colorbox-min.js 2 -
+/wp-updats.php.suspected 4 http://site.ru
+/tm/xmliipc.php 2 http://site.ru
+/tm/administrator/templates/hathor/html/com_languages/installed/htaccess.php 4 http://site.ru
+/tm/libraries/openid/Auth/hell.php 2 http://site.ru
+/tm/wp-console.php 2 http://site.ru
+/tm/libraries/legacy/error/xmlsrpc.php 4 http://site.ru
+/tm/administrator/components/com_admin/sql/updates/sqlazure/.h..php 2 http://site.ru
+/tm/ws.php 4 http://site.ru
+/tm/components/com_search/models/popup-pomo.php 8 http://site.ru
+/tm//site/wp-includes/wlwmanifest.xml 28 -
+/browserconfig.xml 2 -
+/tm/.well-known/wp-catcha.php 4 http://site.ru
+/tm/conf.php 2 http://site.ru
+/tm//website/wp-includes/wlwmanifest.xml 28 -
+/tm/assets/images/blackhat.php 4 http://site.ru
+/templates/protostar/simple.php5.suspected 2 http://site.ru
+/tm/bypass.php 6 http://site.ru
+/tm/administrator/components/com_rsform/views/formajax/tmpl/htaccess.php 2 http://site.ru
+/tm//2018/wp-includes/wlwmanifest.xml 24 -
+/tm/web 4 http://meteo.gov.tm/web/
+/.well-known/security.txt 2 -
+/tm/wp-mial.php 2 http://site.ru
+/libraries/phpmailer/language/feal.php.suspected 4 http://site.ru
+/tm/__MACOSX/templates/beez3/html/com_content/category/5e3045a6daeff.php 2 http://site.ru
+/apple-touch-icon-120x120.png 6 -
+/tm/user-profile.php 2 http://site.ru
+/libraries/joomla/github/package/issues/data.php.suspected 2 http://site.ru
+/tm/nsgin.com/cache/wp-plugins.php 4 http://site.ru
+/tm/hello.php 4 http://site.ru
+/small.php.suspected 2 http://site.ru
+/tm/default.php 4 http://site.ru
+/tm/v1 4 http://meteo.gov.tm/v1/
+/tm/htaccess.php 2 http://site.ru
+/components/com_jce/editor/tiny_mce/plugins/link/bag.php.suspected 4 http://site.ru
+/tm/wp-log.php 4 http://site.ru
+/includes/wp-side.php.suspected 2 http://site.ru
+/en/component/ 2 -
+//AsiCommon/Controls/ContentManagement/ContentDesigner/Telerik.Web.UI.DialogHandler.aspx 2 -
+/components/com_weblinks/views/VDRH.php.suspected 4 http://site.ru
+/tm/user.php 4 http://site.ru
+/tm/plugins1/system/legacy/feter.php 2 http://site.ru
+/tm/libraries/openid/Auth/feter.php 2 http://site.ru
+/tm/modules/mod_articles_latest/kcbjys.php 4 http://site.ru
+/tm/components/com_search/models/tools.php 2 http://site.ru
+/tm/cache/doc.php 4 http://site.ru
+/templates/beez3/images/personal/streamed.php.suspected 4 http://site.ru
+/language/es-ES/ob.php.suspected 2 http://site.ru
+/tm/templates/beez3/html/com_content/categories/data.php 2 http://site.ru
+/tm/2index.php 2 http://site.ru
+/tm/hx.php 2 http://site.ru
+/tm/xNx.php 2 http://site.ru
+/humans.txt 8 -
+/tm/a99d.php 4 http://site.ru
+/tm/components/com_foxcontact/sad.php 4 http://site.ru
+/tm/cache/wp-console.php 4 http://site.ru
+/layouts/joomla/html/batch/media-admin.php.suspected 2 http://site.ru
+/tm/libraries/xxxx.php 2 http://site.ru
+/tm/plugins/system/ldqza.php 2 http://site.ru
+/cache/blackhat.php.suspected 2 http://site.ru
+/cache/content-post.php.suspected 4 http://site.ru
+/tm/components/com_easyblog.backup/themes/nickel/blogs/latest/include.php 2 http://site.ru
+/wp-track.php.suspected 4 http://site.ru
+/tm/informers 14 -
+/tm//tm/weather/weather-now 2 -
+/.env 2 -
+/tm/media/mod.php 2 http://site.ru
+/tm/dhon.php 4 http://site.ru
+/tm/templates/beez_20/content-post.php 4 http://site.ru
+/tm/lyonc.php 2 http://site.ru
+/tm/pressthis/content-post.php 2 http://site.ru
+/tm/index.php 8 -
+/tm/cache/zr.php 2 http://site.ru
+/tm/lkunge.php 2 http://site.ru
+/tm/rcoiqa.php 4 http://site.ru
+/tm/wp-cons.php 2 http://site.ru
+/tm/cache/404.php 4 http://site.ru
+/nsgin.com/cache/simple.php5 4 http://site.ru
+/tm/images/images.php 2 http://site.ru
+/ru/component/users/ 4 -
+/tm/components/com_foxcontact/mini.php 4 http://site.ru
+/administrator/help/en-GB/css/.h..php.suspected 6 http://site.ru
+/tm/administrator/components/com_languages/views/overrides/tmpl/htaccess.php 6 http://site.ru
+/blog/robots.txt 2 -
+/tm/administrator/components/com_admin/sql/updates/postgresql/gank.php.PhP 4 http://site.ru
+/tm/test/maint/content-post.php 4 http://site.ru
+/tm/libraries/joomla/base/date.php 2 http://site.ru
+/en/documents/regulation 6 -
+/tm/tm/component/users/ 2 -
+/tm/jorda1.php 2 http://site.ru
+/media/media/images/white.php.suspected 2 http://site.ru
+/tm/images/wso.php 6 http://site.ru
+/tm/dev 4 http://meteo.gov.tm/dev/
+/tm/plugins/system/jsnframework/assets/3rd-party/jquery-zeroclipboard/htaccess.php 2 http://site.ru
+/tm/templates/beez/index.php 2 http://site.ru
+/tm/tags.php 2 http://site.ru
+/tm/style_.php 8 http://site.ru
+/tm/images/errors.php 4 http://site.ru
+/tm/licensed.php 2 http://site.ru
+/tm/administrator/manifests/files/AkeebaStrapper/data.php 4 http://site.ru
+/tm/_.php 2 http://site.ru
+/administrator/components/com_simplephotogallery/lib/uploadFile.php 6 -
+/tm/ganks.php.PhP 4 http://site.ru
+/tm//wordpress/wp-includes/wlwmanifest.xml 28 -
+/tm/wp-uploads.php 2 http://site.ru
+/index.php 22 -
+/tm/plugins/logo_img.php 2 http://site.ru
+/tm/shell.php 2 http://site.ru
+/.wp-load/content-post.php.suspected 4 http://site.ru
+/tm/v3.php 2 http://site.ru
+/tm/libraries/404.php 4 http://site.ru
+/tm/plugins/editors/codemirror/images.php 2 http://site.ru
+/tm/libraries/phpmailer/language/wp-cofigs.php 2 http://site.ru
+/audio/hello.php.suspected 2 http://site.ru
+//common/admin/PhotoGallery2/Telerik.Web.UI.DialogHandler.aspx 2 -
+/tm//templates/meteo/js/template.js 2 -
+/tm/libraries/phputf8/str_parser.php 4 http://site.ru
+/tm/theme.php 4 http://site.ru
+/tm/components/com_falang/readme.php 4 http://site.ru
+/tm/media/com_contact/js/data.php 2 http://site.ru
+/-/~/code87/5.php.suspected 4 http://site.ru
+/tm/administrator/components/com_admin/views/profile/ob.php 2 http://site.ru
+/tm/_Resources/sitemps.php 4 http://site.ru
+/tm/x.php 4 http://site.ru
+/tm/index2.php 4 http://site.ru
+/tm//tm/weather/forecast 6 -
+/tm/components/com_foxcontact/z.php 2 http://site.ru
+/tm/includes/d.php 2 http://site.ru
+/tm/media/wp-type.php 10 http://site.ru
+/tm/images/c99.php 2 http://site.ru
+/administrator/templates/isis/simple.php5.suspected 2 http://site.ru
+/tm/modules/mod_random_image/media-views-rtl.php 4 http://site.ru
+//DesktopModules/TNComments/Telerik.Web.UI.DialogHandler.aspx 2 -
+/tm/modules/mod_login/w.php 2 http://site.ru
+/tm//tm/contact 2 -
+/tm/mixi.php 4 http://site.ru
+/tm/_1_administrator/edit/wertr6.php 2 http://site.ru
+/tm/templates/system/data.php 4 http://site.ru
+/tm/components/com_weblinks/models/forms/wp-table.php 4 http://site.ru
+/tm/sheeel.php 4 http://site.ru
+/tm/administrator/components/com_admin/sql/updates/sqlazure/seter.php 4 http://site.ru
+/tm/components/com_content/controllers/green.php 2 http://site.ru
+/tm/templates/ambient/edits.php 2 http://site.ru
+/language/404.php.suspected 2 http://site.ru
+/tm/media/bb.php 4 http://site.ru
+/tm/images/ws0.php 2 http://site.ru
+/layouts/joomla/html/batch/ex_liner.php.suspected 2 http://site.ru
+/ru/documents/structure 2 -
+/tm/templates/beez3/html/com_newsfeeds/data.php 2 http://site.ru
+/tm/quarantine_H2144/content-post.php 2 http://site.ru
+/tm/layouts/joomla/system/popup-pomo.php 2 http://site.ru
+/cache/logo_img.php.suspected 2 http://site.ru
+/libraries/joomla/template/123.php.suspected 4 http://site.ru
+/tm/phpmail/popup-pomo.php 2 http://site.ru
+/tm/ 100 -
+/tm/administrator/components/com_phocagallery/views/phocagallerym/tmpl/htaccess.php 2 http://site.ru
+/tm/components/error.php 4 http://site.ru
+/components/com_jce/editor/tiny_mce/themes/none/skins/default/.h..php.suspected 2 http://site.ru
+/tm/homefeatured/content-post.php 4 http://site.ru
+/tm/libraries/joomla/template/into.php 2 http://site.ru
+/tm/documents/law 6 -
+/administrator/components/com_admin/gank.php.PhP.suspected 4 http://site.ru
+/tm/components/gank.php.PhP 2 http://site.ru
+/tm/media/cms/css/shell.php 2 http://site.ru
+/tm/media/lux.php 2 http://site.ru
+/tm/components/com_jce/editor/tiny_mce/plugins/inlinepopups/css/admin-class.php 4 http://site.ru
+/tm/components/com_wrapper/ganks.php.PhP 2 http://site.ru
+/tm/ns.php 2 http://site.ru
+/tm/wp-cofigs.php 4 http://site.ru
+/tm/images/sim5.php 6 http://site.ru
+/administrator/components/com_rokdownloads/assets/uploadhandler.php 2 -
+/tm/components/com_content/views/archive/tmpl/theme.php 2 http://site.ru
+/tm/libraries/cms/form/beautifu.php 2 http://site.ru
+/tm/main 4 http://meteo.gov.tm/main/
+/tm/templates/atomic/ganks.php.PhP 2 http://site.ru
+/templates/jsn_gruve_free/html/com_weblinks/form/ex_liner.php.suspected 4 http://site.ru
+/tm/templates/beez3/html/layouts/data.php 2 http://site.ru
+//DesktopModule/UIYKienCuTri/Telerik.Web.UI.DialogHandler.aspx 2 -
+/tm/components/com_contact/views/category/tmpl/fail_logs.php 4 http://site.ru
+/tm/cache/ix.php.PhP 2 http://site.ru
+/tmp/ex_liner.php.suspected 2 http://site.ru
+/tm/xxxx.php 6 http://site.ru
+/tm/templates/protostar/doc.php 2 http://site.ru
+/tm/wp-content/uploads/ix.php.PhP 2 http://site.ru
+/tm/tm/links 2 -
+/tm/nsgin.com/wp-plugins.php 4 http://site.ru
+/tm/administrator/help/content-post.php 4 http://site.ru
+/tmp/vuln.php.xxxjpg 4 -
+/ollx.php.suspected 2 http://site.ru
+/tm/wp 4 http://meteo.gov.tm/wp/
+/tm/pages/ex_liner.php 2 http://site.ru
+/tm/administrator/components/com_admin/sql/others/mysql/ex_liner.php 4 http://site.ru
+/tm/administrator/components/com_extplorer/uploadhandler.php 6 -
+/tm/sax.php 2 http://site.ru
+/tm/templates/beez3/css/theme.php 2 http://site.ru
+/tm/fuel/pages/select 4 -
+/tm/libraries/0p0b8xpt.php 2 http://site.ru
+/tm/parseopml/popup-pomo.php 2 http://site.ru
+/tm//tm/photo-gallery 2 -
+/administrator/logo_img.php.suspected 2 http://site.ru
+/tm/wp-blog.php 4 http://site.ru
+/tm/alfa.php 2 http://site.ru
+/tm/plugins/editors/tinymce/jscripts/tiny_mce/plugins/directionality/feter.php 2 http://site.ru
+/wp-cofigs.php.suspected 4 http://site.ru
+/tm/templates/beez/info.php 2 http://site.ru
+/tm/plugins/system/xtp.php 2 http://site.ru
+/ads.txt 20 -
+/tm/components/com_jooomlat/s.php 2 http://site.ru
+/tm/demo 4 http://meteo.gov.tm/demo/
+/tm/manager/popup-pomo.php 4 http://site.ru
+/tm//media/wp-includes/wlwmanifest.xml 22 -
+/administrator/components/com_checkin/views/wp-xml.php.suspected 4 http://site.ru
+/tm/templates/beez3/html/layouts/joomla/system/wp-south.php 2 http://site.ru
+/tm/2018 4 http://meteo.gov.tm/2018/
+/images/stories/root.php.xxxjpg 2 -
+/tm/wp-content.php 4 http://site.ru
+/tm/revisiona/popup-pomo.php 2 http://site.ru
+/tm/plugins/editors/tinymce/jscripts/tiny_mce/themes/advanced/.h..php 2 http://site.ru
+/tm/ngopo.php 2 http://site.ru
+/tm/newsletter.kinasportswear.com/wp-catcha.php 2 http://site.ru
+/tm/administrator/components/com_akeeba/assets/ix.php.PhP 8 http://site.ru
+/tm/quarantine_H2144/blackhat.php 2 http://site.ru
+/security.txt 2 -
+/tm/rois.php 2 http://site.ru
+/tm/cache/wp-info.php 4 http://site.ru
+/tm/libraries/cms/captcha/data.php 4 http://site.ru
+/tm/templates/beez3/html/com_content/form/data.php 2 http://site.ru
+/plugins/twofactorauth/bag.php.suspected 4 http://site.ru
+/tm/cache/1.php 2 http://site.ru
+/tm/components/com_facileforms/libraries/jquery/uploadify.php 6 -
+/tm/modules/mod_simplefileuploadv1.3/elements/xun.php 4 http://site.ru
+/wp-installation.php 2 -
+/tm/old/wp-muen.php 2 http://site.ru
+//desktopmodules/dnnwerk.radeditorprovider/dialoghandler.aspx 2 -
+/tm/spam/wp-cons.php 2 http://site.ru
+/tm/libraries/data.php 4 http://site.ru
+/tm/plugins/djmediatools/sobipro/fields/ix.php.PhP 2 http://site.ru
+//modules/mod_simplefileuploadv1.3/elements/udd.php 2 -
+/tm/templates/atomic/error.php 4 http://site.ru
+/feal.php.suspected 4 http://site.ru
+/tm/administrator/modules/mod_multilangstatus/2stzo0k.php 2 http://site.ru
+/tm/paypal/content-post.php 4 http://site.ru
+/tm/ollx.php 4 http://site.ru
+/plugins/cck_field/calendar/assets/css/theme/shadow-b.png 2 http://meteo.gov.tm/plugins/cck_field/calendar/assets/css/theme/steel/steel.css
+/tm/bmmive.php 2 http://site.ru
+/tm/r.php 4 http://site.ru
+/media/vuln.txt 4 -
+/tm/administrator/components/com_easyblog/themes/default/settings/social/languages.php 2 http://site.ru
+/tm/media/com_contenthistory/js/data.php 2 http://site.ru
+/tm/.well-known/.well-knownq.php 2 http://site.ru
+/tm/web/index.php 2 -
+/templates/beez5/index.php.backup 2 http://site.ru
+/tm/administrator/components/com_bt_portfolio/up.php 6 -
+/wp-includes/js/jquery/jquery.js 4 -
+/tm/.well-known/pages.php 2 http://site.ru
+/ru/informers 4 -
+/logs/logs.php.suspected 4 http://site.ru
+/tm/anu.php 2 http://site.ru
+/tm/options/wsa.php 4 http://site.ru
+/tm/administrator/components/com_admin/helpers/html/images.php 2 http://site.ru
+/tm/administrator/components/com_finder/sql/languages.php 2 http://site.ru
+/tm/scripts/popup-pomo.php 2 http://site.ru
+/tm/temp 4 http://meteo.gov.tm/temp/
+/en/informers 6 -
+/ru/ 86 http://meteo.gov.tm/ru/
+/seter.php.suspected 4 http://site.ru
+/tm/libraries/joomla/base/feal.php 4 http://site.ru
+/administrator/templates/isis/simple.php5 2 http://site.ru
+/tm/vz.php 6 http://site.ru
+/tmp/simpleside.php5 6 http://site.ru
+/tm/libraries/cms/form/data.php 4 http://site.ru
+/tm/list.php 2 http://site.ru
+/components/com_phocaphoto/views/image/simpleside.php5.suspected 2 http://site.ru
+/tm/libraries/fof/toolbar/feal.php 2 http://site.ru
+/tm/install/popup-pomo.php 2 http://site.ru
+/tm//cms/wp-includes/wlwmanifest.xml 30 -
+/tm/libraries/legacy/simplecrypt/gank.php.PhP 2 http://site.ru
+/tm/components/com_foxcontact/ox.php 2 http://site.ru
+/tm/wso.php 2 http://site.ru
+/administrator/components/com_admin/controllers/images.php.suspected 4 http://site.ru
+/tm/tmp/s.php 2 http://site.ru
+/tm/administrator/components/com_installer/views/default/tmpl/htaccess.php 2 http://site.ru
+//administrator/components/com_bt_portfolio/helpers/uploadify/uploadify.php 2 -
+/tm/administrator/components/com_akeeba/akeeba/platform/joomla25/filters/gank.php.PhP 4 http://site.ru
+/tm/te3/signup.php 2 -
+/tm/plugins/jsnimageshow/themeclassic/assets/js/galleria/htaccess.php 2 http://site.ru
+/tm/libraries/pear/archive_tar/mark.php 2 http://site.ru
+/tm/ler.php 6 http://site.ru
+/tm/mode.php 4 http://site.ru
+/tm/sl.php 4 http://site.ru
+/cache/simple.php5 2 http://site.ru
+/tm/components/com_foxcontact/wso3.php 2 http://site.ru
+/tm/components/com_k2/helpers/drop.php 2 http://site.ru
+//App_Master/Telerik.Web.UI.DialogHandler.aspx 2 -
+/tm/components/admin.php 2 http://site.ru
+/tm/csv/cez.php 2 http://site.ru
+/admin/.env 2 -
+/ruf.php5.suspected 2 http://site.ru
+/en/ 106 http://meteo.gov.tm/index.php
+/tm/indeh.php 2 http://site.ru
+/tm/libraries/phpass/wp-side.php 2 http://site.ru
+/tm/wp-user.php 4 http://site.ru
+/tm/images/up2.php 2 http://site.ru
+/administrator/components/com_bt_portfolio/helpers/uploadify/uploadify.php 4 -
+/tm/modules/mod_fxprev/libraries/content-post.php 10 http://site.ru
+/tm/2019 4 http://meteo.gov.tm/2019/
+/tm/Poub/google-site-verification-content-fpk8ez12pdbewljjo9xhbxlv7lhxa9nplpcode87.php 2 http://site.ru
+/tm/media/cred.php 2 http://site.ru
+/tm/kopia/pl/plugins/editors/tinymce/jscripts/tiny_mce/plugins/tinybrowser/folders.php 2 http://site.ru
+/tm/GreenS.php 2 http://site.ru
+/en/documents/structure 6 -
+/tm/fckeditor/editor/filemanager/connectors/php/upload.php 6 -
+//tmp/vuln.php.xxxjpg 2 -
+/tm/bin/bin.php 2 http://site.ru
+/tm/components/com_jnews/includes/openflashchart/tmp-upload-images/sittir.php 4 http://site.ru
+/tm/includes/class.php 4 http://site.ru
+/images/feal.php.suspected 4 http://site.ru
+/tm/wp-back.php 4 http://site.ru
+/tm/administrator/components/com_modules/views/preview/tmpl/htaccess.php 6 http://site.ru
+/tm/administrator/components/com_finder/views/filter/tmpl/htaccess.php 2 http://site.ru
+/tm/includes/wp-type.php 4 http://site.ru
+/tm/components/com_fileman/template/menus.php 4 http://site.ru
+/tm/photo-album/sitemps.php 2 http://site.ru
+/tm/libraries/joomla/base/ganks.php.PhP 4 http://site.ru
+/tm/administrator/components/com_civicrm/civicrm/packages/OpenFlashChart/tmp-upload-images/vuln.php 6 -
+/tm/libraries/joomla/base/wp-seca.php 2 http://site.ru
+/tm/administrator/components/com_admin/feter.php 2 http://site.ru
+/tm/libraries/libraries.php 2 http://site.ru
+/test.php.suspected 4 http://site.ru
+/tm/includes/search.class.php 4 http://site.ru
+/modules/mod_maximenuck/themes/default/images/data.php.suspected 4 http://site.ru
+/tm/testspan.kinasportswear.com/wp-catcha.php 2 http://site.ru
+/tm/plugins/quickicon/joomlaupdate/data.php 2 http://site.ru
+/tm/cache/mmc.php 4 http://site.ru
+/apple-touch-icon-57x57.png 4 -
+/tm/postnewa/popup-pomo.php 6 http://site.ru
+/tm/iomsiiyyta.php 4 http://site.ru
+/tm/modules/mod_carramba/shoes.php 4 http://site.ru
+/tm/olad.php 2 http://site.ru
+/hours.php.suspected 8 http://site.ru
+/tm/components/com_content/views/archive/ajkershell.php 2 http://site.ru
+/wp-content/themes/twentynineteen/styles.php.suspected 6 http://site.ru
+/tm/cms 4 http://meteo.gov.tm/cms/
+/tm/cache/wp-cofigs.php 4 http://site.ru
+//DesktopModule/UIQuestionControls/UIAskQuestion/Telerik.Web.UI.DialogHandler.aspx 2 -
+/seomarket.php.suspected 2 http://site.ru
+/tm/images/wp-muen.php 2 http://site.ru
+/tm/discussion/popup-pomo.php 2 http://site.ru
+/tm/documents/structure 6 -
+/tm/libraries/phputf8/native/mark.php 6 http://site.ru
+/tm/components/com_contact/index.php 4 http://site.ru
+/header_img.php.suspected 4 http://site.ru
+/tm/libraries/joomla/template/midou.php 2 http://site.ru
+/tm/sizings.php 2 http://site.ru
+/tm/administrator/components/com_phocagallery/views/phocagallerycs/tmpl/admin.php 2 http://site.ru
+/tm/includes/img/mode.php 4 http://site.ru
+/tm/cache/widgetkit/data.php 2 http://site.ru
+/administrator/components/com_komento/assets/images/components/server.php.suspected 4 http://site.ru
+/tm/lux.php 2 http://site.ru
+/tm/assets/images/content-post.php 2 http://site.ru
+/tm/layouts/doc.php 4 http://site.ru
+/tm/components/com_content/wso3.php 2 http://site.ru
+//index.php 10 -
+/PROV/simple.php5 6 http://site.ru
+/libraries/joomla/template/mark.php.suspected 6 http://site.ru
+/newsleter.php.suspected 2 http://site.ru
+/tm/images/xsec.php 2 http://site.ru
+/tm/Dwsonv.php 4 http://site.ru
+/tm/components/com_banners/helpers/class.php 6 http://site.ru
+/tm/wp-m.php 2 http://site.ru
+/administrator/administrator/logs/class-wp-filesystemss.php.suspected 2 http://site.ru
+/tm/templates/protostar/css/gank.php.PhP 4 http://site.ru
+/tm/modules/mod_articles_popular/media-views-rtl.php 2 http://site.ru
+/.well-known/.secret.php.suspected 2 http://site.ru
+/tm/administrator/components/com_joomgallery/views/category/fdgs.php 4 http://site.ru
+/tm/templates/beez5/html/html5.php 4 http://site.ru
+/tm/modules/mod_simplefileuploadv1.3/elements/up.php 4 -
+/tm/c.php 6 http://site.ru
+/tm/components/com_search/models/mide.php 4 http://site.ru
+/tm/administrator/templates/isis/content-post.php 4 http://site.ru
+/simple.php5.suspected 4 http://site.ru
+/tm/images/2.php 4 http://site.ru
+/assets/images/simple.php5 2 http://site.ru
+/templates/ambient/images/vertex/responsive/ruf.php5 2 http://site.ru
+/tm/mail 2 -
+/tm/media/editors/tinymce/plugins/noneditable/img.php 2 http://site.ru
+/simple.php5 2 http://site.ru
+/tm/images/articles/JMP2015/theme.php 4 http://site.ru
+/tm/test 4 http://meteo.gov.tm/test/
+/tm/media/editors/codemirror/mode/vhdl/admin-class.php 2 http://site.ru
+/tm/administrator/components/com_acepolls/views/votes/media-admin.php 4 http://site.ru
+/tm/images/wp-info.php 2 http://site.ru
+/administrator/components/com_templates/views/templates/tmpl/feal.php.suspected 2 http://site.ru
+/tm/modules/mod_bt_simple_slideshow/tmpl/images/data.php 2 http://site.ru
+//media/vuln.txt 2 -
+/tm/components/com_tags/helpers/gank.php.PhP 4 http://site.ru
+/tm/wp-blog-mail.php 2 http://site.ru
+/tm//media/jui/js/jquery-noconflict.js 2 -
+/tm/administrator/components/com_cache/views/purge/tmpl/htaccess.php 2 http://site.ru
+/get.php 2 -
+/modules/mod_languages/tmpl/data.php.suspected 2 http://site.ru
+/tm/xzeqaikkxu.php 4 http://site.ru
+/tm/site/index.php 2 -
+/sl.php.suspected 4 http://site.ru
+/tm/m.php 2 http://site.ru
+/libraries/phpmailer/language/content-post.php.suspected 2 http://site.ru
+/neter.php.suspected 2 http://site.ru
+/tm/templates/rhuk_milkyway/html/editor.php 2 http://site.ru
+/tm/test/models.php 2 http://site.ru
+/cache/doc.php.suspected 2 http://site.ru
+/tm/language/en-GB/en-GB.php 4 http://site.ru
+/tm/shoes.php 4 http://site.ru
+/tm/administrator/components/com_acymailing/extensions/plg_editors_acyeditor/acyeditor/ckeditor/plugins/tabletools/dialogs/ix.php.PhP 4 http://site.ru
+/connect/hello.php.suspected 2 http://site.ru
+/tm/local.php 2 http://site.ru
+/tm/yedek/1.php 2 http://site.ru
+/tm/administrator/wp-info.php 4 http://site.ru
+/tm/sito 4 http://meteo.gov.tm/sito/
+/tm/back/cache/doc.php 2 http://site.ru
+//Telerik.Web.UI.DialogHandler.axd 2 -
+/tm/administrator/components/com_acepolls/views/ex_liner.php 2 http://site.ru
+/tm/administrator/components/com_rokdownloads/assets/uploadhandler.php 6 -
+/tm/administrator/ganks.php.PhP 2 http://site.ru
+/tm/oldversionbct/doc.php 2 http://site.ru
+/tm/components/com_content/helpers/images.php 2 http://site.ru
+/tm/templates/ambient/js/wp-side.php 2 http://site.ru
+/cache/ganks.php.PhP.suspected 2 http://site.ru
+/tm/plugins/system/jsnframework/libraries/joomlashine/plugin/htaccess.php 4 http://site.ru
+/tm/libraries/cms/schema/changeitem/data.php 4 http://site.ru
+/public/hebadge_pagebadge/03/5df25d7b826c9.php.suspected 4 http://site.ru
+/components/com_users/helpers/html/route.php.suspected 4 http://site.ru
+/timco-aero.com/cache/simple.php5.suspected 2 http://site.ru
+/tm/back/templates/beez3/doc.php 2 http://site.ru
+//DesktopModules/Admin/RadEditorProvider/DialogHandler.aspx 2 -
+//common/admin/Calendar/Telerik.Web.UI.DialogHandler.aspx 2 -
+/tm/accesson1.php 2 http://meteo.gov.tm/tm/component/users
+/tm/administrator/components/com_admin/sql/others/ix.php.PhP 2 http://site.ru
+/tm/wp-crash.php 2 http://site.ru
+/tm/libraries/joomla/html/parameter/element/thumb.php 2 http://site.ru
+/tm/wp-item.php 2 http://site.ru
+/tm/amputatedkt.php 2 http://site.ru
+/wool.php.suspected 2 http://site.ru
+/libraries/cms/response/media-admin.php.suspected 4 http://site.ru
+/en/documents/law 4 -
+/layouts/simple.php5 14 http://site.ru
+/tm/wordpress 4 http://meteo.gov.tm/wordpress/
+/tm/jwallpapers_files/plupload/up.php 4 -
+/.system/feal.php.suspected 4 http://site.ru
+/tm/license.php 2 http://site.ru
+/tm//2019/wp-includes/wlwmanifest.xml 22 -
+/tm/templates/beez/wp-muen.php 4 http://site.ru
+/tm/cli/db2.php 2 http://site.ru
+/tm//modules/mod_slideshowck/assets/jquery.easing.1.3.js 2 -
+/tm/administrator/tyt.php 2 http://site.ru
+/tm/components/com_content/green.php 2 http://site.ru
+/tm/logs/angal.php 2 http://site.ru
+/tm/js/js/data.php 2 http://site.ru
+/tm/revision/popup-pomo.php 2 http://site.ru
+/tm/blackhat.php 6 http://site.ru
+/tm/payu-php-sdk/combo.php 2 http://site.ru
+/tm/assets/assetsu.php 2 http://site.ru
+/tm/css/wp-info.php 4 http://site.ru
+/tm/images/wp-te.php 2 http://site.ru
+/tm/wp-blogs.php 4 http://site.ru
+/tm/templates/ambient/cache/beautifu.php 2 http://site.ru
+//cms/vendor/phpunit/phpunit/phpunit.xsd 2 -
+/tm/tmp/install_5eb717fa1faba/mod_slidethemall_joomla3/doc.php 2 http://site.ru
+/web/cache/simple.php5 2 http://site.ru
+/tm/doc.php 4 http://site.ru
+/tm/plugins/editors-xtd/xhmskkz.php 4 http://site.ru
+/tm/o.php 2 http://site.ru
+/tm/optionsa/popup-pomo.php 2 http://site.ru
+/tm/img/img.php 2 http://site.ru
+/tm/templates/1/1.php 4 http://site.ru
+/wso2.php.suspected 2 http://site.ru
+/cache/wp-console.php.suspected 4 http://site.ru
+/cache/simple.php5.suspected 6 http://site.ru
+/tm/modules/mod_insider/ganks.php.PhP 2 http://site.ru
+/tm/components/com_jce/editor/libraries/css/jquery/htaccess.php 2 http://site.ru
+/tm/language/en-GB/en-GB.mod_door.php 4 http://site.ru
+/vendor/phpunit/phpunit/build.xml 4 -
+/tm/templates/beez3/html/com_newsfeeds/category/data.php 2 http://site.ru
+/tm//plugins/system/t3/base/js/respond.min.js 2 -
+/tm/bin/corecore71.php 2 http://site.ru
+/apple-touch-icon-120x120-precomposed.png 6 -
+/tm/administrator/components/com_djcatalog2/views/field/tmpl/xml.php 6 http://site.ru
+/tm/bk 4 http://meteo.gov.tm/bk/
+/tm/images/banners/theme.php 2 http://site.ru
+/tm/plugins/content/upgrade.php 2 http://site.ru
+/tm//wp-includes/wlwmanifest.xml 28 -
+/tm/weblinks.php 2 http://site.ru
+/tm/templates/ambient/js/jquery/1.php 2 http://site.ru
+/tm/network/content-post.php 2 http://site.ru
+/media/system/css/mini.php.suspected 2 http://site.ru
+/tm/templates/ajt005_j30/bookmark.php 2 http://site.ru
+/tm/wp-cent.php 2 http://site.ru
+/__MACOSX/templates/protostar/html/layouts/joomla/form/field/simpleside.php5 2 http://site.ru
+/tm/assets/images/wp-plugins.php 2 http://site.ru
+/tm/raiz0.php 2 -
+/tm/administrator/components/com_acymailing/extensions/plg_editors_acyeditor/acyeditor/ckeditor/plugins/clipboard/dialogs/gank.php.PhP 8 http://site.ru
+/tm/backup 4 http://meteo.gov.tm/backup/
+/e/member/member.css 4 -
+/templates/meteo/font/League_Gothic.eot 14 http://www.meteo.gov.tm/tm/weather/forecast
+/tm/libraries/joomla/template/mide.php 4 http://site.ru
+/tm/media/media/media.php 2 http://site.ru
+/images/tes.php.pjpeg 4 http://site.ru
+/tm/robots.txt 6 -
+/tm/cache/index1.php 2 http://site.ru
+/tm/Babbitts.php 4 http://site.ru
+/tm/en/ 2 -
+/root.php.xxxjpg 2 -
+/tm/wp.php 2 http://site.ru
+/tm/styles/popup-pomo.php 2 http://site.ru
+/tm/administrator/components/com_categories/views/categories/tmpl/htaccess.php 2 http://site.ru
+/tm/wp-snapshots/wp-caches.php 2 http://site.ru
+/tm/scriptsa/popup-pomo.php 4 http://site.ru
+/doc.php.suspected 2 http://site.ru
+/tm/ghjk.php 2 http://site.ru
+/tm/components/com_content/views/archive/yPmA90z.php 2 http://site.ru
+/tm/administrator/components/com_phocagallery/views/phocagalleryraimg/tmpl/htaccess.php 2 http://site.ru
+/tm/profile/popup-pomo.php 6 http://site.ru
+/tm/administrator/components/com_acepolls/views/votes/tmpl/ex_liner.php 2 http://site.ru
+/tm/modules/mod_simplefileuploadv1.4/Marvins.php 4 http://site.ru
+/tm/language/overrides/legacy38266.php 2 http://site.ru
+/tm/sec.php 4 http://site.ru
+/components/com_jce/editor/tiny_mce/themes/advanced/skins/wp-side.php.suspected 4 http://site.ru
+/tm/newsleter.php 2 http://site.ru
+/tm/components/com_content/contents.php 2 http://site.ru
+/tm/mod/includes/plugins/infossagradas/includes.php 4 http://site.ru
+/tm/administrator/components/com_banners/views/tracks/tmpl/gank.php.PhP 4 http://site.ru
+/tm/modules/mod_fxprev/libraries/wp-console.php 2 http://site.ru
+/templates/beez3/html/mod_login/gank.php.PhP.suspected 2 http://site.ru
+/content-pos.php.suspected 4 http://site.ru
+/tm/administrator/components/com_ganalytics/libraries/jquery/class-wp-filesystemss.php 2 http://site.ru
+/tm/administrator/components/com_messages/layouts/toolbar/daemotn.php 2 http://site.ru
+/tm/wp1 4 http://meteo.gov.tm/wp1/
+/gank.php.PhP.suspected 2 http://site.ru
+//laravel/vendor/phpunit/phpunit/phpunit.xsd 2 -
+/tm/verygs.php 2 http://site.ru
+/tm/administrator/components/com_actionlogs/layouts/gank.php.PhP 2 http://site.ru
+/ruf.php5 6 http://site.ru
+/tm/popup-pomo.php 4 http://site.ru
+/administrator/components/com_civicrm/civicrm/packages/OpenFlashChart/php-ofc-library/ofc_upload_image.php 6 -
+/tm/templates/system/html/index.php 4 http://site.ru
+/tm/layouts/plugins/user/terms/class-wp-filesystemss.php 4 http://site.ru
+/tm/libraries/joomla/document/feed/wso2.php 2 http://site.ru
+/tm/libraries/phpmailer/language/popup-pomo.php 2 http://site.ru
+/tm/bk30012020/viruscode--/components/com_foxcontact/mini.php 4 http://site.ru
+/tm/components/com_user/views/reset/mod.php 8 http://site.ru
+/tm/wp-models.php 2 http://site.ru
+/tm/plugins1/editors/tinymce/jscripts/tiny_mce/plugins/paste/images/feter.php 4 http://site.ru
+/test/simple.php5 6 http://site.ru
+/tm/mrspy.php 4 http://site.ru
+/tm/libraries/pear/archive_tar/int123.php 4 http://site.ru
+/xmlrpc/logo_img.php.suspected 2 http://site.ru
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 1060
+217.174.229.206 35374 36768 1095284750 20200630235908
+95.85.110.226 30474 30884 2057492168 20200630235759
+217.174.238.38 28226 460354 8985583805 20200630235632
+217.174.229.226 2149 3214 51996261 20200630234922
+216.18.204.142 1154 1154 65768150 20200628131346
+10.103.1.221 269 377 15059272 20200630170223
+88.231.77.125 226 453 17258902 20200613211011
+185.69.186.5 188 374 15360821 20200620153953
+185.69.185.222 184 995 22873164 20200629190051
+10.103.128.118 140 231 4896099 20200617070833
+3.122.163.0 2 3 183179 20200605100535
+185.69.186.139 8 74 1684333 20200615194827
+66.249.83.98 2 61 704343 20200606064257
+91.77.198.11 4 4 89828 20200619234942
+54.202.212.39 4 33 691984 20200607030453
+185.69.186.142 18 104 2303018 20200620193339
+185.69.186.254 6 90 1412533 20200621155228
+52.39.193.52 2 2 136174 20200614223127
+144.76.217.20 2 2 44916 20200630122600
+195.211.23.207 0 2 169320 
+185.69.186.250 8 17 546228 20200616184658
+101.4.136.34 12 12 269484 20200627201323
+185.69.185.27 2 42 683795 20200603224330
+192.71.2.171 2 2 136448 20200608115750
+168.235.197.90 2 23 459602 20200620191931
+51.158.111.229 2 2 44954 20200609140344
+196.196.216.185 2 2 144656 20200618071527
+185.69.186.39 4 4 174610 20200606002011
+2.95.104.82 2 2 44912 20200617130420
+79.142.70.181 8 50 1037636 20200617065955
+88.147.152.169 4 4 89836 20200617045426
+69.4.89.123 2 2 44912 20200603215915
+14.152.90.40 3 3 159341 20200614080708
+35.228.111.23 8 8 519866 20200617235534
+88.243.192.82 10 68 1360932 20200606042234
+185.69.186.159 18 155 2891788 20200629214127
+185.69.186.170 6 6 458536 20200607210205
+185.69.186.85 10 21 562733 20200622140644
+104.244.75.26 2 2 0 20200603042232
+185.69.186.54 2 66 1196698 20200628180542
+54.218.18.38 2 2 135738 20200602223125
+98.143.145.30 2 2 145112 20200630075154
+37.78.10.27 4 4 89824 20200612144157
+10.104.205.108 6 48 1019420 20200615155214
+213.231.2.172 2 2 44916 20200614122015
+5.176.108.163 2 3 176432 20200627155617
+10.105.43.18 2 2 174371 20200618125741
+95.85.108.242 10 76 1557489 20200603161853
+185.69.186.47 23 78 1941518 20200625213055
+10.104.66.102 22 146 2951844 20200602125312
+178.175.148.4 2 2 44916 20200615072204
+216.18.204.149 46 46 1973711 20200623001437
+185.158.107.172 10 10 379283 20200620214200
+37.46.132.37 14 71 1462372 20200605102814
+96.44.183.149 6 6 134748 20200619115934
+46.201.239.200 2 45 750066 20200616140904
+185.69.186.80 12 16 731692 20200625112445
+95.47.57.77 2 9 289577 20200604202630
+37.193.133.146 4 4 273601 20200630154752
+185.69.186.195 6 17 288330 20200613081343
+185.69.186.187 14 66 1612281 20200608080743
+5.44.169.215 12 12 269484 20200618185256
+37.59.104.187 10 76 1426941 20200629041200
+66.150.70.244 6 6 219844 20200614131837
+85.100.66.153 2 44 691546 20200607092607
+176.30.234.150 2 2 70166 20200604135251
+185.69.186.115 33 182 3705051 20200620221548
+46.242.10.247 2 2 44916 20200603120900
+78.29.124.56 4 4 89828 20200614113943
+188.143.169.29 12 12 817800 20200626124056
+185.246.208.58 6 6 134754 20200618160732
+185.69.186.229 1 1 16000 20200627232003
+36.110.199.40 0 9 64963 
+80.237.132.90 4 4 246708 20200618081019
+64.233.172.162 2 13 258081 20200627132407
+94.158.152.248 4 4 89836 20200602052803
+46.22.220.37 4 4 89828 20200607144627
+10.104.15.70 2 46 693365 20200605123102
+10.103.55.80 4 48 694214 20200622094515
+90.143.203.2 22 115 2438097 20200625154835
+190.238.194.218 6 47 824726 20200606123947
+185.69.186.25 14 114 2079041 20200621210920
+94.198.51.223 16 16 359328 20200630151005
+5.188.84.95 4 4 89824 20200625114140
+10.105.15.200 2 42 686591 20200627101021
+185.69.185.202 28 99 2779686 20200607131359
+185.69.186.236 22 62 2118792 20200623180328
+178.176.167.169 4 34 734130 20200610000032
+185.69.186.156 6 43 954749 20200628203954
+51.68.11.203 2 2 5 20200616094512
+46.0.203.99 4 4 89824 20200604235429
+94.139.239.230 8 8 179672 20200626002547
+176.60.0.162 2 41 693658 20200617122000
+62.168.57.109 2 2 31846 20200627021953
+141.98.103.27 2 2 144976 20200604214109
+200.255.122.170 2 2 44956 20200628082508
+67.55.66.180 2 2 136664 20200606124748
+95.47.57.10 6 15 582868 20200613223421
+95.47.57.53 54 196 5039710 20200612140134
+35.195.124.129 6 6 43343 20200630132702
+62.109.0.2 4 4 89820 20200626134348
+185.69.186.93 2 46 693396 20200605122223
+10.104.214.245 4 41 645695 20200605202710
+10.104.134.208 4 4 201830 20200623233415
+36.110.199.47 0 5 47074 
+52.249.187.44 4 4 272900 20200626083952
+64.233.172.191 0 15 146014 
+95.47.57.34 2 29 475547 20200603111353
+90.143.41.90 14 75 1629911 20200618100305
+46.105.112.52 6 45 911172 20200601222725
+10.104.198.27 14 82 1577533 20200629210238
+107.175.178.132 2 2 32130 20200602024913
+188.226.131.252 6 47 879358 20200608054809
+185.69.186.51 24 38 2036170 20200613122606
+83.149.44.166 10 80 1909769 20200601011557
+95.108.141.77 2 28 449405 20200609082654
+10.104.93.185 5 44 786458 20200619061656
+35.228.46.111 12 12 86686 20200616110327
+51.158.169.206 4 4 273670 20200629172417
+216.18.204.133 14 14 702546 20200629064904
+185.69.186.184 2 9 307207 20200607061433
+84.17.55.22 2 2 44912 20200603153922
+31.220.0.39 4 4 89824 20200604132520
+93.104.210.227 0 1 85560 
+128.8.132.236 8 8 546676 20200627175209
+128.199.136.172 2 32 650650 20200627132401
+185.234.218.239 2 2 136892 20200620125155
+88.245.195.114 2 32 573372 20200609142736
+24.249.199.14 6 6 134748 20200620033603
+93.174.93.24 4 4 89828 20200601063442
+185.69.186.119 3 65 1308504 20200608140331
+185.19.80.249 2 21 540798 20200605092104
+185.69.186.168 8 9 352637 20200615150447
+93.75.38.205 4 4 89828 20200625135018
+49.255.44.130 6 6 43343 20200627163615
+209.99.135.212 2 2 31846 20200628221053
+104.128.65.136 2 2 172688 20200602152147
+10.104.93.101 30 411 7844508 20200628093010
+185.246.208.156 2 2 44920 20200605134457
+185.69.185.248 2 45 691180 20200621205310
+18.222.75.159 10 97 1967824 20200601083900
+185.69.186.33 4 12 347696 20200625155428
+37.154.128.248 2 42 686889 20200622180535
+185.69.186.243 2 13 178997 20200604090701
+116.202.23.165 2 2 136664 20200606110154
+217.174.225.166 42 149 3744707 20200605141446
+10.104.175.77 2 29 513942 20200617130634
+201.172.206.40 6 6 43343 20200630044046
+37.59.105.90 18 61 1120725 20200603133359
+10.104.141.159 2 3 147088 20200617162940
+34.221.246.232 2 2 136314 20200610220916
+185.69.185.135 4 44 860957 20200606213253
+64.233.173.4 4 13 301400 20200627132414
+66.249.93.25 2 19 352401 20200609144428
+185.69.186.162 12 120 2195099 20200629132148
+185.69.186.95 13 102 1960871 20200629162640
+36.110.199.167 2 3 138654 20200622164758
+185.69.186.49 14 104 1787223 20200625093810
+95.47.57.18 4 46 772493 20200615103217
+163.172.182.111 2 2 136310 20200604152520
+63.246.153.244 8 10 429709 20200603113057
+185.69.186.219 20 54 1588957 20200601111849
+1.0.189.151 6 6 43343 20200619200757
+185.69.186.61 5 22 179691 20200612113703
+95.85.108.78 6 69 1480732 20200618164730
+180.246.247.52 2 2 136157 20200612162444
+185.69.186.161 8 12 566264 20200626163230
+185.69.186.98 16 61 1622987 20200621230715
+141.101.143.21 4 4 175340 20200630142726
+5.188.84.119 4 4 89828 20200625114140
+185.69.185.59 9 48 876865 20200606210134
+10.103.4.191 6 53 916907 20200608082349
+185.69.186.125 4 7 247270 20200627225828
+208.80.194.27 2 2 136636 20200606123720
+185.69.186.19 14 114 2239000 20200617192028
+95.135.131.172 4 64 1219497 20200612122722
+185.69.186.146 42 147 3624475 20200620024131
+20.37.46.98 4 4 273072 20200619002009
+185.197.160.54 2 2 137172 20200616181430
+188.32.167.76 4 4 64604 20200602204058
+156.146.36.100 4 4 78624 20200622211552
+217.174.233.14 4 44 765805 20200612094427
+185.69.186.189 4 88 1378655 20200616080827
+217.174.230.50 2 43 678237 20200601092826
+74.125.212.66 0 11 82389 
+86.105.25.76 6 6 134742 20200622160332
+46.104.96.176 2 7 246531 20200613234936
+185.69.186.43 2 29 506477 20200610214516
+185.69.186.7 22 139 2497596 20200611102214
+185.69.185.118 2 6 244045 20200602171420
+185.69.186.74 14 18 822921 20200620160420
+185.69.185.193 0 2 171120 
+187.45.240.34 4 4 246930 20200630220652
+10.104.81.162 8 56 879972 20200603081919
+195.211.161.172 2 44 747237 20200622211616
+156.146.38.139 4 4 272426 20200624124857
+31.171.244.92 2 2 135724 20200625070731
+185.69.186.68 18 110 2125676 20200626091026
+209.97.156.16 2 19 403057 20200602202232
+185.69.186.200 6 104 1956731 20200624214848
+34.78.255.60 2 2 136253 20200605215421
+107.189.10.159 8 51 1287106 20200612215419
+62.210.82.198 4 4 273140 20200613193641
+193.218.118.156 4 4 89840 20200625032625
+10.104.122.9 6 45 734916 20200626181425
+185.246.208.140 8 8 179680 20200626133207
+37.73.143.53 2 43 743214 20200610163222
+10.104.241.248 8 51 1218040 20200622124242
+52.136.112.233 8 8 546756 20200626165848
+185.69.186.144 14 43 1040792 20200615105645
+51.75.144.58 4 4 89828 20200629025158
+178.218.210.225 2 2 137162 20200617014029
+45.32.106.194 2 2 131646 20200610145413
+185.69.186.10 10 53 1033061 20200622013042
+178.244.98.143 2 43 688002 20200606152123
+88.240.251.241 8 97 1787735 20200604223454
+95.47.57.36 10 56 865331 20200622122525
+185.69.186.112 2 2 108258 20200620145535
+185.69.186.241 5 13 335653 20200621121204
+185.69.186.154 4 45 795640 20200628173806
+185.69.185.44 22 282 5217266 20200627011705
+10.104.102.180 8 52 949497 20200603145351
+185.69.186.220 9 68 1255495 20200620185711
+79.137.40.151 4 4 89832 20200620223603
+36.110.199.150 0 10 150447 
+31.28.163.36 6 6 134742 20200625221517
+107.180.120.9 2 2 135974 20200620062849
+66.249.81.61 12 63 1299247 20200625155235
+185.69.186.100 6 60 909530 20200626225028
+10.104.4.101 2 64 1281206 20200609172638
+185.69.186.20 30 123 2973632 20200627003227
+5.46.234.176 6 67 1478910 20200627110347
+185.69.186.123 8 131 2092391 20200615182925
+45.140.174.153 2 2 131302 20200615071927
+35.228.204.37 30 30 216715 20200627202948
+10.105.100.100 2 5 100024 20200607063815
+52.34.76.65 2 32 570850 20200611174455
+156.146.36.76 4 4 79902 20200606061505
+10.105.11.23 2 2 173687 20200628093845
+10.103.244.184 4 44 696912 20200603132836
+46.28.70.225 20 20 449140 20200624092145
+10.103.175.40 2 19 330835 20200606222447
+185.69.185.200 2 31 516919 20200606145955
+82.119.170.106 2 2 44954 20200601044936
+194.183.171.67 2 2 31862 20200624165236
+185.69.186.72 6 14 564301 20200618192350
+185.234.217.49 4 4 77032 20200619141128
+134.119.207.105 4 5 197263 20200627070204
+185.69.186.56 2 4 176391 20200629105754
+18.234.178.4 2 2 135852 20200611064456
+178.175.132.74 6 6 234120 20200609134502
+185.69.186.130 6 126 2005438 20200623195522
+159.203.111.218 38 58 2176786 20200615023210
+95.47.57.63 2 42 683795 20200603230427
+159.203.89.245 38 58 2181822 20200604202654
+185.195.200.76 6 50 885423 20200618093903
+62.216.35.82 2 45 749418 20200626143223
+37.140.189.236 18 78 1640564 20200604164330
+103.28.121.58 16 16 458854 20200615082144
+35.173.199.209 2 2 136480 20200607065334
+10.104.150.175 2 39 678874 20200605214009
+31.23.30.230 18 109 2262079 20200605235714
+185.69.186.31 30 111 2692699 20200628215405
+10.104.28.38 2 42 682112 20200602153131
+171.244.1.84 4 4 89828 20200628001723
+10.103.138.183 23 114 1685416 20200625161949
+88.243.196.191 12 79 1665401 20200604040146
+143.215.247.112 2 2 136728 20200606170455
+185.69.186.234 6 6 456084 20200606071935
+144.76.165.117 8 8 179672 20200627025140
+188.215.229.154 4 4 163419 20200612055806
+95.47.57.44 12 20 820480 20200603193559
+10.104.231.166 2 14 298094 20200620171714
+92.38.136.69 16 16 516724 20200627034053
+185.69.186.140 6 99 1645515 20200629193209
+46.39.51.78 10 77 1656255 20200616013433
+95.47.57.72 106 167 1733763 20200630172815
+185.69.185.58 12 122 2844321 20200606232043
+185.69.186.190 4 9 375353 20200625182926
+185.69.185.112 8 68 1560034 20200605220231
+199.249.230.166 2 2 129 20200608110126
+10.103.72.89 6 50 687417 20200613163658
+185.69.186.164 14 132 2959981 20200625182327
+10.105.180.200 2 43 687694 20200628121303
+10.107.133.70 2 65 1285133 20200604100346
+188.165.16.230 2 2 0 20200617074149
+95.47.57.127 10 76 1895483 20200603163425
+185.69.186.240 8 23 565612 20200624221858
+185.69.186.9 12 95 1879337 20200607102051
+185.69.185.217 14 84 1894925 20200629175545
+95.108.244.71 2 2 70158 20200609082359
+119.236.244.39 2 36 693073 20200616141543
+185.104.184.124 2 2 131882 20200613193518
+185.69.186.127 18 73 1407492 20200621095740
+185.69.186.183 36 234 4975267 20200624113138
+54.203.4.230 2 2 136536 20200618225208
+3.84.38.58 2 2 136120 20200610064649
+86.105.25.77 6 6 134742 20200613093615
+5.165.233.228 2 44 619680 20200608134728
+36.110.199.43 0 3 183398 
+134.122.21.81 12 12 351228 20200606014013
+51.158.119.88 2 2 136756 20200618153055
+198.98.60.239 4 4 89832 20200605234632
+185.69.185.23 2 63 1187896 20200604144639
+2.95.241.45 2 2 44912 20200608083633
+1.55.54.28 10 10 207694 20200606100327
+94.28.140.28 2 41 613614 20200602161244
+66.249.93.27 2 8 175086 20200609144428
+10.105.136.79 16 66 1611512 20200617171417
+188.120.234.242 2 2 0 20200617121715
+43.240.103.179 8 8 179672 20200610173200
+37.115.208.117 6 6 134754 20200629233059
+64.233.173.6 0 16 348329 
+112.201.65.52 2 2 136550 20200630045744
+185.69.186.207 12 27 785641 20200626121856
+104.245.39.215 2 2 136110 20200603163954
+176.107.182.236 4 4 89840 20200606155451
+185.69.186.92 14 58 1605406 20200606165618
+185.69.185.234 8 78 1797102 20200606155307
+134.249.147.157 10 10 224600 20200612174240
+95.56.13.252 16 156 3683390 20200607115014
+37.192.95.140 8 8 316439 20200622132236
+95.47.57.95 6 49 971215 20200603071813
+89.109.196.35 4 4 89832 20200629043955
+152.32.223.85 2 2 173793 20200611192815
+198.12.123.132 2 2 32130 20200602010317
+185.69.186.110 16 158 2794088 20200625222548
+188.163.109.153 16 16 359360 20200630132024
+185.69.186.81 15 91 1877532 20200626222206
+51.91.129.4 4 4 273434 20200612115949
+94.198.55.212 6 6 134748 20200618124513
+10.104.199.8 2 45 691271 20200601142142
+18.236.233.29 2 2 136400 20200617223755
+10.103.10.144 2 65 1188633 20200611212652
+158.58.131.27 4 4 89832 20200605011820
+10.105.70.235 4 42 857639 20200626231234
+145.255.21.66 2 2 44916 20200620110106
+5.3.217.18 6 6 134802 20200603075020
+185.117.149.193 2 41 681092 20200603125131
+141.164.35.253 1 1 23601 20200613122115
+194.187.249.182 2 2 38570 20200629212923
+10.105.61.48 4 73 1250593 20200629215727
+10.103.16.92 8 73 1455162 20200615081424
+51.15.197.129 2 2 136046 20200602014512
+81.95.236.230 12 80 1819147 20200609211719
+10.105.180.32 2 42 683284 20200619200851
+192.99.36.177 2 2 8234 20200608214714
+185.69.186.237 16 32 948373 20200624055050
+185.69.186.45 6 17 462835 20200601135734
+103.236.201.110 2 2 129 20200608080126
+188.17.157.238 2 2 44918 20200607230440
+74.125.212.93 0 12 205964 
+10.103.79.75 2 41 588077 20200615130422
+185.69.186.16 2 31 516919 20200627112947
+94.103.82.197 16 16 359328 20200628033812
+10.103.129.167 12 56 1084715 20200607203428
+185.69.186.177 6 78 1283008 20200606235035
+185.69.186.249 10 57 1183190 20200609004520
+185.69.186.36 2 2 125393 20200601090816
+46.53.244.157 2 2 44916 20200609103501
+185.69.186.152 52 146 4391494 20200622094735
+51.15.15.164 6 6 134742 20200611063043
+217.174.233.18 2 49 841484 20200622144316
+46.185.114.1 24 24 538968 20200625045706
+176.9.140.115 4 4 64031 20200605000009
+85.106.25.16 2 43 687205 20200619140023
+109.184.211.101 4 4 89840 20200620053601
+145.255.21.85 2 2 44916 20200601131721
+185.69.186.64 2 2 66698 20200619150756
+217.11.176.113 4 67 1424471 20200612093046
+185.69.186.28 8 51 1079046 20200609161902
+117.254.176.115 6 6 43343 20200601201749
+23.95.237.118 6 6 225882 20200604205837
+5.176.102.101 2 43 686442 20200611102745
+95.213.193.203 2 2 44918 20200615052536
+10.105.181.200 6 48 822449 20200615114736
+89.187.177.131 4 4 82114 20200615084749
+193.107.201.105 2 2 31846 20200602222007
+185.69.186.55 10 18 833316 20200627161845
+185.69.186.67 4 9 273342 20200601163208
+31.210.106.85 0 2 171120 
+217.174.229.146 6 46 734600 20200629173507
+185.69.186.75 16 161 2823600 20200628111155
+185.69.186.133 8 91 1552827 20200614190557
+78.180.51.99 4 57 951029 20200601154918
+195.154.233.184 2 2 32130 20200624225112
+138.255.36.199 2 2 14187 20200609123116
+107.158.92.227 2 2 44918 20200606220032
+185.69.186.180 6 49 974149 20200623010856
+212.42.222.111 4 64 1170748 20200616195849
+193.238.153.7 4 4 89832 20200625220114
+94.139.224.19 4 4 89832 20200602192221
+95.85.111.190 8 53 1059351 20200604110351
+180.163.220.67 2 4 175086 20200630114614
+185.69.186.230 6 29 722647 20200609162929
+159.224.255.154 2 2 145408 20200622220206
+185.69.186.120 20 143 3258132 20200625160915
+185.69.186.97 21 96 2099918 20200621175501
+80.187.140.26 6 6 134748 20200619171753
+45.86.201.12 2 2 136852 20200608081106
+95.108.244.58 14 20 643950 20200605161714
+52.25.140.5 2 2 136510 20200615225030
+37.57.218.190 2 2 135390 20200602025901
+94.228.207.1 8 8 179656 20200621101646
+185.69.185.210 2 65 1286588 20200606215856
+198.12.108.109 4 4 163998 20200620160745
+10.105.141.228 4 30 587533 20200629203914
+37.59.32.74 4 4 89824 20200615172439
+159.89.49.60 2 2 44914 20200628001746
+176.107.183.146 12 12 269520 20200626190333
+185.69.185.227 24 122 3704552 20200608230748
+185.69.186.232 2 45 692152 20200608083434
+185.163.27.21 12 77 1631296 20200616104601
+109.74.154.72 60 1790 12113472 20200630120959
+178.218.216.92 2 2 137162 20200617014029
+185.69.186.116 10 55 1453616 20200603224900
+192.71.30.89 2 2 136332 20200630074322
+199.244.88.132 2 2 136342 20200601040218
+185.69.186.185 24 283 4765708 20200624221714
+192.71.224.240 2 2 136544 20200616111756
+185.69.185.163 16 89 2120160 20200624163126
+46.53.246.87 6 6 134742 20200613000101
+52.34.25.251 2 2 136950 20200621222400
+213.166.69.197 4 4 85808 20200610040329
+10.105.38.137 4 53 839093 20200607081902
+185.69.186.69 12 87 1569624 20200619114947
+10.104.30.226 2 42 682945 20200614141052
+37.192.26.37 14 14 604529 20200609161800
+185.104.187.114 2 2 144526 20200620005424
+10.104.120.163 6 70 1407516 20200604130436
+178.159.37.88 16 16 359328 20200629065850
+185.69.186.209 6 94 1480790 20200608003717
+10.104.245.27 6 73 1238004 20200624165937
+185.69.186.199 39 149 4069727 20200615135050
+185.19.80.238 2 8 299262 20200621160412
+5.188.84.115 4 4 89828 20200625114140
+185.69.186.18 12 101 1672097 20200623084002
+185.130.184.199 2 2 44920 20200604031453
+185.69.185.132 33 354 6280653 20200620180015
+103.90.203.217 4 4 10 20200616223535
+20.185.1.90 8 8 544672 20200612125933
+136.244.69.151 4 4 273512 20200618153048
+72.11.148.222 2 2 44916 20200609101316
+54.191.77.253 4 4 272972 20200629032913
+2.95.20.35 2 2 44910 20200607091525
+185.209.162.196 2 6 273138 20200610145918
+95.85.97.178 2 24 374526 20200630093901
+45.140.167.15 4 46 733706 20200620114430
+178.32.56.32 2 2 44914 20200602010014
+54.218.216.51 2 2 136138 20200603223812
+216.18.204.134 2 2 146252 20200629134536
+95.85.97.158 2 60 1023614 20200604180919
+54.188.186.121 2 2 136290 20200623231713
+172.245.70.27 2 2 145508 20200620171637
+81.91.177.189 10 10 224580 20200625015006
+199.249.230.152 6 6 212776 20200614091746
+37.229.196.223 6 6 134754 20200625142103
+2.134.84.40 4 27 828826 20200607125733
+94.23.23.224 2 2 44950 20200623051243
+92.46.115.224 18 80 2389787 20200610172145
+3.235.235.107 2 2 136070 20200612064359
+185.69.186.14 12 27 1005066 20200626211826
+54.184.48.77 2 2 137086 20200607223459
+185.69.185.213 4 67 1366740 20200615122621
+10.105.33.135 2 2 108274 20200622152601
+79.137.40.159 4 4 89832 20200602095204
+185.69.186.175 2 31 516919 20200604143829
+10.103.1.116 6 71 1431955 20200616122849
+182.162.109.226 4 87 1483904 20200620195424
+10.200.64.253 28 113 3018707 20200622075054
+95.221.54.125 6 6 221738 20200624201501
+5.2.91.48 4 4 246600 20200630073029
+185.69.186.239 6 49 872932 20200622222723
+95.108.133.208 18 70 1621389 20200615182933
+158.255.7.229 0 1 85560 
+185.69.186.245 4 7 233488 20200609091904
+104.131.199.240 2 2 136496 20200617190037
+45.10.238.108 2 2 32130 20200606131411
+89.151.169.190 2 2 44918 20200610000151
+185.69.186.136 10 91 1570364 20200621132820
+185.69.186.197 20 172 4114970 20200621124421
+185.69.186.11 10 50 1258667 20200619115745
+178.175.142.132 2 2 44920 20200601234448
+185.69.185.94 4 66 1465608 20200602121604
+10.105.23.181 2 4 177483 20200624154518
+217.174.232.242 10 78 1615013 20200622193709
+138.128.84.166 2 2 32130 20200605114041
+185.69.185.117 10 114 2274815 20200608224348
+185.69.186.247 14 188 3329736 20200622130127
+89.187.178.238 4 4 79007 20200607205424
+51.158.64.17 6 6 409859 20200626012232
+109.166.36.80 6 77 1528787 20200628094456
+185.69.186.213 18 131 2285711 20200628222214
+45.95.118.65 2 2 131470 20200609165902
+159.89.35.180 38 58 2180278 20200619191145
+95.56.140.49 2 67 1348709 20200606185040
+109.102.111.20 10 11 655470 20200626033038
+217.174.230.250 73 256 7075439 20200624090220
+50.18.22.200 2 2 137068 20200628190447
+213.52.130.116 6 43 872119 20200625150722
+185.69.185.88 2 32 573356 20200616091659
+13.79.135.165 18 18 130029 20200601172929
+185.69.186.99 26 171 3532725 20200630205627
+185.69.186.23 19 62 1723114 20200628000653
+185.69.186.58 20 130 2555691 20200619110736
+34.222.237.182 2 2 136332 20200612224717
+88.226.106.224 2 45 692747 20200621162227
+88.147.173.61 4 4 89832 20200603023534
+185.69.186.252 10 99 1830253 20200623174531
+185.69.186.167 34 84 2428687 20200624173012
+10.104.1.212 32 142 4318207 20200625185847
+10.103.62.154 2 6 121901 20200627192210
+13.59.177.127 10 46 1214457 20200606073419
+185.69.186.217 8 91 1211351 20200605012333
+185.69.185.35 8 75 1646364 20200615132930
+54.183.4.118 2 35 610965 20200628190503
+217.174.232.22 4 44 702306 20200601121605
+157.52.171.186 2 2 135844 20200614032341
+10.105.106.238 4 48 811485 20200618151745
+46.33.57.43 2 2 44912 20200609223832
+185.69.186.224 2 2 122584 20200603121144
+64.233.173.2 0 9 111282 
+94.23.152.201 4 4 77046 20200610104512
+54.214.162.163 2 2 136220 20200624230028
+185.69.186.104 2 43 685005 20200628060408
+35.241.196.125 12 12 86686 20200620235858
+92.240.134.25 4 4 89832 20200622222521
+119.39.46.227 2 2 136895 20200630095359
+18.218.90.172 10 46 1211865 20200615160208
+10.105.32.244 3 24 562492 20200622093324
+37.229.198.155 12 12 269508 20200612083221
+34.222.1.156 2 2 136432 20200604222154
+83.149.45.171 12 81 1800631 20200621201443
+10.105.137.89 6 45 683352 20200626214427
+212.60.22.100 6 16 460659 20200627103222
+212.81.38.58 8 8 179656 20200629005740
+35.228.238.99 24 24 173372 20200607120236
+93.22.132.89 8 8 245640 20200603000726
+84.68.106.224 2 2 44916 20200622074124
+80.240.142.214 2 2 116796 20200614162834
+10.104.205.119 2 60 1122890 20200617145810
+185.69.186.24 20 179 3664371 20200629131036
+66.249.81.63 14 71 1354794 20200625155242
+93.124.7.131 4 4 272142 20200603104848
+45.133.116.36 24 24 983160 20200629073750
+171.12.10.245 2 2 135813 20200614083031
+185.69.185.72 36 78 818692 20200626120132
+185.69.185.215 2 44 690732 20200628171522
+5.39.64.108 2 7 398782 20200608010123
+212.156.87.134 4 44 766811 20200619194810
+5.248.226.19 2 2 44914 20200608152221
+196.196.224.144 2 2 32130 20200607072038
+88.234.253.209 2 9 332516 20200611225017
+45.86.65.164 2 30 578148 20200607113043
+37.59.104.180 2 2 129 20200603140216
+207.97.174.134 2 2 44918 20200603134555
+83.149.44.68 10 74 1604424 20200605013930
+200.89.178.156 2 2 44954 20200628082447
+185.69.186.101 10 70 1712270 20200621082929
+112.253.11.103 4 4 89836 20200628160548
+167.172.121.136 2 2 136340 20200630054246
+10.105.12.236 18 110 1881175 20200630095339
+144.76.101.105 2 61 1026885 20200606124403
+216.144.228.130 2 2 44920 20200607023929
+185.69.186.59 2 41 681115 20200603131222
+18.237.30.114 2 2 136762 20200622223658
+185.69.186.128 18 150 2970245 20200621211713
+185.69.186.29 2 62 1126385 20200604142547
+185.69.186.34 2 3 175227 20200615164627
+5.62.20.38 4 4 78799 20200610201356
+185.234.219.246 12 12 231108 20200611112139
+207.244.240.54 4 4 89836 20200623093628
+109.162.120.195 6 6 134760 20200605081910
+104.199.85.59 18 18 130029 20200627010414
+5.188.158.123 2 27 487382 20200613192128
+180.163.220.5 0 5 125522 
+51.254.35.77 2 2 32130 20200624225948
+148.251.177.36 4 4 273650 20200629052910
+149.202.204.162 6 74 1477305 20200608004425
+185.69.186.225 7 53 1001167 20200602114026
+95.47.57.93 2 42 686599 20200626144338
+81.211.68.14 4 4 89828 20200618070955
+185.69.186.242 10 132 1555347 20200627105924
+210.245.110.254 6 6 134760 20200627203023
+35.228.179.185 24 24 173372 20200628010058
+202.100.206.140 2 2 136276 20200610202143
+139.180.229.118 6 6 134868 20200617145300
+36.110.199.158 0 5 26569 
+185.69.185.75 4 51 961182 20200610225544
+185.14.184.166 4 41 754615 20200623063045
+194.146.156.104 2 45 691675 20200607122149
+10.105.49.60 2 43 686262 20200611153939
+10.104.63.209 4 48 761083 20200629140903
+109.234.38.61 16 16 359328 20200628041016
+10.104.199.149 8 55 1057565 20200621153529
+185.69.186.210 6 62 1226563 20200616142625
+10.105.154.83 6 45 697776 20200624225324
+84.17.49.199 8 8 261130 20200621234952
+52.188.172.126 2 2 136180 20200610095019
+2.58.46.220 4 4 79792 20200606094516
+185.69.186.158 6 8 525741 20200624090912
+79.250.81.179 8 54 952685 20200608230146
+185.69.186.215 16 62 1619627 20200628183758
+98.191.208.153 4 42 704176 20200625233505
+54.149.229.47 4 4 273384 20200606112924
+185.69.186.38 2 44 625159 20200618133900
+66.249.83.127 10 74 1213215 20200621162228
+10.104.179.100 12 78 1376863 20200608094256
+185.94.192.92 4 4 281248 20200623121254
+188.25.138.232 2 2 32158 20200601040218
+185.69.186.4 18 103 2023063 20200611083638
+35.161.58.192 2 2 136600 20200625222910
+216.18.204.155 2 2 146194 20200629153322
+10.104.111.191 10 57 967233 20200613181923
+10.103.78.164 4 63 1263621 20200602153247
+163.172.190.160 4 4 89912 20200614191121
+64.89.234.161 16 16 1091138 20200627225345
+101.37.118.54 2 2 44916 20200609155414
+151.135.70.173 2 43 688150 20200606170201
+129.226.163.96 4 4 251146 20200630220515
+20.185.238.41 6 6 134748 20200622061615
+185.125.226.42 12 63 1325447 20200621114200
+10.103.133.72 26 251 4208511 20200628185150
+185.69.186.50 6 49 851638 20200604095638
+141.164.50.35 4 4 272212 20200611130111
+188.93.56.216 2 2 136282 20200625135252
+10.105.119.12 42 104 3026672 20200621131810
+185.69.186.138 8 59 1175371 20200607145734
+217.174.227.146 4 86 1371968 20200619171557
+185.69.186.157 10 134 2335143 20200615113935
+185.69.186.192 8 52 1080659 20200610133156
+10.103.36.160 21 39 1237956 20200621094333
+171.237.110.167 6 6 43343 20200629140622
+51.38.52.169 4 4 89828 20200606171842
+185.69.186.48 14 129 1984257 20200628140843
+217.174.230.148 120 196 3658715 20200630110047
+5.188.210.87 16 16 451034 20200627072759
+88.240.249.225 18 112 2445352 20200613050322
+199.249.230.172 2 2 129 20200608030133
+178.159.37.85 6 6 134748 20200621165513
+185.69.186.88 12 98 1801592 20200627094311
+185.69.186.173 6 62 1055260 20200628162357
+94.139.240.92 28 28 628824 20200623054225
+37.147.173.248 2 2 44918 20200626172402
+82.76.81.221 2 2 32158 20200629143212
+80.151.97.55 14 77 1906661 20200623191958
+78.61.20.208 2 2 136290 20200623212135
+217.174.227.34 8 75 1391213 20200605124414
+95.85.109.58 14 230 4806806 20200630154823
+63.246.153.56 2 51 958074 20200617130638
+35.164.9.124 2 62 1027588 20200613224123
+185.69.186.13 8 28 558358 20200613234052
+185.135.80.19 2 2 107812 20200607233821
+217.96.216.14 2 2 136808 20200630145314
+185.69.186.235 10 194 3280935 20200622080238
+185.69.186.155 4 4 282060 20200617122456
+78.162.25.50 40 106 2994641 20200622114208
+10.103.185.92 4 67 1263240 20200618090044
+95.46.198.25 2 2 136466 20200620104828
+185.69.185.196 10 77 1555164 20200607101442
+10.104.196.207 4 35 1003861 20200624134123
+88.244.93.176 6 53 981502 20200605023628
+185.69.186.122 4 14 447869 20200610121051
+185.232.52.123 4 4 89836 20200601132313
+185.69.186.90 2 9 191339 20200607145346
+3.235.163.77 6 6 351884 20200615155253
+106.39.13.237 20 283 5423859 20200628071921
+84.54.112.58 6 71 1430790 20200619150359
+37.59.24.139 4 24 1044364 20200605112311
+10.104.213.155 2 27 382053 20200623222100
+10.104.67.98 2 2 136480 20200607090209
+54.71.92.94 2 2 136988 20200626221549
+185.69.186.176 10 56 1169947 20200613144245
+91.210.169.241 4 4 89908 20200602172853
+185.69.186.86 2 41 683856 20200617134949
+34.201.6.246 2 2 135656 20200609065443
+10.103.177.195 8 54 971142 20200615164057
+98.179.111.150 2 59 1022537 20200626221558
+95.108.244.44 12 32 953685 20200604181721
+64.233.172.189 0 6 246796 
+95.152.17.7 4 4 272774 20200608222126
+185.69.185.226 6 6 261913 20200626170439
+104.144.213.117 2 2 141974 20200606093450
+178.159.37.69 30 30 673758 20200625145310
+10.104.142.57 8 53 1150517 20200604165705
+95.47.57.113 2 26 453443 20200611183148
+185.69.186.41 10 63 1319942 20200629063214
+10.103.54.151 6 32 566862 20200607230457
+185.69.186.71 14 112 2103335 20200616095317
+66.102.9.98 32 157 3173936 20200628092835
+178.62.82.141 14 14 764805 20200627053716
+10.103.212.136 2 2 129577 20200603024648
+185.69.186.32 24 170 3194278 20200622132428
+185.246.208.141 2 2 44920 20200601193206
+185.246.210.186 6 6 134760 20200624162050
+188.226.188.142 4 41 754615 20200620075019
+185.69.186.169 16 42 910876 20200611102718
+10.104.230.41 6 48 916731 20200613114400
+10.104.74.24 12 68 1132406 20200618113255
+10.105.69.178 2 46 696076 20200628231215
+178.35.233.227 2 2 136342 20200601050810
+46.53.246.240 12 12 269496 20200623155325
+64.64.121.88 2 2 32158 20200616031549
+188.165.141.114 4 4 89912 20200624050255
+185.206.225.145 6 6 234528 20200601035118
+35.228.4.92 12 12 86686 20200611104059
+52.188.200.243 4 4 274332 20200607124153
+157.245.220.126 10 100 2001555 20200607060902
+209.222.101.251 4 4 89840 20200606120900
+212.175.166.246 20 89 2125232 20200629112711
+10.104.43.254 6 77 1617230 20200603220113
+34.68.51.59 114 114 823517 20200604232615
+85.159.214.184 8 86 1517177 20200615195847
+95.85.108.174 8 47 764974 20200610193758
+66.249.83.125 0 61 927249 
+62.210.215.112 6 6 407706 20200628234228
+185.69.186.126 18 37 1574049 20200621203416
+10.105.19.150 10 54 1189248 20200624163518
+135.181.30.139 2 2 136290 20200623213133
+35.228.13.52 12 12 86686 20200615162431
+185.69.186.226 2 43 687579 20200627231703
+185.69.186.60 4 12 174638 20200614130738
+69.39.238.204 2 42 713554 20200606163055
+5.45.80.218 4 4 89824 20200628013151
+10.105.9.82 2 41 681811 20200605224722
+185.69.186.143 8 51 1253516 20200625153849
+78.186.161.36 2 34 552580 20200608161900
+185.69.185.113 2 65 1189284 20200604070925
+49.145.124.42 4 4 283632 20200624115957
+88.80.186.185 2 2 108156 20200620231148
+185.69.186.178 4 86 1376019 20200630064137
+45.140.250.190 1 1 23601 20200629190821
+52.88.3.25 2 2 136232 20200619225306
+149.28.228.2 2 2 32157 20200624225148
+185.69.186.228 13 30 1238751 20200626235307
+185.69.186.53 14 68 1414690 20200628164422
+185.69.186.218 2 43 686310 20200606042815
+52.149.142.81 4 4 273464 20200620192305
+185.69.186.73 2 31 516919 20200608000407
+208.80.194.28 2 2 136452 20200607080949
+185.69.186.171 2 2 107936 20200607104907
+52.179.18.244 6 6 43343 20200624035115
+185.210.218.104 2 2 44920 20200608145307
+10.103.150.165 8 54 918902 20200626122939
+185.69.186.96 16 74 1552543 20200625055932
+195.181.168.172 4 4 78819 20200612162233
+185.69.186.251 12 216 3864959 20200623184313
+81.214.81.34 2 41 680919 20200619172951
+37.192.199.97 8 8 315652 20200606153054
+185.69.186.124 11 119 2400359 20200627131800
+51.254.237.77 4 4 89904 20200630080510
+217.174.232.146 10 170 3230502 20200624163446
+51.77.52.160 18 18 1227722 20200629154923
+125.25.192.118 6 6 43343 20200609123151
+185.69.186.201 14 59 1232111 20200624161243
+2.94.130.36 4 71 1431960 20200614163406
+199.249.230.184 2 2 129 20200608020126
+10.105.184.16 2 20 504994 20200629163625
+185.246.208.44 2 2 44918 20200606173912
+185.69.186.194 6 50 825318 20200617135632
+45.64.134.198 4 4 89832 20200619234257
+185.69.185.192 2 62 1081749 20200606160843
+185.69.186.113 30 309 5395127 20200629073335
+116.202.15.244 2 2 136664 20200606110154
+217.174.234.108 8 53 918939 20200619085225
+88.147.173.133 2 2 44918 20200630084926
+173.232.6.35 6 6 222022 20200617013353
+74.84.150.210 2 2 44916 20200609113822
+80.95.45.19 2 2 136734 20200618203004
+185.69.186.186 4 49 803100 20200623103736
+89.39.104.238 10 110 2017895 20200625145917
+79.173.90.153 4 4 89832 20200609084843
+185.69.185.39 2 31 516919 20200606224228
+185.69.186.202 2 4 178458 20200625142307
+80.92.181.3 4 4 89824 20200604044519
+176.110.134.2 4 4 89832 20200620082605
+106.75.85.103 2 2 136341 20200630080217
+51.159.30.99 2 2 42936 20200616124156
+89.109.35.231 8 8 179760 20200630205523
+185.69.186.15 8 52 877302 20200608132309
+52.12.44.210 2 2 136046 20200601221756
+34.216.120.237 2 2 136954 20200620222256
+13.68.157.83 22 22 925048 20200621071110
+185.69.186.107 32 178 3519180 20200616230848
+178.22.71.12 2 2 136314 20200610232727
+204.155.30.83 4 41 645753 20200602163422
+34.212.175.198 4 4 273968 20200622175440
+185.69.186.135 9 50 970537 20200614133303
+18.237.142.71 2 2 137064 20200606221233
+216.144.230.233 2 2 44920 20200609235623
+167.99.48.238 2 19 404059 20200606092335
+196.240.104.68 2 2 131952 20200606131410
+185.69.186.70 12 53 857696 20200617145745
+202.21.130.193 20 115 2644309 20200615024415
+185.69.186.111 3 17 471207 20200627061933
+37.113.164.44 2 2 44916 20200623214619
+10.105.171.1 2 20 444665 20200616090112
+185.69.186.3 4 86 1376353 20200622171211
+20.186.34.89 2 2 136110 20200603175121
+10.104.112.226 2 43 687212 20200604091300
+74.125.212.95 2 17 374658 20200601121318
+51.15.25.13 2 2 136368 20200605203216
+10.103.140.212 14 79 1707344 20200622235022
+185.69.186.17 20 72 1966776 20200628003439
+185.69.186.248 4 12 254610 20200628092833
+188.165.232.202 8 8 179680 20200619065920
+212.83.46.232 4 4 163780 20200625014952
+142.93.71.22 2 19 403135 20200614082446
+185.69.186.44 18 60 1590835 20200613164805
+10.103.36.208 2 2 173693 20200625125524
+193.176.86.178 4 4 89824 20200625115748
+54.153.62.208 2 2 135656 20200609082145
+185.69.186.233 12 82 1719696 20200619104246
+173.44.230.39 12 12 509880 20200604205840
+179.43.174.226 2 2 44918 20200624135344
+5.18.201.111 2 65 1138813 20200630050836
+185.69.186.216 14 100 1930636 20200626174456
+10.104.198.8 8 51 1467738 20200622174922
+185.69.186.163 2 6 194117 20200618101248
+185.69.185.197 4 41 645673 20200602155719
+62.210.111.127 2 2 44918 20200609085201
+10.105.22.159 32 87 3073430 20200630144611
+107.173.68.208 6 6 218258 20200628040935
+88.255.217.71 2 2 32130 20200619042150
+188.165.241.177 6 6 134760 20200625211012
+185.69.186.153 2 43 687235 20200604141143
+185.69.186.253 10 117 2192303 20200629103154
+5.167.118.77 2 2 44950 20200627221849
+109.200.248.137 2 2 135921 20200624033135
+195.211.23.208 0 2 34574 
+185.69.186.30 6 6 457964 20200606231114
+159.192.246.7 4 4 89904 20200601014605
+37.113.164.123 2 2 44918 20200630061428
+185.69.186.121 6 6 459102 20200629194458
+176.9.145.30 2 2 44914 20200623155322
+89.163.242.241 12 12 819250 20200628081231
+185.69.186.181 23 73 2114792 20200607112417
+52.89.152.181 2 2 136108 20200610000104
+38.99.62.94 10 10 682882 20200628112151
+185.69.186.103 10 14 606932 20200610081130
+185.69.186.203 14 128 2371794 20200624191719
+3.7.210.84 4 43 792016 20200624165915
+10.104.102.77 24 93 2637513 20200604172718
+10.103.169.99 23 122 2716282 20200614125818
+54.218.50.176 2 2 137106 20200616222904
+95.173.179.90 6 6 43343 20200621054521
+164.132.201.87 2 2 44918 20200610045016
+185.189.115.140 2 66 1344655 20200604172543
+206.217.128.106 4 4 164110 20200628020102
+51.195.166.175 2 2 44918 20200610070415
+95.47.57.126 14 89 1725004 20200607134712
+94.54.16.184 38 168 3711250 20200612173928
+199.249.230.160 2 2 44920 20200626002916
+185.69.186.84 14 68 1629147 20200621215932
+10.104.199.127 2 21 541917 20200621005509
+185.69.186.174 6 7 408395 20200615172956
+185.246.210.201 2 2 44920 20200605131005
+10.103.42.217 22 100 2315978 20200605145415
+54.187.39.31 2 2 137092 20200629112519
+136.243.104.222 2 61 1026885 20200606141359
+10.103.179.214 4 66 1204679 20200602152319
+94.139.243.35 12 12 269496 20200630073643
+193.169.86.180 2 4 216185 20200630005735
+62.149.29.36 8 8 179656 20200629203132
+77.108.74.130 6 6 134748 20200610134924
+185.69.186.22 2 41 683835 20200613095955
+36.110.90.17 12 107 2064357 20200630103445
+10.105.67.158 2 14 184819 20200629100435
+185.69.185.148 4 47 866608 20200607141324
+37.120.145.94 2 2 136284 20200605202238
+75.127.6.51 2 2 32130 20200619164823
+35.228.14.127 6 6 43343 20200612090906
+34.209.41.195 2 2 136520 20200613224120
+185.69.186.63 20 105 2355835 20200627114145
+10.103.254.210 10 74 1946175 20200619011457
+10.104.44.78 14 34 800177 20200614134659
+66.249.93.26 0 13 86628 
+156.146.36.73 4 4 79332 20200619224213
+185.69.186.27 2 45 692740 20200628185942
+185.69.186.6 2 42 684277 20200603160818
+46.191.138.158 6 6 134754 20200611033208
+109.86.134.93 2 2 31846 20200624040002
+89.151.179.70 2 2 44916 20200630002436
+70.37.66.118 8 8 543984 20200612100805
+212.92.114.228 2 2 44918 20200629055728
+148.217.94.54 2 2 0 20200610042630
+195.123.245.143 2 2 135640 20200625082110
+185.69.186.62 2 23 526378 20200615161135
+178.159.37.58 4 4 89832 20200625120648
+5.100.193.81 6 46 917188 20200627003026
+3.92.111.236 8 8 544618 20200612180148
+10.103.216.178 46 93 2168677 20200629223902
+79.137.44.85 4 4 89900 20200612085954
+83.149.46.87 4 64 1168160 20200604013633
+217.174.230.202 51 124 4142267 20200629101317
+185.69.186.227 26 71 1896027 20200622220615
+85.29.188.5 4 4 89824 20200616202556
+134.249.127.121 6 6 134760 20200630001632
+172.104.141.200 2 2 117504 20200626143634
+10.105.160.19 4 44 718297 20200617010123
+94.181.106.57 2 34 573575 20200609141755
+88.240.251.246 14 69 1554831 20200609032337
+185.69.186.79 4 45 730367 20200626212017
+10.105.131.183 2 41 683844 20200617184713
+46.216.144.239 2 33 630266 20200626153842
+198.211.105.109 2 2 135740 20200614070052
+5.188.70.32 67 118 3782639 20200628104039
+66.249.81.34 14 67 1311577 20200625155242
+46.233.195.145 2 39 678183 20200612124210
+95.108.133.195 10 71 1409599 20200615135625
+34.222.85.137 2 2 136808 20200630165932
+88.198.50.113 2 62 1027840 20200607121240
+185.210.218.100 2 2 44920 20200608151814
+186.145.239.222 6 6 134760 20200627070407
+45.140.174.84 2 2 44916 20200619162055
+185.69.186.118 2 39 613365 20200605114757
+95.55.48.230 2 2 44932 20200610073646
+88.147.153.216 2 2 44918 20200618232207
+35.228.225.29 18 18 130029 20200626120411
+10.104.224.109 2 38 674755 20200610020532
+91.121.88.225 10 10 224580 20200625205812
+185.69.186.196 18 84 2139112 20200626152446
+150.129.8.24 4 4 89828 20200629120039
+92.124.161.53 4 4 89832 20200623211615
+185.69.186.109 4 10 344276 20200609150037
+185.69.186.151 6 88 1482554 20200607222021
+185.69.185.70 4 43 857866 20200617092508
+218.90.171.214 4 4 89836 20200608151307
+5.12.129.53 2 2 44948 20200611031458
+107.181.189.230 2 2 145720 20200628010535
+37.229.204.155 12 12 269508 20200616202018
+185.69.186.52 2 7 173676 20200612080750
+41.169.151.90 2 2 32130 20200617203901
+185.69.186.137 32 193 4132232 20200621101618
+185.69.186.46 33 130 3887286 20200629134713
+185.69.186.37 6 9 345429 20200609052219
+195.181.170.83 2 2 44918 20200622202659
+185.69.186.238 8 94 1597100 20200607200736
+185.69.186.246 23 82 2191106 20200616142103
+188.19.45.211 24 94 2351719 20200604131203
+10.105.48.108 10 50 727983 20200604103806
+185.69.186.94 4 101 1689179 20200619164325
+123.231.120.150 4 91 1670470 20200601195532
+176.214.77.92 2 41 613458 20200623085335
+52.230.57.185 4 4 64315 20200619041425
+95.47.156.228 4 68 1303843 20200618013931
+10.105.173.50 20 66 1349712 20200612140128
+185.69.186.91 9 55 1076479 20200601113249
+35.205.22.41 24 24 173372 20200607022710
+95.47.57.37 2 42 686644 20200627163237
+91.240.109.1 12 12 819690 20200626163734
+54.183.181.217 82 82 2090186 20200628190603
+185.69.186.212 34 191 3527463 20200613083735
+54.70.171.55 2 2 136166 20200608223802
+185.69.186.87 8 36 721394 20200615031427
+88.245.196.155 6 72 1512230 20200629013854
+95.73.119.1 4 4 89824 20200610234056
+85.91.197.172 2 45 687618 20200607084438
+185.69.186.132 18 129 2841631 20200623010855
+171.97.170.251 2 2 0 20200624074828
+52.90.7.21 2 2 136852 20200608071247
+95.85.111.46 4 45 769993 20200620110635
+185.69.186.40 10 68 1428453 20200615133028
+185.69.186.105 12 12 769121 20200626211505
+142.93.226.185 2 2 136400 20200618012235
+31.132.211.144 18 18 605246 20200607235121
+185.69.186.57 2 5 180077 20200601172729
+10.105.95.236 4 46 740753 20200601194059
+185.69.186.211 14 78 1919823 20200610224611
+50.116.44.207 2 2 117504 20200624062922
+100.20.101.100 2 2 136600 20200626014119
+185.69.186.191 9 93 1530733 20200623131033
+45.132.105.114 2 2 44918 20200610145151
+212.83.46.27 2 2 36974 20200619060740
+185.69.186.244 14 114 2019450 20200629151729
+128.69.175.211 2 43 618091 20200607231317
+185.69.186.65 22 136 2702711 20200626001835
+217.12.199.179 2 2 136054 20200603204514
+10.103.54.144 6 54 1014698 20200620231401
+46.104.42.162 2 4 226171 20200608093253
+10.104.84.123 24 134 3547985 20200626180122
+185.69.186.231 2 33 611204 20200608154755
+188.166.14.151 0 15 233066 
+35.161.144.47 2 2 136188 20200611221232
+13.56.51.63 2 8 499987 20200627103906
+87.247.91.170 22 102 2313062 20200603215519
+198.108.66.242 2 2 136478 20200606050447
+35.193.194.224 8 8 521725 20200604011306
+185.69.186.172 6 14 480766 20200617162211
+185.69.186.149 6 14 323742 20200602222233
+31.3.227.40 8 18 847366 20200614214604
+10.104.1.251 118 201 1947843 20200626181748
+34.222.225.98 4 4 273076 20200616013802
+178.120.56.118 2 45 748111 20200616022643
+212.96.79.151 33 80 2115938 20200619184901
+51.195.166.186 8 8 179672 20200614012911
+79.75.33.72 10 71 1423537 20200602155920
+10.104.248.64 6 47 914606 20200607080057
+10.103.158.75 6 44 679409 20200607170238
+188.165.225.146 4 4 10 20200616011508
+45.141.156.59 4 4 280182 20200615092616
+88.99.137.13 4 4 138006 20200603172055
+199.249.230.158 2 2 44920 20200626032718
+3.229.142.123 2 2 135858 20200613065013
+10.104.54.216 2 12 180031 20200607231543
+192.99.5.94 2 2 8234 20200602210716
+62.171.151.173 4 4 89836 20200611004520
+185.69.185.93 12 64 1509554 20200621093530
+80.94.164.89 2 32 573814 20200608211928
+10.103.4.121 40 327 5478626 20200630182434
+185.69.186.198 44 136 2887023 20200618010759
+195.211.23.224 4 4 64604 20200616210939
+185.69.186.182 2 2 107842 20200605165753
+176.193.23.190 2 2 131222 20200602215201
+217.174.227.46 2 40 615743 20200611164514
+185.69.186.206 27 170 3934755 20200622154136
+46.104.46.154 1 7 36436 20200621160508
+95.213.218.170 16 183 2938697 20200626132317
+185.69.186.117 21 85 1774759 20200628140303
+192.36.52.37 2 2 136164 20200623064223
+176.126.84.105 16 210 3411825 20200627183918
+107.175.158.6 6 6 227046 20200607132743
+35.240.118.56 6 6 43343 20200628143052
+5.188.210.18 16 16 459590 20200625150357
+185.69.185.101 2 9 277237 20200607181745
+217.174.230.107 8 135 2576481 20200618115447
+95.12.176.46 10 55 1186860 20200607030810
+85.105.152.210 2 27 558142 20200601121318
+62.210.83.78 2 2 136284 20200625165725
+10.103.164.6 34 148 3349269 20200627101531
+62.210.111.97 2 2 38514 20200626224717
+178.33.46.35 4 4 89828 20200617134237
+23.101.2.247 2 2 44914 20200606215039
+185.69.186.77 16 89 1460760 20200613123736
+23.251.136.66 6 6 381357 20200605050751
+109.206.15.53 8 73 1781642 20200625184629
+72.221.164.35 10 10 224580 20200615075159
+95.108.244.75 2 24 454395 20200626170011
+88.243.195.200 6 67 1243738 20200608053447
+185.69.186.82 6 19 287084 20200626054843
+10.105.149.83 5 44 883849 20200626201530
+93.81.209.83 2 40 611193 20200619015640
+95.47.57.48 6 52 969039 20200620181116
+98.143.145.29 4 4 89832 20200610140654
+10.103.229.47 24 36 1434421 20200630213753
+86.135.191.89 2 2 135662 20200602153817
+95.55.89.124 6 6 134742 20200623025340
+88.155.72.147 2 43 741949 20200624193721
+66.102.9.127 36 174 3360779 20200628092834
+34.219.12.231 4 4 272672 20200608180332
+185.69.186.35 17 156 2606733 20200630192601
+18.237.227.137 4 4 274520 20200629180344
+185.69.186.8 16 59 1772417 20200606200444
+54.187.39.222 2 2 136276 20200605224500
+62.89.0.206 8 72 1472795 20200624194328
+210.236.8.21 31 80 2459261 20200622221408
+10.105.41.6 6 42 675647 20200617154304
+198.74.57.24 4 45 762562 20200606031815
+185.69.185.122 2 34 552612 20200625154638
+154.51.131.142 8 8 545402 20200624143730
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20200601 2653 18719 377863746 86
+20200602 2731 18482 385118821 79
+20200603 2659 19192 385795057 96
+20200604 3698 20646 469788072 92
+20200605 5513 22048 580983903 84
+20200606 5097 21588 568466185 102
+20200607 5540 22443 588071471 116
+20200608 4008 19457 472073424 81
+20200609 2712 17793 376412573 75
+20200610 2872 18210 387762128 61
+20200611 2258 17677 355757111 56
+20200612 2395 17907 362912248 50
+20200613 2360 18304 364095017 54
+20200614 3134 18076 405553350 43
+20200615 4165 20376 482153940 79
+20200616 3874 20127 470978594 79
+20200617 3631 19167 459014797 78
+20200618 3785 19290 461407056 56
+20200619 3919 19397 465121802 66
+20200620 3689 19515 455825069 61
+20200621 3967 20201 471337776 60
+20200622 3293 19525 427061913 74
+20200623 3005 18618 405187516 58
+20200624 3428 18631 430772525 71
+20200625 3320 18834 428307278 74
+20200626 3751 19405 444254974 76
+20200627 3502 18251 418106861 62
+20200628 4709 19124 470982355 62
+20200629 3331 17907 405223276 75
+20200630 3777 17999 419202856 61
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 219
+5mn-15mn 49
+2mn-5mn 96
+30s-2mn 264
+15mn-30mn 18
+0s-30s 1478
+30mn-1h 43
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 74
+/tm/ 36223 2472063500 396 330
+/templates/meteo/fonts/fontawesome-webfont.woff 13749 574045910 5 73
+/ru/meteo-data/current-data 11870 241896457 1 2
+/ru/meteo-data/current-data/form/current_data 11472 499847340 0 1
+/ru/ 5379 389237121 101 51
+/en/ 5008 354890836 12 6
+/tm/component/ajax/ 3714 239553 248 183
+/tm/weather/forecast 2917 137221569 307 403
+/tm/meteo-data/current-data 2652 45480170 0 1
+/tm/meteo-data/current-data/form/current_data 2558 110968838 0 0
+/en/component/users/ 164 5545033 49 42
+/tm/component/users/ 78 4124886 1 1
+/tm/photo-gallery 126 1865204 3 7
+/tm/photo-gallery/amyderya 15 226760 0 0
+/en/photo-gallery/60-year 10 238648 0 0
+/en/photo-gallery 20 310322 2 0
+/en/photo-gallery/ilchik 14 244064 0 0
+/tm/32pone.php 4 246600 1 1
+/ru/meteo-data/forecast 686 13344764 0 0
+/en/contact 42 858300 3 6
+/tm/components/com_foxcontact/3s.php 4 251146 1 1
+/ru/contact 78 1708126 8 20
+/ru/photo-gallery/image 210 14934020 0 2
+/tm/weather/weather-now 2187 155671391 537 467
+/tm/contact 162 3122871 14 29
+//administrator/help/en-GB/toc.json 2 10736 0 0
+/ru 10 727841 5 2
+/en/weather/weather-now 38 2860930 0 1
+/tm/component/content/ 2 234263 0 1
+/en/links 48 2046524 0 3
+/ru/links 64 2923790 6 6
+/administrator/ 388 2802326 65 65
+/ru/weather/forecast 641 32854327 52 73
+/ru/contact/ 946 21246452 272 267
+/modules/mod_login/mod_login.xml 4 16468 2 2
+/tm/links 234 9886641 20 41
+/en/photo-gallery/geoktepe 10 164904 0 0
+/en/weather/forecast 128 5340914 5 6
+/tm/libraries/joomla/template/123.php 4 246708 1 1
+/tm/meteo-data/forecast/form/fore 392 26401414 0 0
+/tm/photo-gallery/60-year 24 517824 0 0
+/tm/photo-gallery/geoktepe 12 169996 0 0
+/ru/photo-gallery/ilchik 14 254840 0 0
+/tm/components/com_users/55index.php 4 246930 1 1
+/tm/photo-gallery/ 6 88800 0 0
+/en/photo-gallery/ 6 103314 0 0
+/ru/photo-gallery/geoktepe 12 207248 2 0
+/ru/photo-gallery/60-year 14 344944 0 0
+/language/en-GB/en-GB.xml 2 1896 0 1
+/tm/home 4 271324 0 0
+/en/component/ajax/ 10 645 1 1
+/index.php/component/users/ 4 51788 0 2
+/tm/component/users 24 310262 0 3
+/ru/component/ajax/ 1740 112230 33 26
+/tm/meteo-data/forecast 570 9299623 0 0
+/ru/weather/weather-now 647 44916478 8 19
+/tm/photo-gallery/ilchik 20 302444 0 0
+/templates/beez3/index.php 2 5 1 1
+/administrator/help/en-GB/toc.json 4 21472 0 0
+/tm/index.php 2 136576 0 0
+http://meteo.gov.tm/ru/contact/ 2 44916 0 1
+/en/photo-gallery/image 186 13330425 0 0
+/ru/component/users/ 86 5731150 2 4
+/ru/photo-gallery 38 681050 0 1
+/templates/beez3/error.php 4 10 1 1
+/ru/photo-gallery/ 10 179284 0 0
+/templates/meteo/fonts/fontawesome-webfont.eot 14 464496 0 3
+/ru/meteo-data/forecast/form/fore 454 29003028 0 0
+/ru/photo-gallery/amyderya 12 218500 0 2
+/media/jui/fonts/IcoMoon.woff 2 50848 0 1
+/components/com_weblinks/weblinks.php 4 10 1 1
+/index.php 8 568580 0 0
+/en/photo-gallery/amyderya 12 209100 0 0
+/tm/photo-gallery/image 570 43143970 0 4
+END_SIDER

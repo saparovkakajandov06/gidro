@@ -1,0 +1,7 @@
+AuthType Basic
+AuthName "/www/meteo.gov.tm/webstat"
+AuthUserFile /var/www/meteo/data/etc/13765016.passwd
+DirectoryIndex index.html
+<Limit GET POST>
+	require valid-user
+</Limit>

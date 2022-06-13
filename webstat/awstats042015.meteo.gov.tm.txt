@@ -1,0 +1,3200 @@
+AWSTATS DATA FILE 7.1 (build 1.983)
+# If you remove this file, all statistics for date 201504 will be lost/reset.
+# Last config file used to build this data file was /etc/awstats/awstats.meteo.gov.tm.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1992                
+POS_TIME 2671                
+POS_VISITOR 55641               
+POS_DAY 106595              
+POS_DOMAIN 3690                
+POS_LOGIN 3927                
+POS_ROBOT 4082                
+POS_WORMS 5070                
+POS_EMAILSENDER 5201                
+POS_EMAILRECEIVER 5344                
+POS_SESSION 107568              
+POS_SIDER 107788              
+POS_FILETYPES 5479                
+POS_DOWNLOADS 5814                
+POS_OS 5862                
+POS_BROWSER 6189                
+POS_SCREENSIZE 9271                
+POS_UNKNOWNREFERER 9345                
+POS_UNKNOWNREFERERBROWSER 23054               
+POS_ORIGIN 24120               
+POS_SEREFERRALS 24271               
+POS_PAGEREFS 24484               
+POS_SEARCHWORDS 25512               
+POS_KEYWORDS 37710               
+POS_MISC 2333                
+POS_ERRORS 43555               
+POS_CLUSTER 3783                
+POS_SIDER_404 43683               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20150501000015 1852 809244 59424197803
+FirstTime 20150401000011
+LastTime 20150430225928
+LastUpdate 20150501000120 3 0 2 0 0
+TotalVisits 2947                
+TotalUnique 462                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 1708                
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 923 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 417 1977 35450562 300 524 7024119
+1 103 787 9601331 266 341 3878682
+2 346 1086 18398466 306 355 4778404
+3 214 923 11906982 560 639 13407674
+4 66 731 10000465 222 269 5705348
+5 296 1253 14270713 572 627 13258041
+6 498 2259 29227509 366 458 8486186
+7 463 1924 26741434 470 1454 14507662
+8 554 2971 37881480 595 1553 17865002
+9 700 4296 71038811 553 1290 11729967
+10 745 4114 61337762 493 1035 13163379
+11 529 3499 53189254 483 891 9812647
+12 403 2736 40061504 362 594 5331167
+13 597 3363 53365997 375 1145 10216511
+14 779 4661 71328141 627 1741 14722292
+15 1140 4627 75934244 879 1349 6742909
+16 865 3727 62695105 450 1002 7555438
+17 896 3472 58485837 789 1253 8649666
+18 544 3439 50657489 407 780 7401364
+19 544 2851 40447596 422 840 7389557
+20 681 4212 69958860 444 940 16767104
+21 637 2960 42346992 463 740 6161305
+22 551 3349 49248615 255 514 7509643
+23 343 3150 42645688 300 719 8016113
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 12911 68367 1036220837
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 23
+no_user_agent 4268 49329313 20150430221634 7
+rambler 3250 17599374 20150429191838 0
+googlebot 1908 59458505 20150430233809 546
+crawl 746 38757224 20150425204838 5
+mj12bot 405 19742652 20150427073450 22
+yandex 383 13150387 20150430170949 82
+slurp 249 7026896 20150430223613 31
+robot 244 7418709 20150430012254 1
+bingpreview 240 1187207 20150429214621 0
+bingbot 175 5353714 20150430225904 27
+core 1 29720 20150426125308 0
+libwww 3 93171 20150409033854 0
+seznambot 4 90168 20150426111934 2
+mail\.ru 60 1006538 20150424191704 27
+phantom 2 115918 20150406153354 0
+unknown 28 15570 20150430155117 28
+favicon 6 259812 20150427111347 0
+bot[\s_+:,\.\;\/\\-] 26 557325 20150430181831 11
+discovery 31 145807 20150415154732 0
+cfnetwork 2 48756 20150419213826 0
+baiduspider 168 3043707 20150430225233 0
+netcraft 2 86784 20150409044556 0
+nutch 2 43184 20150430180403 1
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 13
+css 18575 89306041 0 0
+eot 65 928992 0 0
+png 4895 20324657 0 0
+ttf 20 342380 0 0
+woff 180 2755632 0 0
+php 83 702395 0 0
+html 2036 76704051 0 0
+js 17210 222334420 0 0
+xml 1 4337 0 0
+jpg 14187 225375273 0 0
+Unknown 10526 394123552 0 0
+gif 585 3058805 0 0
+svg 4 260302 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 17
+linuxandroid 17521 3095
+winxp 3236 419
+winlong 115 36
+symbian 703 164
+java 2073 210
+linuxubuntu 1 1
+winvista 1071 98
+linux 788 82
+win7 28180 5934
+macosx 2575 279
+bsdfreebsd 1 1
+winunknown 181 23
+j2me 2876 384
+win2003 1 1
+wince 1 1
+Unknown 9039 2178
+macosx8 5 5
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 142
+safari3.0 3 2
+chrome12.0.742.100 71 18
+firefox3.6 85 38
+chrome32.0.1700.72 4 1
+chrome41.0.2272.96 183 18
+chrome31.0.1650.57 73 5
+chrome31.0.1650.63 35 1
+safari5.0.2 24 4
+chrome24.0.1312.71 54 21
+chrome32.0.1700.99 39 4
+msie8.0 2955 1139
+chrome11.0.696.34 102 15
+chrome39.0.2171.65 1 1
+msie7.0 64 20
+chrome17.0.963.46 318 52
+chrome30.0.1599.82 370 73
+chrome41.0.2272.89 32 1
+firefox9.0.1 1 1
+chrome31.0.1650.59 84 26
+chrome44.0.2376.0 23 4
+chrome28.0.1500.75 74 4
+firefox38.0 2 1
+chrome30.0.1599.69 4 1
+chrome32.0.1700.107 1 1
+chrome35.0.1916.114 106 26
+firefox33.0 34 8
+chrome38.0.2125.114 8 2
+chrome42.0.2311.50 49 3
+chrome41.0.2228.0 17 17
+chrome36.0.1985.534 2 2
+firefox36.0 6 2
+safari 1318 261
+safari7.0 1379 100
+chrome34.0.1847.76 118 12
+firefox5.0 2 2
+android 10802 1959
+chrome29.0.1547.0 1 1
+chrome36.0.1985.125 2 2
+firefox24.0 3 3
+opera9.80 21410 1669
+chrome33.0.0.0 89 7
+iphone 25 7
+chrome38.0.2125.122 342 74
+chrome42.0.2311.109 58 5
+chrome34.0.1847.116 38 4
+chrome28.0.1500.52 1 1
+chrome33.0.1750.514 38 2
+chrome43.0.2357.10 62 2
+chrome8.0.552.224 21 4
+firefox32.0 3 3
+chrome39.0.2171.93 194 19
+chrome27.0.87.90 3 3
+safari8.0.5 69 2
+chrome18.0.1025.166 148 30
+vodafone 25 3
+samsung 218 30
+firefox3.6.16 1 1
+opera9.27 6 6
+chrome35.0.1916.141 313 44
+chrome39.0.2171.59 45 3
+safari2.0.1 178 36
+chrome36.0.1985.97 14 14
+chrome38.0.2125.102 37 7
+chrome22.0.1104.222 40 38
+nokia 1319 149
+chrome25.0.1364.172 33 1
+safari4.0.4 23 2
+chrome39.0.2171.99 18 18
+chrome33.0.1750.517 119 36
+firefox3.5.7 2 2
+msie6.0 101 97
+chrome40.0.2214.115 654 81
+chrome40.0.2214.91 123 22
+chrome18.0.1025.308 484 97
+ibrowse 5800 548
+firefox26.0 26 20
+sonyericsson 1028 147
+chrome29.0.1547.67 5 1
+chrome28.0.1500.94 2467 381
+chrome40.0.2214.111 1 1
+firefox18.0 4 4
+msie4.01 1 1
+firefox4.0 3 3
+chrome39.0.2171.95 151 40
+firefox34.0 19 19
+chrome42.0.2311.90 4162 1676
+firefox23.0 265 7
+chrome41.0.2272.76 2 1
+chrome20.0.1132.43 37 5
+chrome39.0.2171.71 208 99
+chrome38.0.2125.509 1 1
+cloudflare 270 46
+chrome34.0.1847.131 104 13
+chrome40.0.2214.109 59 19
+lg\- 86 12
+safari6.0 5 1
+firefox12.0 16 7
+chrome29.0.1600.1 2 2
+mozilla 1759 1326
+chrome42.0.2311.135 64 2
+chrome40.0.2214.89 6 3
+chrome32.0.1700.76 2 1
+safari8.0.2 7 7
+firefox19.0 57 57
+firefox8.0.1 4 0
+chrome25.0.1364.169 14 3
+firefox35.0 558 158
+chrome37.0.2062.124 2 2
+chrome29.0.1547.57 1 1
+chrome43.0.2357.2 60 3
+firefox3551 8 1
+chrome13.0.782.220 25 14
+firefox9.0 53 8
+chrome26.0.1410.58 144 31
+firefox31.0 6 4
+sage 93 91
+firefox6.0.2 11 11
+chrome41.0.2272.101 622 211
+safari8.0 213 39
+chrome30.0.1599.66 2 2
+firefox27.0 4 4
+chrome30.0.1599.101 4 4
+Unknown 941 95
+chrome30.0.0.0 266 31
+chrome35.0.1916.138 3 2
+chrome34.0.1847.114 23 15
+chrome29.0.1547.59 31 9
+chrome41.0.2272.118 2663 1162
+chrome4.0.249.78 33 2
+chrome9.0.597 230 34
+chrome20.0.1132.57 5 1
+chrome41.0.2272.104 38 4
+safari8.0.4 78 14
+chrome18.0.966.0 6 4
+chrome36.0.1985.135 95 37
+chrome32.0.1717.129 13 8
+firefox37.0 368 31
+msie10.0 342 37
+safari5.1 11 3
+chrome27.0.1453.116 9 2
+chrome33.0.1750.136 2 1
+firefox3.6.13 66 12
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 109
+Mozilla/5.0_(Series40;_Nokia302/14.78;_Profile/MIDP-2.1_Configuration/CLDC-1.1)_Gecko/20100401_S40OviBrowser/5.5.0.0.27 20150424001835
+Mozilla/5.0_(Series40;_Nokia311/03.90;_Profile/MIDP-2.1_Configuration/CLDC-1.1)_Gecko/20100401_S40OviBrowser/5.0.0.0.31 20150418082753
+Opera/9.80_(Android;_Opera_Mini/7.6.40234/36.1633;_U;_ru)_Presto/2.12.423_Version/12.16 20150415005659
+Mozilla/5.0_(compatible;_CloudFlare-AlwaysOnline/1.0;__http://www.cloudflare.com/always-online)_AppleWebKit/534.34 20150424151333
+Mozilla/5.0_(Series40;_Nokia305/03.60;_Profile/MIDP-2.1_Configuration/CLDC-1.1)_Gecko/20100401_S40OviBrowser/5.0.0.0.31 20150414050500
+Nokia303/5.0_(13.47)_Profile/MIDP-2.1_Configuration/CLDC-1.1_Mozilla/5.0_AppleWebKit/420__(KHTML,_like_Gecko)_Safari/420_ 20150409180330
+MQQBrowser/Mini2.2_(Nokia3500c/05.51) 20150412225728
+Nokia302/5.0_(14.53)_Profile/MIDP-2.1_Configuration/CLDC-1.1_Mozilla/5.0_AppleWebKit/420__(KHTML,_like_Gecko)_Safari/420_ 20150405085458
+ltx71_-_(http://ltx71.com/) 20150417150604
+Mozilla/5.0_(Series40;_Nokia303/14.87;_Profile/MIDP-2.1_Configuration/CLDC-1.1)_Gecko/20100401_S40OviBrowser/5.5.0.0.27 20150404140852
+NokiaX3-02/5.0_(06.05)_Profile/MIDP-2.1_Configuration/CLDC-1.1_Mozilla/5.0_AppleWebKit/420__(KHTML,_like_Gecko)_Safari/420_ 20150412094204
+Opera/9.27 20150429205149
+Nokia300/5.0_(07.03)_Profile/MIDP-2.1_Configuration/CLDC-1.1_Mozilla/5.0_AppleWebKit/420__(KHTML,_like_Gecko)_Safari/420_ 20150411012308
+Mozilla/5.0_(Series40;_NokiaX2-00/08.35;_Profile/MIDP-2.1_Configuration/CLDC-1.1)_Gecko/20100401_S40OviBrowser/5.0.0.0.31 20150427125508
+NokiaC2-01/5.0_(11.10)_Profile/MIDP-2.1_Configuration/CLDC-1.1_Mozilla/5.0_AppleWebKit/420__(KHTML,_like_Gecko)_Safari/420_ 20150419091730
+MQQBrowser/Mini2.2_(NokiaC3-00/08.70) 20150402121025
+UCWEB/2.0_(MIDP-2.0;_U;_Adr_4.4.2;_ru;_SM-G355H)_U2/1.0.0_UCBrowser/9.2.0.419_U2/1.0.0_Mobile 20150409213303
+Mozilla/5.0_(S60V3;_U;_ru;_NokiaC5-00.2)_AppleWebKit/530.13_(KHTML,_like_Gecko)_UCBrowser/8.6.0.199/28/355/UCWEB_Mobile 20150406175700
+Nokia300/5.0_(07.49)_Profile/MIDP-2.1_Configuration/CLDC-1.1_Mozilla/5.0_AppleWebKit/420__(KHTML,_like_Gecko)_Safari/420_ 20150423173209
+Mozilla/5.0_(Series40;_Nokia201/11.95;_Profile/MIDP-2.1_Configuration/CLDC-1.1)_Gecko/20100401_S40OviBrowser/5.5.0.0.27 20150427054044
+Nokia6303classic/2.0_(09.10)_Profile/MIDP-2.1_Configuration/CLDC-1.1_Mozilla/5.0_AppleWebKit/420__(KHTML,_like_Gecko)_Safari/420_ 20150425222129
+Mozilla/5.0_(Series40;_Nokia303/14.38;_Profile/MIDP-2.1_Configuration/CLDC-1.1)_Gecko/20100401_S40OviBrowser/5.0.0.0.31 20150426225625
+Opera/9.80_(Android;_Opera_Mini/7.5.31658/28.2647;_U;_ru)_Presto/2.8.119_Version/11.10 20150407211710
+Mozilla/5.0_(Series40;_Nokia309/05.85;_Profile/MIDP-2.1_Configuration/CLDC-1.1)_Gecko/20100401_S40OviBrowser/5.5.0.0.27 20150403185740
+Avant_Browser___(http://www.avantbrowser.com) 20150416104035
+Mozilla/5.0_(Series40;_Nokia310/08.13;_Profile/MIDP-2.1_Configuration/CLDC-1.1)_Gecko/20100401_S40OviBrowser/2.3.0.0.54 20150421095914
+Mozilla/5.0_(Series40;_Nokia515.2/05.08;_Profile/MIDP-2.1_Configuration/CLDC-1.1)_Gecko/20100401_S40OviBrowser/2.3.0.0.55 20150405080712
+Mozilla/5.0_(compatible;_MegaIndex.ru/2.0;__https://www.megaindex.ru/?tab=linkAnalyze) 20150414003305
+Nokia6303iclassic/5.0_(10.80)_Profile/MIDP-2.1_Configuration/CLDC-1.1_Mozilla/5.0_AppleWebKit/420__(KHTML,_like_Gecko)_Safari/420_ 20150426085807
+NokiaX3-02/5.0_(05.60)_Profile/MIDP-2.1_Configuration/CLDC-1.1_Mozilla/5.0_AppleWebKit/420__(KHTML,_like_Gecko)_Safari/420_ 20150404221631
+Mozilla/5.0_(Series40;_Nokia303/14.60;_Profile/MIDP-2.1_Configuration/CLDC-1.1)_Gecko/20100401_S40OviBrowser/5.0.0.0.31 20150409211859
+Mozilla/5.0_(Series40;_NokiaC2-02/06.96;_Profile/MIDP-2.1_Configuration/CLDC-1.1)_Gecko/20100401_S40OviBrowser/5.5.0.0.27 20150425174813
+Mozilla/5.0_(Series40;_Nokia110/03.04;_Profile/MIDP-2.1_Configuration/CLDC-1.1)_Gecko/20100401_S40OviBrowser/2.0.5.16.9 20150413150755
+Nokia300/5.0_(07.44)_Profile/MIDP-2.1_Configuration/CLDC-1.1_Mozilla/5.0_AppleWebKit/420__(KHTML,_like_Gecko)_Safari/420_ 20150426130714
+Mozilla/5.0_(Series40;_Nokia206/04.52;_Profile/MIDP-2.1_Configuration/CLDC-1.1)_Gecko/20100401_S40OviBrowser/5.5.0.0.27 20150424130340
+Opera/9.80_(Android;_Opera_Mini/6.5.29194/28.2794;_U;_ru)_Presto/2.8.119_Version/11.10 20150407211710
+Nokia7230/5.0_(09.83)_Profile/MIDP-2.1_Configuration/CLDC-1.1_Mozilla/5.0_AppleWebKit/420__(KHTML,_like_Gecko)_Safari/420_ 20150401214009
+Mozilla/5.0_(compatible;_VSAgent/1.2) 20150428102249
+Mozilla/5.0_(Series40;_Nokia206/04.52;_Profile/MIDP-2.1_Configuration/CLDC-1.1)_Gecko/20100401_S40OviBrowser/2.3.0.0.55 20150409070337
+UCWEB/2.0_(MIDP-2.0;_U;_Adr_4.1.2;_ru;_GT-I8190)_U2/1.0.0_UCBrowser/9.9.0.543_U2/1.0.0_Mobile 20150425122747
+NokiaC3-01.5/5.0_(07.58)_Profile/MIDP-2.1_Configuration/CLDC-1.1_Mozilla/5.0_AppleWebKit/420__(KHTML,_like_Gecko)_Safari/420_ 20150405192710
+Mozilla/5.0_(Series40;_Nokia110/03.04;_Profile/MIDP-2.1_Configuration/CLDC-1.1)_Gecko/20100401_S40OviBrowser/5.5.0.0.27 20150409091719
+Mozilla/5.0_(Series40;_Nokia303/13.44;_Profile/MIDP-2.1_Configuration/CLDC-1.1)_Gecko/20100401_S40OviBrowser/4.0.0.0.45 20150412185849
+Mozilla/5.0_(Series40;_NokiaC3-01/07.16;_Profile/MIDP-2.1_Configuration/CLDC-1.1)_Gecko/20100401_S40OviBrowser/5.5.0.0.27 20150404142029
+Mozilla/5.0_(Series40;_Nokia309/05.85;_Profile/MIDP-2.1_Configuration/CLDC-1.1)_Gecko/20100401_S40OviBrowser/5.0.0.0.31 20150420174051
+Opera/9.80_(Android;_Opera_Mini/7.0.29530/28.2725;_U;_ru)_Presto/2.8.119_Version/11.10 20150407211707
+NokiaC3-01/5.0_(05.68)_Profile/MIDP-2.1_Configuration/CLDC-1.1_Mozilla/5.0_AppleWebKit/420__(KHTML,_like_Gecko)_Safari/420_ 20150403140847
+Mozilla/5.0_(Series40;_Nokia303/13.44;_Profile/MIDP-2.1_Configuration/CLDC-1.1)_Gecko/20100401_S40OviBrowser/5.5.0.0.27 20150401230543
+Mozilla/5.0_(en-us)_AppleWebKit/534.14_(KHTML,_like_Gecko;_Google_Wireless_Transcoder)_Chrome/9.0.597_Safari/534.14 20150429224057
+Mozilla/5.0_(Series40;_Nokia206/04.51;_Profile/MIDP-2.1_Configuration/CLDC-1.1)_Gecko/20100401_S40OviBrowser/5.0.0.0.31 20150426214042
+Mozilla/5.0_(Series40;_Nokia302/15.09;_Profile/MIDP-2.1_Configuration/CLDC-1.1)_Gecko/20100401_S40OviBrowser/5.0.0.0.31 20150419205522
+Mozilla/5.0_(Series40;_Nokia303/14.76;_Profile/MIDP-2.1_Configuration/CLDC-1.1)_Gecko/20100401_S40OviBrowser/5.5.0.0.27 20150401170859
+Mozilla/5.0_(Series40;_Nokia202/20.36;_Profile/MIDP-2.1_Configuration/CLDC-1.1)_Gecko/20100401_S40OviBrowser/5.5.0.0.27 20150405084047
+Mozilla/5.0_(Series40;_Nokia309/08.22;_Profile/MIDP-2.1_Configuration/CLDC-1.1)_Gecko/20100401_S40OviBrowser/2.3.0.0.54 20150417201349
+NokiaX2-01/5.0_(08.65)_Profile/MIDP-2.1_Configuration/CLDC-1.1_Mozilla/5.0_AppleWebKit/420__(KHTML,_like_Gecko)_Safari/420_ 20150428210704
+NokiaC3-01/5.0_(06.05)_Profile/MIDP-2.1_Configuration/CLDC-1.1_Mozilla/5.0_AppleWebKit/420__(KHTML,_like_Gecko)_Safari/420_ 20150405123449
+Mozilla/5.0_(Series40;_NokiaC2-03/07.48;_Profile/MIDP-2.1_Configuration/CLDC-1.1)_Gecko/20100401_S40OviBrowser/2.3.0.0.49 20150407222305
+Mozilla/5.0_(Series40;_Nokia200/11.81;_Profile/MIDP-2.1_Configuration/CLDC-1.1)_Gecko/20100401_S40OviBrowser/2.0.2.68.14 20150414193225
+Nokia7230/5.0_(10.81)_Profile/MIDP-2.1_Configuration/CLDC-1.1_Mozilla/5.0_AppleWebKit/420__(KHTML,_like_Gecko)_Safari/420_ 20150427213759
+Mozilla/5.0_(Series40;_Nokia305/05.92;_Profile/MIDP-2.1_Configuration/CLDC-1.1)_Gecko/20100401_S40OviBrowser/3.9.0.0.22 20150420180618
+SAMSUNG-SGH-F480i/???_SHP/VPP/R5_NetFront/3.5_SMM-MMS/1.2.0_profile/MIDP-2.0_configuration/CLDC-1.1 20150415163532
+Mozilla/5.0_(Series40;_Nokia301/02.33;_Profile/MIDP-2.1_Configuration/CLDC-1.1)_Gecko/20100401_S40OviBrowser/5.0.0.0.31 20150429165934
+Mozilla/5.0_(Series40;_Nokia311/07.36;_Profile/MIDP-2.1_Configuration/CLDC-1.1)_Gecko/20100401_S40OviBrowser/2.3.0.0.54 20150413015648
+Mozilla/5.0_(Series40;_NokiaX2-02/11.79;_Profile/MIDP-2.1_Configuration/CLDC-1.1)_Gecko/20100401_S40OviBrowser/2.0.1.62.6 20150425090949
+NokiaX2-00/5.0_(08.25)_Profile/MIDP-2.1_Configuration/CLDC-1.1_Mozilla/5.0_AppleWebKit/420__(KHTML,_like_Gecko)_Safari/420_ 20150426112725
+Mozilla/5.0_(Series40;_Nokia206/03.58;_Profile/MIDP-2.1_Configuration/CLDC-1.1)_Gecko/20100401_S40OviBrowser/3.9.0.0.22 20150409192359
+Mozilla/5.0_(Series40;_Nokia302/14.26;_Profile/MIDP-2.1_Configuration/CLDC-1.1)_Gecko/20100401_S40OviBrowser/3.2.0.0.6 20150425164516
+Mozilla/5.0_(Series40;_Nokia206/04.51;_Profile/MIDP-2.1_Configuration/CLDC-1.1)_Gecko/20100401_S40OviBrowser/2.3.0.0.55 20150425205640
+Mozilla/5.0_(Series40;_Nokia311/03.90;_Profile/MIDP-2.1_Configuration/CLDC-1.1)_Gecko/20100401_S40OviBrowser/3.7.0.0.11 20150419203305
+Nokia6303iclassic/5.0_(09.83)_Profile/MIDP-2.1_Configuration/CLDC-1.1_Mozilla/5.0_AppleWebKit/420__(KHTML,_like_Gecko)_Safari/420_ 20150407075921
+NokiaC3-01.5/5.0_(06.75)_Profile/MIDP-2.1_Configuration/CLDC-1.1_Mozilla/5.0_AppleWebKit/420__(KHTML,_like_Gecko)_Safari/420_ 20150426090620
+Mozilla/5.0_(Series40;_Nokia305/05.92;_Profile/MIDP-2.1_Configuration/CLDC-1.1)_Gecko/20100401_S40OviBrowser/5.0.0.0.31 20150426092710
+Nokia300/5.0_(07.65)_Profile/MIDP-2.1_Configuration/CLDC-1.1_Mozilla/5.0_AppleWebKit/420__(KHTML,_like_Gecko)_Safari/420_ 20150406085211
+Nokia300/5.0_(07.57)_Profile/MIDP-2.1_Configuration/CLDC-1.1_Mozilla/5.0_AppleWebKit/420__(KHTML,_like_Gecko)_Safari/420_ 20150428170318
+UCWEB/2.0_(MIDP-2.0;_U;_Adr_2.3.7;_ru;_U8500)_U2/1.0.0_UCBrowser/9.7.0.520_U2/1.0.0_Mobile 20150404063932
+Mozilla/5.0_(Series40;_NokiaX2-01/08.63;_Profile/MIDP-2.1_Configuration/CLDC-1.1)_Gecko/20100401_S40OviBrowser/3.9.0.0.22 20150405194635
+NokiaX2-01/5.0_(08.70)_Profile/MIDP-2.1_Configuration/CLDC-1.1_Mozilla/5.0_AppleWebKit/420__(KHTML,_like_Gecko)_Safari/420_ 20150420085236
+Mozilla/5.0_(Series40;_Nokia112/03.32;_Profile/MIDP-2.1_Configuration/CLDC-1.1)_Gecko/20100401_S40OviBrowser/2.0.5.16.9 20150402144153
+NokiaX2-01/5.0_(08.63)_Profile/MIDP-2.1_Configuration/CLDC-1.1_Mozilla/5.0_AppleWebKit/420__(KHTML,_like_Gecko)_Safari/420_ 20150414192424
+Mozilla/5.0_(Series40;_Nokia302/14.92;_Profile/MIDP-2.1_Configuration/CLDC-1.1)_Gecko/20100401_S40OviBrowser/5.5.0.0.27 20150425162831
+Mozilla/5.0_(Series40;_Nokia206/04.51;_Profile/MIDP-2.1_Configuration/CLDC-1.1)_Gecko/20100401_S40OviBrowser/5.5.0.0.27 20150425181750
+MQQBrowser/Mini2.5_(GT-S5230/S523MXEJF1) 20150415211352
+Mozilla/5.0_(Series40;_Nokia301/02.33;_Profile/MIDP-2.1_Configuration/CLDC-1.1)_Gecko/20100401_S40OviBrowser/2.3.0.0.54 20150426105809
+NokiaC3-00/5.0_(08.71)_Profile/MIDP-2.1_Configuration/CLDC-1.1_Mozilla/5.0_AppleWebKit/420__(KHTML,_like_Gecko)_Safari/420_ 20150422122040
+Mozilla/5.0_(Series40;_Nokia5130c-2/07.95;_Profile/MIDP-2.1_Configuration/CLDC-1.1)_Gecko/20100401_S40OviBrowser/1.5.0.34.16 20150427102811
+Scrapy/0.24.5_(_http://scrapy.org) 20150422151502
+Mozilla/5.0_(Series40;_Nokia305/07.42;_Profile/MIDP-2.1_Configuration/CLDC-1.1)_Gecko/20100401_S40OviBrowser/5.5.0.0.27 20150424200033
+Mozilla/5.0_(Series40;_NokiaX2-02/11.79;_Profile/MIDP-2.1_Configuration/CLDC-1.1)_Gecko/20100401_S40OviBrowser/5.5.0.0.27 20150417223843
+UCWEB/2.0_(MIDP-2.0;_U;_Adr_4.1.2;_ru;_GT-S6312)_U2/1.0.0_UCBrowser/9.3.0.440_U2/1.0.0_Mobile 20150422235232
+Opera/9.80_(Android;_Opera_Mini/7.6.40234/36.1444;_U;_tr)_Presto/2.12.423_Version/12.16 20150401124420
+MQQBrowser/Mini2.2_(NokiaC2-01/11.40) 20150418120650
+Mozilla/5.0_(Series40;_Nokia110/03.04;_Profile/MIDP-2.1_Configuration/CLDC-1.1)_Gecko/20100401_S40OviBrowser/2.3.0.0.48 20150410194459
+NokiaC3-00/5.0_(08.70)_Profile/MIDP-2.1_Configuration/CLDC-1.1_Mozilla/5.0_AppleWebKit/420__(KHTML,_like_Gecko)_Safari/420_ 20150408182029
+Mozilla/5.0_(Series40;_Nokia112/03.48;_Profile/MIDP-2.1_Configuration/CLDC-1.1)_Gecko/20100401_S40OviBrowser/2.3.0.0.48 20150414164251
+Mozilla/5.0_(Series40;_Nokia515.2/05.08;_Profile/MIDP-2.1_Configuration/CLDC-1.1)_Gecko/20100401_S40OviBrowser/5.5.0.0.27 20150405221448
+Mozilla/5.0_(Series40;_Nokia205/03.19;_Profile/MIDP-2.1_Configuration/CLDC-1.1)_Gecko/20100401_S40OviBrowser/5.0.0.0.31 20150425182803
+Mozilla/5.0_(Series40;_Nokia305/03.60;_Profile/MIDP-2.1_Configuration/CLDC-1.1)_Gecko/20100401_S40OviBrowser/5.5.0.0.27 20150409192623
+Mozilla/5.0_(Series40;_Nokia305/07.42;_Profile/MIDP-2.1_Configuration/CLDC-1.1)_Gecko/20100401_S40OviBrowser/2.3.0.0.54 20150427213203
+Mozilla/5.0_(Series40;_Nokia305/03.60;_Profile/MIDP-2.1_Configuration/CLDC-1.1)_Gecko/20100401_S40OviBrowser/2.3.0.0.49 20150407235000
+MQQBrowser/Mini2.2_(Nokia310/08.13) 20150430064623
+Opera/9.80_(Android;_Opera_Mini/7.6.40234/36.1719;_U;_ru)_Presto/2.12.423_Version/12.16 20150425232621
+NokiaC3-01.5/5.0_(07.32)_Profile/MIDP-2.1_Configuration/CLDC-1.1_Mozilla/5.0_AppleWebKit/420__(KHTML,_like_Gecko)_Safari/420_ 20150417191551
+Mozilla/5.0_(MeeGo;_NokiaN9)_AppleWebKit/534.13_(KHTML,_like_Gecko)_NokiaBrowser/8.5.0_Mobile_Safari/534.13 20150420135416
+Mozilla/5.0_(Series40;_Nokia308/05.85;_Profile/MIDP-2.1_Configuration/CLDC-1.1)_Gecko/20100401_S40OviBrowser/5.5.0.0.27 20150402115033
+Mozilla/5.0_(SAMSUNG;_SAMSUNG-GT-S8600/S8600XXKK7;_U;_Bada/2.0;_ru-ru)_AppleWebKit/534.20_(KHTML,_like_Gecko)_Dolfin/3.0_Mobile_WVGA_SMM-MMS/1.2.0_OPN-B 20150416220606
+NokiaC2-01/5.0_(11.40)_Profile/MIDP-2.1_Configuration/CLDC-1.1_Mozilla/5.0_AppleWebKit/420__(KHTML,_like_Gecko)_Safari/420_ 20150415110421
+Mozilla/5.0_(Series40;_Nokia110/03.04;_Profile/MIDP-2.1_Configuration/CLDC-1.1)_Gecko/20100401_S40OviBrowser/3.9.0.0.22 20150411101113
+Nokia6303iclassic/5.0_(07.10)_Profile/MIDP-2.1_Configuration/CLDC-1.1_Mozilla/5.0_AppleWebKit/420__(KHTML,_like_Gecko)_Safari/420_ 20150423043644
+Mozilla/5.0_(compatible;_Qwantify/2.0n;__https://www.qwant.com/)/* 20150430151210
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 11
+MQQBrowser/Mini2.5_(GT-S5230/S523MXEJF1) 20150415211352
+UCWEB/2.0_(MIDP-2.0;_U;_Adr_4.1.2;_ru;_GT-I8190)_U2/1.0.0_UCBrowser/9.9.0.543_U2/1.0.0_Mobile 20150425122747
+UCWEB/2.0_(Java;_U;_MIDP-2.0;_ru;_GT-S5230)_U2/1.0.0_UCBrowser/9.4.1.377_U2/1.0.0_Mobile_UNTRUSTED/1.0 20150417171328
+UCWEB/2.0_(Linux;_U;_Adr_4.1.2;_ru;_GT-I8262)_U2/1.0.0_UCBrowser/8.7.0.315_U2/1.0.0_Mobile 20150426003640
+Scrapy/0.24.5_(_http://scrapy.org) 20150422151502
+UCWEB/2.0_(MIDP-2.0;_U;_Adr_4.4.2;_ru;_SM-G355H)_U2/1.0.0_UCBrowser/9.2.0.419_U2/1.0.0_Mobile 20150409213303
+UCWEB/2.0_(MIDP-2.0;_U;_Adr_4.1.2;_ru;_GT-S6312)_U2/1.0.0_UCBrowser/9.3.0.440_U2/1.0.0_Mobile 20150422235232
+UCWEB/2.0_(Linux;_U;_Opera_Mini/7.1.32052/30.3697;_ru;_GT-I9082)_U2/1.0.0_UCBrowser/9.8.0.534_Mobile 20150410173250
+UCWEB/2.0_(MIDP-2.0;_U;_Adr_2.3.7;_ru;_U8500)_U2/1.0.0_UCBrowser/9.7.0.520_U2/1.0.0_Mobile 20150404063932
+ltx71_-_(http://ltx71.com/) 20150417150604
+Avant_Browser___(http://www.avantbrowser.com) 20150416104035
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 4535 7128
+From1 8 8
+From2 1966 2537
+From3 41 43
+From4 6361 58651
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 6
+google 1881 2452
+baidu 4 4
+bing 14 14
+yandex 53 53
+ask 6 6
+yahoo 8 8
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 18
+http://vk.com/thetmlife 11 11
+http://vk.com/away.php 7 7
+http://ashgabad.net/novosti/internet-smi/tm-net/svodki-pogody-turkmengidrometa-teper-dostupny-vo-vsemirnoi-seti.html 5 5
+http://www.caspcom.com 3 3
+http://portnews.ru/b/ 2 2
+http://yandex.by/clck/jsredir 2 2
+http://neolaki.net/nedemek/depgin-ne-demek.html 2 2
+http://m.vk.com/away.php 1 1
+http://www.caspcom.com/index.php 1 1
+http://htdocs/Nokia/startc/start.html 1 1
+http://10.193.65.185:8827/dvs0/nov_dev_idkA3FsNHyEeSOWhgDcw30WQ/desktopview/138507113/0 0 1
+http://10.0.10.54:8827/dvs0/nov_dev_idL0bSYP71EeOv8RgDcw4m9Q/desktopview/157308178/0 0 1
+http://asgabat.net/stati/internet-hi-tech/tm-net/svodki-pogody-turkmengidrometa-teper-dostupny-vo-vsemirnoi-seti.html 1 1
+http://go.mail.ru/msearch 1 1
+http://vk.com/friends 1 1
+http://www.aydymlar.ru 1 1
+http://go.mail.ru/search 1 1
+http://gundogar-news.com/index.php 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 312
+howa+maglumaty 375
+howa+maglumaty+ahal 60
+howa+maglumaty+lebap 51
+%d0%a5%d0%be%d0%b2%d0%b0+%d0%bc%d0%b0%d0%b3%d0%bb%d1%83%d0%bc%d0%b0%d1%82. 48
+howa+maglumaty+mary 47
+howa 33
+http+//www.meteo.gov.tm/tm/weather/forecast%3fcck%3dforecast%26search%3dforecast_view%26task%3dsearch%26f_selectcat%3d52 31
+kone+urgenj+howa+maglumati 28
+howa+maglumaty+kaka 23
+lebap+howa+maglumaty 18
+howa+maglumaty+su+gune 2
+lebap+welayatynda+ertirki+boljak+howa+maglumaty 3
+http+//www.meteo.gov.tm/tm/weather/forecast%3fcck%3dforecast%26search%3dforecast_view%26task%3dsearch%26f_selectcat%3d51 1
+http+//www.meteo.gov.tm/tm/weather/weather-now 2
+ashgabat+howa+maglumaty 10
+%d1%85%d0%be%d0%b2%d0%b0+%d0%bc%d0%b0%d0%b3%d0%bb%d1%83%d0%bc%d0%b0%d1%82%d1%8b 10
+%d0%a5%d0%be%d0%b2%d0%b0+%d0%bc%d0%b0%d0%b3%d0%bb%d1%83%d0%bc%d0%b0%d1%82%d1%8b. 1
+02+aprel+howa+maglumaty 2
+25+aprel+ayynda+howa+maglumaty 1
+%d0%af%d1%81%d1%85%d0%b0%d0%bd+%d0%bf%d1%80%d0%be%d0%b3%d0%bd%d0%be%d0%b7+%d0%bf%d0%be%d0%b3%d0%be%d0%b4%d1%8b+%d0%a2%d1%83%d1%80%d0%ba%d0%bc%d0%b5%d0%bd%d0%b8%d1%8f 1
+07+04+2015+howa+mary+maglumaty 1
+turkmenbashy+saher+howa+maglumaty 1
+howa+maglumaty+dasaguz+2015 1
+29+aprel+howa+maglumaty 3
+aprel+howa+maglumaty 1
+turkmenbasy+howa+maglumaty 1
+da%c5%9foguzda+13+04+2015+boljak+howa+maglumaty 1
+howa.maglumaty. 2
+lebap+welayaty+howa+maglumaty 3
+hawa+maglumaty+prgramasi 1
+dashoguz+welayatynyn+howa+maglumaty 5
+xo%d0%b2%d0%b0+%d0%bc%d0%b0%d0%b3%d0%bby%d0%bc%d0%b0%d1%82%d1%8b 1
+t%c3%bcrkmenabat+howa+maglumaty+1+hepdelik 1
+gubadag+howa+maglumaty+6njy+aprel+g%c3%bcndizine. 1
+lebap+welayaty+5+aprel+howa+maglumaty 1
+howamaglumaty+ahal 3
+balkan+welayaty+howa+maglumaty 1
+www.howwa.ru 7
+tejende+apreli%c3%b1+5+ne+howa+maglumaty 2
+dasoguz+howa+maglumaty+sagatma+sagat 1
+howa+tagtabazar 1
+howa+maglumaty+lebap+welayaty 6
+a%c5%9fgabatda+13+04+2015+boljak+howa+maglumaty 1
+howa+maglumaty+dasoguz 14
+%d0%b8%d1%81%d1%82%d0%be%d1%80%d0%b8%d1%8f+%d0%b1%d1%83%d1%80%d0%b4%d0%b0%d0%bb%d1%8b%d0%ba+%d0%bb%d0%b5%d0%b1%d0%b0%d0%bf%d1%81%d0%ba%d0%b8%d0%b9+%d0%b2%d0%b5%d0%bb%d0%b0%d1%8f%d1%82 1
+darganata+howa+maglumaty 2
+howa+maglumat+koneurgen%c3%a7 2
+farap+etrap+howa+maglumaty 2
+%d1%82%d1%83%d1%80%d0%ba%d0%bc%d0%b5%d0%bd%d0%b8%d1%81%d1%82%d0%b0%d0%bd+%d1%85%d0%be%d0%b2%d0%b0+%d0%bc%d0%b0%d0%b3%d0%bb%d1%83%d0%bc%d0%b0%d1%82%d1%8b 3
+akdepe+howa+maglumaty 4
+ashgabatdaky+howa+maglumaty 2
+ahal+wela%c3%bdatyny%c3%b1+howa+maglumaty 1
+balkan+howa+maglumaty 3
+howa+maglumaty.boldumsaz 1
+hova+maclumati 1
+www.howa 1
+turkmenistan+howa+maglumatu 1
+tm+howwa+maglumaty 1
+howa+baharly 1
+mary+welayatynda+02+04+ne+boljak+howa+maglumaty 1
+ministrlerin+genesi 1
+google.tm+howa+maglumaty 1
+howa+maglumaty+14-+nji+aprel 1
+howa+maglumaty.turkmenistan. 1
+howa+maglumaty+04+04+2015 1
+sardarabad+howa+maglumaty 1
+howa+maglumaty+dashoguz 10
+bayramaly+howa+maglumaty 1
+dasoguz+wekayaty+howa+durumy 3
+ahal+howa+maglumaty 3
+howa+maglumaty+gumdag+%c5%9e%c3%84heri 1
+turkm%d0%b5nist%d0%b0n+how%d0%b0+m%d0%b0glum%d0%b0ty 1
+lebap+welayatynda+howa+maglumaty 1
+26-njy+aprel+atamyrat+howa+maglumaty 2
+ashgabat+howa+maglumatlary. 1
+howa+maglumaty.turkmenistan 1
+k%c3%b6ne%c3%bcrgen%c3%a7+howa+maglumaty 1
+howa+maglumty+a%24gabat+5+aprel 1
+boldumsaz+howa+maglumaty 1
+oktyabrsky.howa+maglumaty 1
+howa.maglumaty.dasoguz.welayaty. 7
+tm+howa+maglumat.tm 1
+turkmeniatan+howa+maglumati 2
+howa+maglumaty+30+04+2015 1
+howa+maglumat+02+04+2015 2
+turkmenistan.howa+maglumaty.com 1
+howa.maglumaty.dasoguz.welayaty.aprel.ayy 1
+24+howa+ahal+welayaty 1
+hova+maglumaty+mary+8+aprel 1
+howa+maglumaty+lebap+5+aprel 1
+serdarabat+etrabynyn+howa+maglumaty 3
+balkan+welayatynda+boljak+howa+maglumaty 1
+balkan+howa 1
+hovva+maglumaty 1
+lewap+howa+maglumaty 1
+howa+maglumaty.com. 11
+%d0%a5%d0%9e%d0%92%d0%90+%d0%9c%d0%90%d0%93%d0%9b%d0%a3%d0%9c%d0%90%d0%a2%d0%ab+%d0%a2%d0%a3 1
+16+aprel+howa+maglumaty 1
+howamaglumaty 5
+dasoguz+howa 1
+balkanabat+hova+maglumat 1
+dashguz+howa+howa+maglumaty 2
+hova+maglumaty 2
+balkan+wela%c3%bdat+howa+maglumaty 1
+howa+maglumaty+dashoguz+tagta 1
+howa.maglumat 2
+howwa+magllumat+maryda 1
+howa+maglummaty 2
+dashogiz+howa+maglumaty 1
+26+nji+aprelin+howa+maglumaty 1
+%d0%a5%d0%be%d0%b2%d0%b0+%d0%bc%d0%b0%d0%b3%d0%bb%d1%83%d0%bc%d0%b0%d1%82%d1%8b 1
+21+aprel+howa+maglumaty 1
+%d0%b3%d0%b0%d1%80%d0%b0%d0%b1%d0%b5%d0%ba+%d1%85%d0%be%d0%b2%d0%b0+%d0%bc%d0%b0%d0%b3%d0%bb%d1%83%d0%bc%d0%b0%d1%82%d1%8b 1
+%d1%80%d1%89%d0%bc%d1%84+%d1%8c%d1%84%d0%bf%d0%b4%d0%b3%d1%8c%d1%84%d0%b5%d0%b3+%d0%b8%d1%84%d0%b4%d0%bb%d1%84%d1%82 1
+howa+maglumaty+murgap 1
+xowa.maglymaty.maty.wrlayaty 1
+ertirki+howa 2
+howa+maglumaty+ahal+gokdepe 2
+asgabat+howwa+maglymat 1
+%d1%82%d1%83%d1%80%d0%ba%d0%bc%d0%b5%d0%bd%d0%b8%d1%81%d1%82%d0%b0%d0%bd%d1%8b%d0%bd+%d1%85o%d0%b2%d0%b0+%d0%bc%d0%b0%d0%b3%d0%bb%d1%83%d0%bc%d0%b0%d1%82%d1%8b 1
+howa+maglumaty+da%c5%9foguz+26.04.2015 1
+12-nji+aprelde+howa+maglumaty 5
+www.howw%d0%b0.ru 2
+atamyrat+etrap+howa+maglumaty 1
+howa.maglumay.dasoguz.welayaty 1
+t%c3%bcrkmenistany%c3%b1+howa+maglumaty 2
+howa+malumaty 1
+lebap+welayatn+howa+maglumaty 1
+howa+maglumaty+gismeteo+dasoguz 1
+balkan+welayatynda+aprel+a%c3%bdyny%c5%88+23-den+25-e+%c3%a7enli+boljak+howa+maglumaty 1
+turkmenistanda+howa+maglumaty 1
+howa+maglumaty+ashgabat+19.04.2015 1
+02+aprel+howa+maglumaty+lebap 1
+gumdag+howa+maglumat 1
+how%d0%b0+m%d0%b0glum%d0%b0ty 4
+da%c5%9foguz+howa+maglumaty 4
+howa+maglumaty+a%c5%9fgabat 1
+lebapda+howa+maglumaty 1
+howa+maglumaty.ru 1
+howa+asgabat 1
+turkmenistan+howa+maglumat 1
+burdalyk+howa+maglumaty+03+04+2015 1
+turkmenabat+howa+maglumaty 1
+http+//www.meteo.gov.tm/tm/weather/forecast%3ff_selectcat%3d%26button_search%3dsa%25c3%25bdlamak%26cck%3dforecast%26a_lfilter%3dtm-tm%26search%3dforecast_view%26task%3dsearch 14
+t%c3%bcrkmennabat+howa+maglumaty 1
+19+mart+howa+maglumaty 1
+howa+maglumaty.tu 1
+03+aprel+howa+maglumaty+lebap 2
+howa+asgaba 1
+mary+howamaglumaty 3
+howa+maglumaty+2015+0425 1
+turkmenistan+gumdag+howa+maglumaty 1
+howa+maglumaty+10+g%c3%bcnl%c3%bck+t%c3%bcrkmenabat 2
+lebap+welayatynyn+serdarabat+etrabynyn+howa+maglumaty 3
+howa+mary 2
+tagtabazar+a+howa+maglumaty 2
+a%c5%9fgabatda+14+04+2015+boljak+howa 1
+balkan+welayatda+boljak+howa+maglumaty 1
+turkmenistanda+10+aprelda+boljak+howa 2
+howa+mary+2015 1
+howa+maglumaty+barada+dasoguz 1
+howa+maglumaty+ashgabat 18
+howwa+maglumaty 2
+%d0%81o%d0%bb%d0%b5%d1%82%d0%b5%d0%bd+xo%d0%b2%d0%b0+%d0%bc%d0%b0%d0%b3%d0%bb%d1%83%d0%bc%d0%b0%d1%82%d1%8b 1
+%d0%bc%d0%b8%d0%bd%d0%b8%d1%81%d1%82%d1%80+%d0%ba%d0%be%d0%bc%d0%b8%d1%82%d0%b5%d1%82%d0%b0+%d0%b2+%d1%82%d1%83%d1%80%d0%ba%d0%bc%d0%b5%d0%bd%d0%b8%d1%81%d1%82%d0%b0%d0%bd%d0%b5 1
+%d0%93%d1%83%d0%bd%d0%b4%d0%b5%d0%bb%d0%b8%d0%ba+%d1%85%d0%be%d0%b2%d0%b0+%d0%bc%d0%b0%d0%b3%d0%bb%d1%83%d0%bc%d0%b0%d1%82%d1%8b. 4
+howa+magluumaty 1
+dashoguz+howa+maglumaty 17
+2015.dasoguz+howa+maglumaty 1
+turkmenistanyn+howa+maglumaty 3
+howa+maglumaty+mary+wela%c3%bdaty 1
+howa+maglumat+tm 1
+turkmenistanyn+howa+maglumaty+mary+welayaty 2
+howa+maglumat 18
+20+aprel+howa+maglumaty 2
+dashoguz.howa.yagdayy 1
+howa+maglumaty+asgabat+18-ine 1
+tejen+howa 1
+turkmence+howa+mary+aprel+ay+17-ne+boljak+howa 1
+howa+maglumaty+burdalyk 1
+howa+maglumaty.hala%c3%a7+etraby 3
+balkanabat+howa 1
+28.+04.+2015+halach+etrabynyn+howa+maglumaty 1
+asgabat+howa+maglumaty 2
+howa+maglumaty+dashoguz+welayaty 1
+dashoguzda+aprel+ayynda+boljak+howa 1
+dasaguz+hawa+maglumaty 2
+howa+maglumaty+asgabat 3
+ertirki+howa+maglumaty 1
+dashoguz+howa 1
+howa+maglumaty+ertir+asgabat 1
+howa+maglumaty+yuklenme 1
+mary+howa+maglumaty 10
+farap+etrap+howa+maglumat 3
+a%c5%9fgabatda+11+04+2015+boljak+howa+maglumaty 1
+balkan.+wela%c3%9datyny%c3%91.+howa.+maglummaty 1
+xowa+maglumaty+asgabat 1
+hova+maglumati 3
+garabekewul+howa. 1
+howa.maglumaty.dasoguz.welayaty 1
+%d1%85%d0%be%d0%b2%d0%b0+%d0%bc%d0%b0%d0%b3%d0%bb%d1%83%d0%bc%d0%b0%d1%82 5
+dashoguz+s.a+nyyazow+howa+maglumaty 1
+%d0%a5%d0%be%d0%b2%d0%b0+%d0%bc%d0%b0%d0%b3%d0%bb%d1%83%d0%bc%d0%b0%d1%82%d1%8b.%d1%82%d1%83 2
+hepdelyk+howa+maglumaty+magdanly 1
+howa.maglumaty 9
+turkmence+howa+mary 1
+turkmen+howa+maglumaty 3
+mary+howa+13+boljak 1
+ashabat+howa 1
+%d0%a5%d0%9e%d0%92%d0%90+%d0%9c%d0%90%d0%93%d0%9b%d0%a3%d0%9c%d0%90%d0%a2%d0%ab.%d0%a2%d0%a3 1
+howa+maglumaty+ahal+22boljak+howa 1
+www.howa+maglumaty+ahal+wela%c3%bdaty.ru 1
+howa+maglumaty+balkanabat 8
+howa+maglumaty+23+04+2015 1
+%d1%85%d0%be%d0%b2%d0%b0+%d0%bc%d0%b0%d0%b3%d0%bb%d1%83%d0%bc%d0%b0%d1%82+%d0%b4%d0%b5%d0%b9%d0%bd%d0%b0%d1%83+%d1%82%d1%83%d1%80%d0%ba%d0%bc%d0%b5%d0%bd%d0%b8%d1%81%d1%82%d0%b0%d0%bd 1
+mary+howa 1
+%d1%82%d1%83%d1%80%d0%ba%d0%bc%d0%b5%d0%bd%d0%b3%d0%b8%d0%b4%d1%80%d0%be%d0%bc%d0%b5%d1%82 2
+www.howa+maglumaty 10
+03nji+aprel+howa+maglumaty 1
+howa+maglumaty+18+04+2015 1
+sugunki+howa+maglumaty 1
+dasoguz+wel+howa+maglumaty 1
+turkmenabat+howa+maglumaty+aprel 1
+ertirki+boljak+howwan+maglumaty 2
+balkanabat+howa+maglumaty 4
+hova+maglumaty+mary 1
+howa+maglumaty+turkmenisdan 2
+sakarcage+howa+maglumaty+26 1
+www.turkmenistan+howa+maglumaty 2
+howa+maglumaty+bugun 1
+07+04+2015+howa+maglumaty+lebap 1
+howa+maglumaty+serdar 1
+howa+maglumaty+mary+12 1
+%d0%90%d0%a5%d0%90%d0%9b+%d0%a5%d0%9e%d0%92%d0%90 1
+ahal+welayatyn+howa+maglumaty.ru 1
+turkmenistan+howa+magulmaty 1
+dashoguz+welayat+howa+maglumaty 1
+turkmenistanyn+gidrometeorologiya+gullugy 2
+02+03+aprel+howa+maglumaty+lebap 1
+howa+maglumat+asgabat 1
+a$gabat+howa+maglumat 1
+balkan+welayat+howa+maglumaty+gundeki 1
+pogoda+lebastiv+welavat+turkmenabad 1
+t%c3%bcrkmen+howa+maglumaty 1
+dashoguz+howa+maglumaty+turkmenistan+howa+maglumaty 1
+howa+maglumaty+asgabatda 1
+haw+maglumaty 1
+www.howa+maglumaty+bayramaly.tm 1
+asgabatda+howa+maglumaty 1
+14+aprel+howa+maglumaty 1
+howa+maglumaty+a%c5%9bgabatda 1
+howa+maglumaty. 2
+atamyrat+hawa+maglumaty 1
+t%c3%bcrkmenistan+ahal+wela%c3%bdat+kaka+howa+maglumaty 2
+26+04+2015+howa+nahili+boljak 1
+howa+maglumaty+tm.ru 1
+dasoguz+howa+maglumat+14.04.2015 1
+www.howamaglumaty 3
+www.a%c5%9fgabat+howa.com 1
+howa+maglumaty+darganata 1
+howa+da%c5%9foguz 1
+koneurgench+howa+maglumaty 6
+howa+maglumaty+balkan 1
+turmenistanyn+howa+maglumaty 1
+25-de+boljak+howa+maglumaty+lebap 1
+http+//www.meteo.gov.tm/ru/documents/history 3
+hova+maglumat 1
+pagoda+asgabat 1
+howa+maglumaty+t%c3%bcrkmenistan 2
+turkmen+howa+maglumaty+02+04+15+mary+welayaty 1
+2015.dasoguz+bir+hepdede+boljak+howa+maglumaty 1
+howa+maglumaty+turkmenabat+shaherinde 1
+gundeki+howa+maglumaty 1
+26+aprel+ayynyn+howa+maglumaty 1
+gubadag+howa 1
+www+howa+maglumaty 3
+duynki+gunun+howa+maglumaty 1
+howa+maglumaty+da%c5%9foguz 1
+turkmenistan+howa+maglumaty 12
+a%c5%9fgabatda+14+04+2015+boljak+howa+maglumaty 1
+howa+yylanly 4
+aprel+ayyn+26+howa+maglumaty 1
+mary+howa+maglumaty+03+04+2015 2
+howa+maglumaty+turkmenistan 4
+.%d0%a5%d0%9e%d0%92%d0%90+%d0%9c%d0%90%d0%93%d0%9b%d0%a3%d0%9c%d0%90%d0%a2%d0%98+%d0%90%d0%a8%d0%93%d0%90%d0%91%d0%90%d0%a2 1
+t%c3%bcrkmenistan+howa+maglumaty 3
+19+aprel+howa+maglumaty 2
+dashoguz+welayatynda+05.04+boljak+howa+maglumaty 1
+howmaglumaty 1
+howa+maglumaty+t%c3%bcrkmenabat 1
+dasoguz+howa+maglumaty 2
+%d1%85%d0%be%d0%b2%d0%b0+%d0%bc%d0%b0%d0%b3%d0%bb%d1%83%d0%bc%d0%b0%d1%82+%d0%bc%d0%b0%d1%80%d1%8b 1
+03+aprel+howa+maglumaty 2
+13+boljak+howa+mary 2
+turkmenbashi+06.04.2015+howa+maglumaty 1
+zabastowka+w+turkmenistana+09.04.2015+goda.+lebap 1
+%d0%a5%d0%be%d0%b2%d0%b0+%d0%9c%d0%b0%d0%b3%d0%bb%d1%83%d0%bc%d0%b0%d1%82%d1%8b 1
+ashagabat+howa+maglumaty 1
+howa+maglumaty+turkmenabat 2
+howa+maglumaty+tejen 3
+howa+maglumaty.a%c5%9fgabat. 1
+http+//www.meteo.gov.tm/tm/weather/forecast%3fcck%3dforecast%26search%3dforecast_view%26task%3dsearch%26f_selectcat%3d53 1
+%d1%85%d0%be%d0%b2%d0%b0+%d0%bc%d0%b0%d0%b3%d0%bb%d1%83%d0%bc%d0%b0%d1%82%d1%8b+%d1%82%d1%83%d1%80%d0%ba%d0%bc%d0%b5%d0%bd%d0%b8%d1%81%d1%82%d0%b0%d0%bd 1
+howamaglumatyn+sazy 2
+bayramaly+howa+maglumat 1
+howa+maglumaty+k%c3%b2neurgench 1
+howa+maglumat+mary 1
+howa+maglumaty+2015.+25.04 1
+t%c3%bcrkmenistan+ahal+kaka+howa+maglumaty 1
+%d1%85%d0%be%d0%b2%d0%b0+%d0%bc%d0%b0%d0%b3%d0%bb%d1%83%d0%bc%d0%b0%d1%82+%d0%b3%d0%b0%d0%bb%d0%ba%d1%8b%d0%bd%d1%8b%d1%88+%d1%82%d1%83%d1%80%d0%ba%d0%bc%d0%b5%d0%bd%d0%b8%d1%81%d1%82%d0%b0%d0%bd 1
+turkmenistan+halac+etrabynyn+howa+maglumaty 1
+howa+maglumaty+archmandaky 2
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 314
+howa 1079
+maglumaty 940
+lebap 95
+mary 81
+ahal 76
+%d0%a5%d0%be%d0%b2%d0%b0 53
+http 52
+%d0%bc%d0%b0%d0%b3%d0%bb%d1%83%d0%bc%d0%b0%d1%82. 48
+dashoguz 39
+maglumat 35
+ne 3
+magdanly 1
+hovva 1
+serdarabat 6
+dasoguz 25
+%d0%9c%d0%b0%d0%b3%d0%bb%d1%83%d0%bc%d0%b0%d1%82%d1%8b 1
+xowa 1
+oktyabrsky.howa 1
+02 8
+akdepe 4
+halac 1
+yuklenme 1
+nahili 1
+kaka 26
+s.a 1
+16 1
+dashoguzda 1
+maglumatlary. 1
+archmandaky 2
+lebapda 1
+sakarcage 1
+%d1%82%d1%83%d1%80%d0%ba%d0%bc%d0%b5%d0%bd%d0%b8%d1%81%d1%82%d0%b0%d0%bd%d0%b5 1
+howa.maglumaty. 2
+11 1
+//www.meteo.gov.tm/tm/weather/forecast%3fcck%3dforecast%26search%3dforecast_view%26task%3dsearch%26f_selectcat%3d53 1
+xo%d0%b2%d0%b0 2
+tm 3
+turmenistanyn 1
+hepdelik 1
+.%d0%a5%d0%9e%d0%92%d0%90 1
+a%c5%9bgabatda 1
+29 3
+www.howwa.ru 7
+hepdelyk 1
+//www.meteo.gov.tm/tm/weather/weather-now 2
+15 1
+kone 28
+sagatma 1
+t%c3%bcrkmenistany%c3%b1 2
+bayramaly 2
+ertirki 8
+turkmenbashy 1
+%d0%90%d0%a5%d0%90%d0%9b 1
+%d0%bc%d0%b0%d0%b3%d0%bb%d1%83%d0%bc%d0%b0%d1%82%d1%8b. 5
+gullugy 2
+a 2
+wela%c3%bdaty 1
+balkan 11
+baharly 1
+maglumatu 1
+welayatn 1
+asgabatda 2
+maglumty 1
+%d0%9c%d0%90%d0%93%d0%9b%d0%a3%d0%9c%d0%90%d0%a2%d0%98 1
+welayatda 1
+%d0%ba%d0%be%d0%bc%d0%b8%d1%82%d0%b5%d1%82%d0%b0 1
+www.howa 13
+apreli%c3%b1 2
+atamyrat 4
+wela%c3%bdaty.ru 1
+%d0%b2 1
+14 3
+07 2
+24 1
+gundeki 2
+25-e 1
+gismeteo 1
+genesi 1
+www 3
+25.04 1
+halach 1
+maglumat.tm 1
+%d0%b1%d1%83%d1%80%d0%b4%d0%b0%d0%bb%d1%8b%d0%ba 1
+wela%c3%9datyny%c3%91. 1
+23 1
+12-nji 5
+lewap 1
+gunun 1
+8 1
+turkmenbashi 1
+%d0%b4%d0%b5%d0%b9%d0%bd%d0%b0%d1%83 1
+balkanabat 14
+5 5
+%d0%81o%d0%bb%d0%b5%d1%82%d0%b5%d0%bd 1
+howa.maglumaty.dasoguz.welayaty. 7
+21 1
+aprelde 5
+howa.maglumaty.dasoguz.welayaty.aprel.ayy 1
+turkmence 2
+turkmenbasy 1
+welayatyn 1
+howamaglumaty 11
+t%c3%bcrkmen 1
+maglumaty.hala%c3%a7 3
+ministrlerin 1
+howa.maglumat 2
+%d0%a5%d0%9e%d0%92%d0%90 3
+turkm%d0%b5nist%d0%b0n 1
+www.turkmenistan 2
+turkmen 4
+t%c3%bcrkmenistan 8
+sazy 2
+%d1%82%d1%83%d1%80%d0%ba%d0%bc%d0%b5%d0%bd%d0%b8%d1%81%d1%82%d0%b0%d0%bd%d1%8b%d0%bd 1
+t%c3%bcrkmenabat 4
+09.04.2015 1
+%d0%b8%d1%84%d0%b4%d0%bb%d1%84%d1%82 1
+xowa.maglymaty.maty.wrlayaty 1
+sardarabad 1
+12 1
+%d0%bc%d0%b0%d0%b3%d0%bby%d0%bc%d0%b0%d1%82%d1%8b 1
+%d0%a2%d1%83%d1%80%d0%ba%d0%bc%d0%b5%d0%bd%d0%b8%d1%8f 1
+koneurgench 6
+%d0%bf%d0%be%d0%b3%d0%be%d0%b4%d1%8b 1
+www.howw%d0%b0.ru 2
+05.04 1
+pogoda 1
+howa.com 1
+howa.maglumay.dasoguz.welayaty 1
+da%c5%9foguz 7
+tejen 4
+maglumaty.a%c5%9fgabat. 1
+1 1
+ashagabat 1
+turkmenabad 1
+serdar 1
+%d0%af%d1%81%d1%85%d0%b0%d0%bd 1
+%d0%b2%d0%b5%d0%bb%d0%b0%d1%8f%d1%82 1
+saher 1
+2015.dasoguz 2
+25 1
+//www.meteo.gov.tm/tm/weather/forecast%3fcck%3dforecast%26search%3dforecast_view%26task%3dsearch%26f_selectcat%3d52 31
+nji 2
+zabastowka 1
+tagta 1
+a$gabat 1
+%d1%8c%d1%84%d0%bf%d0%b4%d0%b3%d1%8c%d1%84%d0%b5%d0%b3 1
+%d0%9c%d0%90%d0%93%d0%9b%d0%a3%d0%9c%d0%90%d0%a2%d0%ab 1
+shaherinde 1
+%d0%bc%d0%b8%d0%bd%d0%b8%d1%81%d1%82%d1%80 1
+welayaty 16
+hova 10
+turkmenistan.howa 1
+howwa 5
+%d0%9c%d0%90%d0%93%d0%9b%d0%a3%d0%9c%d0%90%d0%a2%d0%ab.%d0%a2%d0%a3 1
+%d0%93%d1%83%d0%bd%d0%b4%d0%b5%d0%bb%d0%b8%d0%ba 4
+maryda 1
+%d1%80%d1%89%d0%bc%d1%84 1
+19.04.2015 1
+bir 1
+haw 1
+welavat 1
+howwan 2
+nyyazow 1
+maglumaty.boldumsaz 1
+28. 1
+maglummaty 3
+hepdede 1
+hawa 4
+barada 1
+malumaty 1
+bayramaly.tm 1
+gidrometeorologiya 2
+g%c3%bcnl%c3%bck 2
+ashgabatdaky 2
+a%24gabat 1
+gokdepe 2
+maglumaty.com. 11
+ashgabat 30
+goda. 1
+18 1
+%d0%b8%d1%81%d1%82%d0%be%d1%80%d0%b8%d1%8f 1
+burdalyk 2
+%c5%9e%c3%84heri 1
+03nji 1
+ashabat 1
+dashoguz.howa.yagdayy 1
+%d1%85%d0%be%d0%b2%d0%b0 27
+20 2
+darganata 3
+howa. 2
+26.04.2015 1
+%d1%82%d1%83%d1%80%d0%ba%d0%bc%d0%b5%d0%bd%d0%b8%d1%81%d1%82%d0%b0%d0%bd 6
+w 1
+maglumaty.ru 2
+how%d0%b0 5
+2015. 1
+aprelda 2
+04. 1
+www.a%c5%9fgabat 1
+ayynyn 1
+lebastiv 1
+urgenj 28
+dashogiz 1
+howa.maglumaty.dasoguz.welayaty 1
+%d0%b3%d0%b0%d1%80%d0%b0%d0%b1%d0%b5%d0%ba 1
+14- 1
+tm.ru 1
+prgramasi 1
+asgabat 12
+murgap 1
+durumy 3
+howa.maglumaty 9
+%d0%b3%d0%b0%d0%bb%d0%ba%d1%8b%d0%bd%d1%8b%d1%88 1
+17-ne 1
+garabekewul 1
+gubadag 2
+sugunki 1
+//www.meteo.gov.tm/tm/weather/forecast%3fcck%3dforecast%26search%3dforecast_view%26task%3dsearch%26f_selectcat%3d51 1
+%d0%bb%d0%b5%d0%b1%d0%b0%d0%bf%d1%81%d0%ba%d0%b8%d0%b9 1
+ayyn 1
+magllumat 1
+bugun 1
+duynki 1
+mart 1
+dashguz 2
+etrabynyn 8
+%c3%a7enli 1
+turkmenistana 1
+26-njy 2
+magluumaty 1
+25-de 1
+%d1%82%d1%83%d1%80%d0%ba%d0%bc%d0%b5%d0%bd%d0%b3%d0%b8%d0%b4%d1%80%d0%be%d0%bc%d0%b5%d1%82 2
+ertir 1
+%d0%a2%d0%a3 1
+turkmenabat 5
+turkmenistanyn 7
+magulmaty 1
+etraby 3
+welayatynda 8
+6njy 1
+turkmenistan 22
+aprelin 1
+su 2
+welayat 2
+26 5
+k%c3%b6ne%c3%bcrgen%c3%a7 1
+03 8
+howamaglumatyn 2
+a%c5%9fgabat 1
+gumdag 3
+maglumaty.tu 1
+10 4
+//www.meteo.gov.tm/ru/documents/history 3
+aprel 35
+www.howamaglumaty 3
+farap 5
+t%c3%bcrkmennabat 1
+boldumsaz 1
+da%c5%9foguzda 1
+%d1%85o%d0%b2%d0%b0 1
+yylanly 4
+m%d0%b0glum%d0%b0ty 5
+%d0%bc%d0%b0%d0%b3%d0%bb%d1%83%d0%bc%d0%b0%d1%82 8
+22boljak 1
+turkmenisdan 2
+a%c5%9fgabatda 4
+g%c3%bcndizine. 1
+2015 21
+maglumati 33
+ay 1
+wel 1
+sagat 1
+23-den 1
+//www.meteo.gov.tm/tm/weather/forecast%3ff_selectcat%3d%26button_search%3dsa%25c3%25bdlamak%26cck%3dforecast%26a_lfilter%3dtm-tm%26search%3dforecast_view%26task%3dsearch 14
+%d0%bc%d0%b0%d0%b3%d0%bb%d1%83%d0%bc%d0%b0%d1%82%d1%8b.%d1%82%d1%83 2
+turkmeniatan 2
+maglumaty.turkmenistan. 1
+19 3
+k%c3%b2neurgench 1
+18-ine 1
+etrap 6
+dasaguz 3
+koneurgen%c3%a7 2
+%d0%bc%d0%b0%d0%b3%d0%bb%d1%83%d0%bc%d0%b0%d1%82%d1%8b 18
+asgaba 1
+maclumati 1
+04 20
+boljak 25
+%d0%bc%d0%b0%d1%80%d1%8b 1
+30 1
+maglumaty.com 1
+tejende 2
+welayatynyn 8
+tagtabazar 3
+gune 2
+0425 1
+14.04.2015 1
+maglymat 1
+06.04.2015 1
+maglumaty.turkmenistan 1
+howmaglumaty 1
+google.tm 1
+wela%c3%bdat 3
+%d0%90%d0%a8%d0%93%d0%90%d0%91%d0%90%d0%a2 1
+ayynda 2
+turkmenistanda 3
+a%c3%bdyny%c5%88 1
+%d0%bf%d1%80%d0%be%d0%b3%d0%bd%d0%be%d0%b7 1
+pagoda 1
+13 5
+maglumaty. 2
+balkan. 1
+wekayaty 3
+wela%c3%bdatyny%c3%b1 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+206 40 839554
+303 4176 0
+405 9 2790
+404 3541 4184306
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 192
+/admin/fckeditor/editor/filemanager/connectors/asp/connector.asp 9 -
+/tm/%20%20%3Cli%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20et%20%20%20%20%20%20%20%20%20%20%20%20%20%20ylesheet 1 http://www.meteo.gov.tm/tm/weather/forecast
+/repository/plugins/editor.zoho/class.ZohoEditor.js 1 -
+/ru/images/internet_explorer/borderTopRight.png 6 -
+/Editor/assetmanager/assetmanager.asp 1 -
+/js/fckeditor//editor/filemanager/browser/default/connectors/aspx/connector.aspx 1 -
+/INC/GenericDB/assetmanager/assetmanager.asp 1 -
+/admin/editor/assetmanager/assetmanager.asp 1 -
+/tm/images/internet_explorer/borderBottomCenter.png 13 -
+/ru/meteo-data/forecast/form/League_Gothic.otf 2 http://www.meteo.gov.tm/ru/meteo-data/forecast/form/forecast
+/tm/component/jdownloads/upload 2 -
+/en/weather/components/com_jnews/includes/openflashchart/php-ofc-library/ofc_upload_image.php 2 -
+/webmail/fckeditor/editor/fckeditor.html 1 -
+/tm/meteo-data/index.php 134 http://meteo.gov.tm/tm/meteo-data/forecast
+/en/weather/administrator/components/com_jnews/includes/openflashchart/php-ofc-library/ofc_upload_image.php 2 -
+/ftpmanager/Editor/assetmanager/assetmanager.asp 1 -
+/fckeditor/editor/filemanager/upload/aspx/upload.aspx 9 -
+/en/weather/administrator/components/com_civicrm/civicrm/packages/OpenFlashChart/php-ofc-library/ofc_upload_image.php 2 -
+/includes/fckeditor/editor/filemanager/browser/default/connectors/asp/connector.asp 9 -
+/1.aspx 1 -
+/ru/images/internet_explorer/borderBottomRight.png 6 -
+/tm/meteo-data/League_Gothic.otf 1 http://www.meteo.gov.tm/tm/meteo-data/forecast
+/netcat_files/384/575/9_0.png 1 -
+/ckeditor/ckfinder/core/connector/aspx/connector.aspx 8 -
+/Sitefinity/UserControls/Dialogs/ImageEditorDialog.aspx 1 -
+/admin/inc/scripts/assetmanager/assetmanager.asp 1 -
+/en/component/users//index.php 1 -
+/admin/assetmanager/assetmanager.asp 1 -
+/admin/fckeditor/editor/filemanager/connectors/aspx/upload.aspx 9 -
+/tm/ 7 -
+/tm/components/com_creativecontactform/fileupload/index.php 1 -
+/innova/assetmanager/assetmanager.asp 1 -
+/tm/component/user/register 4 -
+/mynews/admin/editor/assetmanager/assetmanager.asp 1 -
+/tm/images/internet_explorer/borderMiddleLeft.png 13 -
+/tm/components/com_sexycontactform/fileupload/index.php 9 -
+/js/fckeditor//editor/filemanager/connectors/asp/connector.asp 1 -
+/admin/plugins/editor.zoho/class.ZohoEditor.js 1 -
+/ru/index.php 84 http://meteo.gov.tm/ru/
+/tm/images/internet_explorer/borderTopLeft.png 9 -
+/fckeditor/editor/filemanager/browser/default/connectors/aspx/connector.aspx 8 -
+/filemanager/public/assets/javascript/ckeditor/ckeditor.js 1 -
+/tm/mail 12 -
+/admin/fckeditor/editor/filemanager/upload/asp/upload.asp 9 -
+/filemanager/plugins/editor.zoho/class.ZohoEditor.js 1 -
+/en//wp-content/force-download.php 1 -
+/inc.old/GenericDB/assetmanager/assetmanager.asp 1 -
+/projects/public/assets/javascript/ckeditor/ckeditor.js 1 -
+/editor/assetmanager/asset.asp 1 -
+/en/weather/administrator/components/com_acymailing/inc/openflash/php-ofc-library/ofc_upload_image.php 2 -
+/tm/League_Gothic.otf 10 http://www.meteo.gov.tm/tm/
+/ru/weather/League_Gothic.otf 20 http://www.meteo.gov.tm/ru/weather/forecast
+/edit/assetmanager/assetmanager.asp 1 -
+/admin/fckeditor/editor/filemanager/browser/default/connectors/asp/connector.asp 9 -
+/clients/public/assets/javascript/ckeditor/ckeditor.js 1 -
+/en/documents/magmi/web/plugin_upload.php 1 -
+/fckeditor/editor/filemanager/browser/default/connectors/asp/connector.asp 9 -
+/en/weather/administrator/components/com_jinc/classes/graphics/php-ofc-library/ofc_upload_image.php 2 -
+/en/weather/administrator/components/com_jnewsletter/includes/openflashchart/php-ofc-library/ofc_upload_image.php 2 -
+/tm/components/com_sexycontactform/index.php 1 -
+/en/weather/components/com_maian15/charts/php-ofc-library/ofc_upload_image.php 2 -
+/includes/fckeditor/editor/filemanager/connectors/asp/connector.asp 9 -
+/tm/components/com_jnews/includes/openflashchart/php-ofc-library/ofc_upload_image.php 2 -
+/user/login/ 1 -
+/en/magmi/web/plugin_upload.php 1 -
+/project/public/assets/javascript/ckeditor/ckeditor.js 1 -
+/fckeditor/editor/filemanager/upload/asp/upload.asp 9 -
+/customers/plugins/editor.zoho/class.ZohoEditor.js 1 -
+/ru/meteo-data/League_Gothic.otf 5 http://www.meteo.gov.tm/ru/meteo-data/forecast
+/administrator/components/com_simplephotogallery/js/swfupload/swfupload.js 1 http://meteo.gov.tm/administrator/components/com_simplephotogallery/js/swfupload/swfupload.js
+/adminsys/assetmanager/assetmanager.asp 1 -
+/tm/weather/index.php 452 http://www.meteo.gov.tm/tm/weather/forecast
+/ru/images/internet_explorer/borderBottomLeft.png 6 -
+/BasicClass/Editor/assetmanager/assetmanager.asp 1 -
+/admin/fckeditor/editor/filemanager/browser/default/connectors/aspx/connector.aspx 9 -
+/editor/assetmanager/assetmanager.aspx 1 -
+/en/weather/administrator/components/com_maian15/charts/php-ofc-library/ofc_upload_image.php 2 -
+/includes/fckeditor/editor/filemanager/connectors/aspx/upload.aspx 9 -
+/tm/korporatiw/visa-bank-kartlary/ 1 http://yandex.ru/clck/jsredir
+/lib/editor3/assetmanager/assetmanager.asp 1 -
+/ru/images/internet_explorer/borderMiddleRight.png 6 -
+/file_server/plugins/editor.zoho/class.ZohoEditor.js 1 -
+/en//wp-admin/admin-ajax.php 2 -
+/ftp/plugins/editor.zoho/class.ZohoEditor.js 1 -
+/tm/xjrflxqogo.html 1 -
+//images/stories/food.gif 1 -
+/tm/components/com_jinc/classes/graphics/php-ofc-library/ofc_upload_image.php 2 -
+/ru/images/internet_explorer/borderBottomCenter.png 6 -
+/media/cck/scripts/images/loading.gif 25 http://meteo.gov.tm/ru/
+/en/weather/components/com_civicrm/civicrm/packages/OpenFlashChart/php-ofc-library/ofc_upload_image.php 2 -
+/en//force-download.php 1 -
+/sitemap.xml 3 -
+/js/fckeditor//editor/filemanager/connectors/aspx/connector.aspx 1 -
+/tm/wp-admin/admin-ajax.php 3 -
+/tm/modules/cacheplugin.php 1 -
+/tm/administrator/components/com_jinc/classes/graphics/php-ofc-library/ofc_upload_image.php 2 -
+/public/assets/javascript/ckeditor/ckeditor.js 1 -
+/admin/WYSIWYGeditor/assetmanager/assetmanager.aspx 1 -
+/files/plugins/editor.zoho/class.ZohoEditor.js 1 -
+/ax/plugins/editor.zoho/class.ZohoEditor.js 1 -
+/ru/meteo-data/current-data/form/League_Gothic.otf 1 http://www.meteo.gov.tm/ru/meteo-data/current-data/form/current_data
+/tm/images/internet_explorer/borderBottomRight.png 9 -
+/en/weather/components/com_acymailing/inc/openflash/php-ofc-library/ofc_upload_image.php 2 -
+/includes/fckeditor/editor/filemanager/upload/asp/upload.asp 9 -
+/tm/administrator/components/com_acymailing/inc/openflash/php-ofc-library/ofc_upload_image.php 2 -
+/js/fckeditor//editor/filemanager/connectors/jsp/connector.jsp 1 -
+/ru/documents/League_Gothic.otf 2 http://meteo.gov.tm/ru/documents/law
+/en/weather/components/com_jnewsletter/includes/openflashchart/php-ofc-library/ofc_upload_image.php 2 -
+/fckeditor/editor/filemanager/connectors/aspx/connector.aspx 9 -
+/tm/images/internet_explorer/borderBottomLeft.png 9 -
+/tm/weather/League_Gothic.otf 32 http://www.meteo.gov.tm/tm/weather/forecast
+/en/ckfinder/elfinder.html 1 -
+/beheer/editor/assetmanager/assetmanager.asp 1 -
+/tm/components/com_acymailing/inc/openflash/php-ofc-library/ofc_upload_image.php 2 -
+/en/weather/components/com_jinc/classes/graphics/php-ofc-library/ofc_upload_image.php 2 -
+/admin/fckeditor/editor/filemanager/upload/aspx/upload.aspx 9 -
+/fckeditor/editor/filemanager/connectors/aspx/upload.aspx 8 -
+/clientScript/InnovaStudio/assetmanager/assetmanager.aspx 1 -
+/upload/plugins/editor.zoho/class.ZohoEditor.js 1 -
+/FILE/plugins/editor.zoho/class.ZohoEditor.js 1 -
+/ru/images/internet_explorer/borderTopLeft.png 6 -
+/ok.txt 1 -
+/fckeditor/editor/filemanager/connectors/asp/connector.asp 9 -
+/tm/administrator/components/com_maian15/charts/php-ofc-library/ofc_upload_image.php 2 -
+/ru/documents/index.php 2 http://www.meteo.gov.tm/ru/documents/law
+/tm/images/internet_explorer/borderTopCenter.png 13 -
+/NewFile.txt 1 -
+/images/jdownloads/screenshots/myluph.php.j 3 -
+/fileshare/plugins/editor.zoho/class.ZohoEditor.js 1 -
+/tm/administrator/components/com_jnews/includes/openflashchart/php-ofc-library/ofc_upload_image.php 2 -
+/manager/scripts/assetmanager/assetmanager.asp 1 -
+/includes/fckeditor/editor/filemanager/browser/default/connectors/aspx/connector.aspx 9 -
+/tm/templates/cacheplugin.php 1 -
+/tm/components/com_maian15/charts/php-ofc-library/ofc_upload_image.php 2 -
+/ajax/plugins/editor.zoho/class.ZohoEditor.js 1 -
+/hegn/assetmanager/assetmanager.asp 1 -
+/tm/documents/index.php 2 http://www.meteo.gov.tm/tm/documents/regulation
+/ru/images/internet_explorer/borderTopCenter.png 6 -
+/docs/plugins/editor.zoho/class.ZohoEditor.js 1 -
+/apple-touch-icon.png 143 -
+/ru/League_Gothic.otf 3 http://www.meteo.gov.tm/ru/
+/js/fckeditor//editor/filemanager/browser/default/connectors/asp/connector.asp 1 -
+/tm/unempkimerj.html 1 -
+/includes/fckeditor/editor/filemanager/connectors/asp/upload.asp 9 -
+/templates/meteo/font/League_Gothic.eot 773 http://www.meteo.gov.tm/tm/weather/forecast
+/tm/documents/League_Gothic.otf 5 http://www.meteo.gov.tm/tm/documents/regulation
+/tm/magmi/web/plugin_upload.php 1 -
+/ckeditor/ckfinder/core/connector/asp/connector.asp 9 -
+/tm/photo-gallery/League_Gothic.otf 2 http://www.meteo.gov.tm/tm/photo-gallery/geoktepe
+/office/public/assets/javascript/ckeditor/ckeditor.js 1 -
+/assetmanager.asp 1 -
+/tm/index.php 49 http://meteo.gov.tm/tm/
+/tm/force-download.php 1 -
+/feng/public/assets/javascript/ckeditor/ckeditor.js 1 -
+/fckeditor/editor/filemanager/connectors/asp/upload.asp 9 -
+/xplorer/plugins/editor.zoho/class.ZohoEditor.js 1 -
+/assetmanager/asset.asp 1 -
+/gcassetmanager/assetmanager.asp 1 -
+/ru/images/internet_explorer/borderMiddleLeft.png 6 -
+/ru/meteo-data/ 1 -
+/tm/images/internet_explorer/borderTopRight.png 9 -
+/apple-touch-icon-precomposed.png 145 -
+/1.txt 1 -
+/tm/media/cacheplugin.php 1 -
+/tm/components/com_jnewsletter/includes/openflashchart/php-ofc-library/ofc_upload_image.php 2 -
+/includes/fckeditor/editor/filemanager/connectors/aspx/connector.aspx 9 -
+/tm/hyzmatlarymyz/hyzmatlarymyz_9.html 1 http://yandex.ru/clck/jsredir
+/scripts/assetmanager/assetmanager.asp 1 -
+/explorer/plugins/editor.zoho/class.ZohoEditor.js 1 -
+/admin/fckeditor/editor/filemanager/connectors/aspx/connector.aspx 9 -
+/fengoffice/public/assets/javascript/ckeditor/ckeditor.js 1 -
+/edit/innoEdit/assetmanager/assetmanager.asp 1 -
+/share/plugins/editor.zoho/class.ZohoEditor.js 1 -
+/core/coreSrc/externalSrc/WYSIWYG/assetmanager/assetmanager.asp 1 -
+/EditorNEW/assetmanager/assetmanager.asp 1 -
+/ajaxplorer/plugins/editor.zoho/class.ZohoEditor.js 1 -
+/applications/JobListingManager/components/Editor/assetmanager/assetmanager.asp 1 -
+/ru/weather/index.php 833 http://meteo.gov.tm/ru/weather/weather-now
+/includes/fckeditor/editor/filemanager/upload/aspx/upload.aspx 9 -
+/ru/meteo-data/index.php 261 http://meteo.gov.tm/ru/meteo-data/forecast
+/newfile.txt 1 -
+/tm/wp-content/force-download.php 1 -
+/tm/administrator/components/com_jnewsletter/includes/openflashchart/php-ofc-library/ofc_upload_image.php 2 -
+/admin/fckeditor/editor/filemanager/connectors/asp/upload.asp 9 -
+/index.php 2 -
+/tm/includes/uploader.php 1 http://meteo.gov.tm/includes/uploader.php
+/tm/administrator/components/com_civicrm/civicrm/packages/OpenFlashChart/php-ofc-library/ofc_upload_image.php 2 -
+/tm/components/com_civicrm/civicrm/packages/OpenFlashChart/php-ofc-library/ofc_upload_image.php 2 -
+/tm/images/internet_explorer/borderMiddleRight.png 13 -
+/x.asp 1 -
+/assetmanager/assetmanager.asp 1 -
+/intranet/plugins/editor.zoho/class.ZohoEditor.js 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 1708
+217.174.229.206 3098 4555 116413854 20150430130545
+148.251.236.167 1244 1244 66684108 20150414003305
+141.101.104.135 861 910 35289790 20150430151447
+141.101.99.114 817 847 31905694 20150426071955
+95.213.141.124 633 5251 97485993 20150430221651
+141.101.99.62 629 634 24272246 20150426072057
+95.213.141.126 414 11066 204047796 20150430221630
+141.101.105.39 394 422 14926071 20150430204756
+141.101.99.177 295 327 8794637 20150430175232
+141.101.104.183 276 294 11019864 20150430084900
+195.189.123.207 18 118 2184195 20150417171326
+173.245.49.180 0 1 2248 
+173.245.48.106 1 1 29125 20150405203012
+141.101.105.48 0 36 16206 
+10.103.0.213 1 28 719069 20150408152336
+173.245.54.129 6 26 785422 20150424151301
+199.27.128.142 0 25 0 
+141.101.81.97 1 20 204294 20150401174616
+108.162.223.203 0 2 77033 
+141.101.104.85 0 122 20597 
+173.245.50.181 0 6 33903 
+141.101.99.185 1 19 29606 20150402193648
+141.101.93.252 2 6 55446 20150401180103
+108.162.246.92 0 4 13580 
+108.162.238.248 1 1 15449 20150403092121
+199.27.133.234 0 3 64999 
+141.101.104.223 0 3 50785 
+173.245.54.161 0 10 0 
+217.69.133.169 3 3 130005 20150427040845
+108.162.212.27 0 5 42 
+141.101.104.150 0 8 0 
+108.162.229.230 2 2 86728 20150417111854
+108.162.215.240 0 1 21 
+141.101.104.185 0 87 194804 
+173.245.54.140 0 1 61752 
+141.101.105.110 0 17 0 
+141.101.99.88 0 2 0 
+141.101.98.195 0 4 175792 
+217.174.232.8 12 180 3626585 20150428232500
+108.162.215.210 0 2 0 
+108.162.223.89 0 1 0 
+131.228.29.124 0 1 1825 
+141.101.99.63 0 15 379609 
+108.162.246.40 0 3 0 
+93.80.57.49 22 850 18534178 20150427001903
+108.162.223.77 0 2 0 
+173.245.54.120 1 12 200525 20150417000547
+141.101.99.90 0 185 127927 
+108.162.226.106 0 2 96648 
+108.162.215.186 0 7 92793 
+199.27.133.148 10 13 871053 20150429045030
+188.32.214.81 2 27 494855 20150403171750
+199.27.133.122 0 28 5976 
+141.101.104.133 0 50 181032 
+173.245.50.206 0 2 3081 
+173.245.50.186 0 9 94325 
+109.188.126.63 1 1 44789 20150413044726
+108.162.245.29 0 9 0 
+108.162.246.74 0 27 3261 
+141.101.93.124 1 11 43917 20150419035519
+141.101.92.24 0 5 239540 
+141.101.104.225 0 1 0 
+188.114.103.158 0 5 62671 
+216.163.188.237 1 1 18156 20150426081737
+173.245.62.141 0 2 0 
+199.27.133.206 0 4 0 
+141.101.104.27 0 51 158294 
+173.245.54.101 0 7 0 
+141.101.70.67 0 14 0 
+141.101.99.68 15 30 812525 20150430125026
+108.162.246.37 0 4 0 
+131.228.29.2 0 4 83287 
+141.101.80.9 0 2 62106 
+199.27.133.239 0 36 0 
+173.245.48.218 0 2 0 
+108.162.215.146 0 1 1446 
+173.245.56.127 3 20 609405 20150424151330
+141.101.93.137 0 3 21029 
+141.101.104.197 0 17 331 
+141.101.99.158 0 10 0 
+141.101.81.237 0 4 0 
+131.228.29.23 0 1 3323 
+173.245.49.146 0 3 335 
+173.245.50.217 1 1 15290 20150413113529
+141.101.104.216 0 2 154066 
+131.228.29.58 0 1 1962 
+217.174.224.59 2 35 59430 20150430182347
+141.101.80.11 5 11 160707 20150419035233
+199.27.130.234 0 1 0 
+141.101.99.181 0 1 68 
+173.245.56.99 0 15 2841 
+144.76.224.114 3 3 77594 20150405045750
+141.101.81.248 0 7 0 
+141.101.99.202 0 15 400172 
+108.162.219.58 1 1 15302 20150407124336
+131.228.29.119 0 3 36162 
+77.101.74.233 3 74 1600174 20150427053811
+141.101.99.204 3 155 134603 20150429082449
+176.195.248.12 2 27 664616 20150403171750
+108.162.215.166 0 1 3081 
+188.114.103.161 0 2 5898 
+173.245.48.189 0 3 335 
+141.101.70.223 0 3 0 
+131.228.29.31 0 1 96257 
+141.101.98.162 0 7 55286 
+141.101.99.121 0 22 103837 
+141.101.104.86 0 1 17175 
+141.101.92.4 5 9 207893 20150421013453
+141.101.99.176 0 26 96631 
+141.101.99.103 0 19 1819 
+199.27.133.232 0 33 0 
+141.101.105.5 0 147 331 
+141.101.92.36 2 8 112770 20150407211845
+188.114.102.171 0 3 146606 
+141.101.81.249 0 9 10896 
+141.101.104.201 0 3 786 
+108.162.226.112 0 3 177949 
+173.245.62.148 8 13 262581 20150418120549
+173.245.56.102 0 21 30867 
+173.245.54.149 0 1 1729 
+173.245.62.172 0 5 0 
+141.101.79.127 0 13 1975 
+141.101.99.117 0 82 0 
+141.101.81.163 0 1 0 
+141.101.99.72 0 15 96257 
+199.27.128.140 58 58 2182285 20150427125508
+141.101.93.165 0 4 3828 
+108.162.226.110 0 2 98664 
+173.245.54.157 0 5 0 
+199.27.128.118 0 54 63669 
+141.101.93.79 0 4 3061 
+173.245.54.158 1 1 30035 20150401114316
+173.245.62.25 0 1 0 
+141.101.99.219 15 61 563182 20150414193222
+217.174.225.78 8 221 4918562 20150423091342
+173.245.54.135 0 1 896 
+217.174.234.9 80 382 5569341 20150429111302
+141.101.99.130 1 1 28749 20150412064947
+108.162.246.103 0 4 4850 
+173.245.48.244 0 1 28473 
+103.22.200.141 0 2 124730 
+141.101.99.166 7 7 363115 20150425165152
+217.174.225.87 1 54 1042795 20150404081804
+173.245.48.135 4 4 230418 20150425182605
+199.27.133.210 0 2 28564 
+131.228.29.90 0 3 321465 
+141.101.70.187 0 7 0 
+108.162.246.67 0 9 5042 
+108.162.221.180 0 25 280153 
+199.27.133.209 0 17 62365 
+141.101.105.67 0 25 97698 
+195.189.123.204 2 15 317821 20150402085039
+173.245.62.166 0 5 0 
+141.101.99.27 0 15 938 
+141.101.93.80 0 5 27677 
+199.27.130.216 0 1 5401 
+141.101.104.172 0 6 90711 
+199.27.129.17 0 4 0 
+141.101.79.121 0 16 0 
+199.27.128.117 0 25 0 
+141.101.104.30 0 133 47211 
+173.245.52.175 1 1 15302 20150403085721
+173.245.62.226 1 1 29986 20150406050659
+173.245.48.208 0 2 0 
+141.101.96.181 0 1 3813 
+173.245.48.191 0 3 2248 
+141.101.104.163 63 200 2793008 20150428201434
+108.162.222.224 0 1 94879 
+141.101.104.208 0 1 62365 
+185.30.89.152 1 26 422432 20150420221125
+141.101.99.136 0 9 97527 
+173.245.50.221 1 1 15296 20150403203204
+198.41.243.181 0 2 335 
+141.101.98.224 4 36 227428 20150427225917
+173.245.62.155 0 5 0 
+141.101.105.115 0 2 0 
+199.27.128.85 0 20 3323 
+199.27.133.133 0 25 0 
+131.228.29.96 0 1 26513 
+198.41.242.176 0 4 100959 
+188.114.102.161 0 4 62264 
+141.101.104.179 0 6 149703 
+173.245.48.110 3 3 259978 20150421054052
+108.162.246.125 0 2 6118 
+141.101.104.227 1 27 68476 20150423115029
+141.101.99.199 0 134 146385 
+141.101.105.36 11 32 485858 20150424055349
+141.101.104.159 1 28 168320 20150430221105
+108.162.246.49 0 3 0 
+173.245.49.161 1 4 73331 20150415104757
+10.103.11.63 0 1 22187 
+141.101.81.66 0 14 0 
+141.101.105.24 0 81 62365 
+108.162.246.121 0 3 64721 
+108.162.223.239 0 1 1491 
+141.101.104.127 0 9 96257 
+199.27.129.53 0 2 11125 
+141.101.105.51 0 77 130151 
+199.27.133.182 0 30 0 
+141.101.106.65 0 3 0 
+131.228.29.83 0 1 2675 
+141.101.99.232 0 41 88903 
+199.27.133.96 28 29 955776 20150426214042
+141.101.70.127 0 19 0 
+108.162.219.208 1 1 15296 20150415011852
+108.162.215.182 0 3 21 
+131.228.29.48 0 3 54182 
+141.101.98.164 0 16 35593 
+141.101.106.71 0 10 0 
+123.125.71.76 1 1 43475 20150415043832
+108.162.222.141 0 6 16332 
+108.162.221.190 0 16 129028 
+108.162.212.250 0 12 36090 
+141.101.105.75 0 24 0 
+217.174.224.55 7 169 3114762 20150426000912
+141.101.105.33 0 11 0 
+141.101.99.169 0 23 97181 
+131.228.29.78 0 4 78759 
+188.143.232.40 16 16 493804 20150411190331
+108.162.221.193 0 15 24954 
+188.114.102.168 0 4 93216 
+141.101.104.124 12 24 134199 20150430130825
+85.106.158.2 2 67 1468661 20150412205815
+141.101.105.52 0 50 122699 
+198.41.242.179 0 2 1800 
+108.162.215.236 0 1 1164 
+220.181.108.142 1 1 43229 20150419115430
+198.41.243.179 0 8 124210 
+173.245.56.133 0 3 97882 
+199.27.133.156 0 30 0 
+141.101.104.108 0 112 19221 
+173.245.56.158 0 5 0 
+89.222.217.246 1 26 467276 20150430145028
+199.27.133.125 0 13 96257 
+141.101.104.106 1 127 454803 20150406183010
+37.145.126.63 1 33 616481 20150404044059
+141.101.99.105 0 167 0 
+173.245.52.220 7 7 107344 20150424095544
+173.245.56.163 0 5 0 
+199.27.133.216 0 2 26513 
+108.162.246.114 11 12 380625 20150414161833
+141.101.105.101 0 9 0 
+108.162.215.215 0 4 122098 
+199.27.133.179 0 62 0 
+108.162.223.179 0 1 0 
+141.101.99.248 0 97 353134 
+173.245.54.142 0 1 236825 
+195.189.123.172 5 124 1622479 20150405102538
+108.162.221.179 0 4 6394 
+103.22.200.135 0 2 7838 
+141.101.70.85 1 1 85361 20150402044608
+141.101.81.134 0 1 2388 
+141.101.99.206 36 64 51538 20150425153822
+173.245.49.174 0 4 51484 
+141.101.99.162 2 2 146433 20150412065056
+173.245.48.182 0 4 874 
+141.101.99.159 0 4 0 
+141.101.104.248 2 6 0 20150411195408
+108.162.212.29 0 1 2675 
+108.162.246.34 3 3 87252 20150404190257
+188.162.64.78 1 4 205658 20150427100730
+188.114.102.163 0 1 5401 
+173.245.54.152 0 5 0 
+141.101.99.200 0 9 191862 
+141.101.104.218 2 2 59452 20150421151610
+141.101.99.210 7 133 304595 20150409142656
+141.101.93.250 0 4 8097 
+108.162.222.196 0 5 0 
+141.101.104.152 0 7 0 
+141.101.96.185 0 4 67155 
+173.245.50.148 1 1 15302 20150410125532
+176.193.219.161 1 35 645964 20150404044059
+131.228.29.12 0 1 24198 
+108.162.246.87 0 12 92451 
+108.162.215.188 0 3 896 
+141.101.104.129 0 7 3269 
+141.101.106.59 4 4 343017 20150414073337
+141.101.92.31 0 2 0 
+141.101.92.21 0 3 8419 
+141.101.80.7 9 29 190478 20150415030458
+173.245.48.179 0 5 747 
+199.27.133.200 1 18 124950 20150413105248
+108.162.246.118 0 20 48025 
+131.228.29.4 0 4 16276 
+141.101.104.214 0 14 0 
+131.228.29.113 0 1 72403 
+131.228.29.28 0 1 896 
+188.114.103.168 0 1 7185 
+173.245.62.129 0 6 8720 
+173.245.56.156 0 5 0 
+141.101.70.229 0 2 0 
+108.162.226.201 0 4 98388 
+220.181.108.108 1 1 43271 20150419175001
+173.245.56.159 0 9 335 
+141.101.99.183 0 16 91153 
+216.163.188.239 1 1 18162 20150410221303
+89.178.63.59 3 60 1164517 20150404044059
+199.27.133.236 0 1 0 
+148.251.152.171 7 7 206369 20150429205149
+141.101.93.238 0 15 44151 
+199.27.133.120 0 12 49695 
+141.101.70.139 25 25 956137 20150425181824
+108.162.226.109 0 2 24529 
+173.245.54.137 0 2 4207 
+141.101.99.65 0 42 88878 
+108.162.212.228 0 1 2939 
+108.162.246.60 0 25 83371 
+141.101.105.112 0 7 36926 
+141.101.104.241 0 6 96257 
+199.27.128.62 0 26 16928 
+173.245.62.101 0 6 185586 
+2.92.23.89 1 65 1376097 20150426223733
+131.228.29.64 0 1 92793 
+141.101.99.132 4 25 175390 20150423152143
+199.27.129.161 0 25 0 
+173.245.52.213 1 1 15302 20150403065410
+141.101.93.236 1 1 28687 20150410185328
+173.245.50.204 1 11 46702 20150415142758
+173.245.54.163 10 20 632929 20150417234644
+173.245.49.181 0 3 172914 
+108.162.212.235 0 1 96257 
+141.101.99.168 0 17 160769 
+141.101.99.237 0 290 200754 
+64.58.104.250 4 73 1639624 20150417121705
+141.101.104.235 0 12 0 
+131.228.29.65 0 3 13952 
+141.101.99.141 5 26 5971 20150425174134
+141.101.81.83 0 4 93 
+141.101.104.240 0 7 0 
+173.245.49.185 0 3 896 
+103.22.200.131 0 2 2887 
+141.101.93.163 0 4 0 
+95.46.82.51 2 46 979989 20150411203744
+173.245.56.124 0 7 240921 
+141.101.81.165 0 2 58114 
+141.101.99.93 0 125 228061 
+199.27.133.154 0 3 11133 
+108.162.212.247 0 9 388153 
+141.101.70.73 0 2 0 
+199.27.133.136 0 2 62365 
+141.101.81.253 56 63 380317 20150405150314
+141.101.96.188 0 4 13474 
+198.41.234.27 0 1 0 
+173.245.62.193 1 1 86799 20150404045048
+141.101.81.94 1 6 30918 20150421114940
+141.101.81.110 5 12 143200 20150430222112
+37.204.158.39 2 29 524350 20150403171753
+141.101.99.81 16 16 842413 20150430164519
+199.27.133.173 0 31 21029 
+141.101.97.207 0 5 144009 
+141.101.99.216 0 17 258909 
+131.228.29.15 0 1 9786 
+141.101.99.86 0 13 17287 
+141.101.99.32 0 1 35593 
+188.114.103.152 0 2 96257 
+141.101.81.151 0 2 86954 
+141.101.99.123 0 14 67068 
+108.162.229.202 0 4 7093 
+141.101.98.160 9 10 397632 20150413164158
+188.114.103.163 0 1 4069 
+108.162.246.127 0 15 96649 
+108.162.215.249 0 1 61752 
+141.101.99.187 0 19 46349 
+141.101.99.29 0 24 94814 
+108.162.229.228 0 3 7185 
+141.101.105.69 2 10 122656 20150425161107
+141.101.99.74 62 179 2373206 20150430131618
+141.101.104.32 0 129 262623 
+141.101.104.203 0 9 0 
+131.228.29.105 0 1 4069 
+131.228.29.38 0 1 5042 
+141.101.81.120 0 21 69946 
+141.101.104.168 11 45 750205 20150426151609
+173.245.50.188 0 8 104178 
+173.245.56.106 0 15 12099 
+141.101.80.20 0 10 98057 
+141.101.92.18 0 15 47954 
+199.27.128.138 0 25 0 
+141.101.105.99 0 4 83711 
+141.101.104.177 1 6 382856 20150417144806
+199.27.133.106 0 44 253794 
+141.101.99.241 0 115 376924 
+65.255.37.148 2 78 1311314 20150416204802
+107.167.110.60 1 1 43636 20150414095336
+141.101.70.205 1 1 17440 20150424012910
+141.101.104.195 0 11 62365 
+108.162.246.43 0 3 0 
+141.101.79.109 0 9 6320 
+173.245.52.184 1 1 15302 20150403050648
+185.3.34.43 0 1 24378 
+141.101.105.58 2 15 0 20150427023842
+141.101.99.111 0 95 43942 
+141.101.104.157 1 11 397199 20150412060414
+10.103.21.206 2 2 47884 20150417165625
+173.245.48.246 2 3 169464 20150419032207
+108.162.219.188 5 5 76987 20150416043404
+103.22.200.129 0 4 65211 
+141.101.99.253 0 19 184975 
+178.54.63.71 1 14 247199 20150415063134
+108.162.212.234 0 11 69538 
+141.101.96.201 1 4 54911 20150405230258
+131.228.29.72 0 2 31919 
+220.181.108.104 1 1 43469 20150415044053
+141.101.104.58 4 8 278040 20150417144844
+199.27.133.226 0 16 0 
+199.27.133.110 0 1 0 
+173.245.56.112 0 8 4863 
+173.245.48.202 2 2 30598 20150424101712
+108.162.215.184 0 4 28695 
+141.101.104.29 0 138 265855 
+141.101.99.174 0 19 32839 
+142.4.218.201 1 1 43337 20150404141025
+188.143.232.15 20 20 622767 20150418172706
+108.162.215.213 0 1 0 
+173.245.62.118 0 6 747 
+217.174.224.53 4 26 776444 20150429193407
+141.101.70.151 1 1 0 20150404081820
+141.101.105.18 0 13 124730 
+199.27.133.131 0 13 0 
+141.101.93.253 0 8 88420 
+108.162.212.249 0 6 59768 
+173.245.49.150 0 3 1491 
+131.228.29.88 0 4 244749 
+141.101.105.11 0 8 108537 
+141.101.105.31 3 15 93111 20150415085220
+141.101.99.235 0 244 302814 
+108.162.246.69 9 27 465655 20150414213651
+173.245.56.107 0 8 51861 
+108.162.215.142 0 3 21185 
+173.245.56.118 0 3 217209 
+141.101.105.7 0 78 9315 
+141.101.104.170 0 103 206663 
+173.245.49.179 0 3 21029 
+141.101.105.71 0 2 47211 
+108.162.215.174 0 3 94891 
+128.69.156.243 0 1 1443 
+108.162.246.42 0 1 0 
+141.101.70.37 0 24 0 
+141.101.81.68 1 1 46004 20150424191602
+217.174.224.60 6 146 1608697 20150430133739
+178.75.99.3 2 33 665529 20150422165424
+199.27.128.115 0 33 6020 
+103.22.200.128 0 9 273852 
+199.27.130.222 0 66 1917 
+131.228.29.51 0 5 69556 
+141.101.70.247 1 1 28678 20150407131900
+141.101.99.247 0 97 1800 
+199.27.133.219 0 1 0 
+141.101.104.180 0 6 160113 
+141.101.104.146 0 163 65040 
+173.245.62.157 0 5 0 
+217.174.224.61 7 56 201246 20150427054019
+131.228.29.21 0 2 8993 
+108.162.212.251 0 5 10084 
+141.101.98.226 0 5 97131 
+212.176.91.130 2 112 2539818 20150424142415
+108.162.215.115 1 11 28869 20150403003723
+195.189.123.194 10 342 5018808 20150426090334
+173.245.62.153 0 10 0 
+173.245.62.179 0 10 0 
+141.101.96.179 0 5 70236 
+141.101.104.105 1 17 44666 20150403210406
+199.27.133.213 0 20 136384 
+141.101.93.161 0 2 0 
+108.162.215.189 0 5 8419 
+141.101.70.169 0 6 0 
+108.162.246.44 0 2 0 
+141.101.105.54 0 3 153518 
+141.101.99.139 4 22 94357 20150430085808
+173.245.62.191 0 5 4069 
+141.101.99.236 0 141 342237 
+141.101.99.134 0 36 110535 
+108.162.221.161 8 8 122857 20150410224423
+141.101.80.49 0 1 0 
+5.39.37.60 2 2 86648 20150420175015
+173.245.56.122 0 7 200681 
+10.103.28.62 0 1 24378 
+108.162.212.244 16 27 606276 20150426091826
+108.162.229.197 0 4 22000 
+141.101.104.229 0 12 106956 
+131.228.29.94 0 4 19895 
+108.162.215.221 0 1 1789 
+141.101.80.46 0 2 3594 
+108.162.246.111 0 8 27019 
+141.101.99.239 2 114 203955 20150412074854
+173.245.54.109 0 7 10084 
+173.245.50.182 5 10 234689 20150426003635
+141.101.93.68 0 8 7034 
+141.101.99.75 0 2 148963 
+141.101.80.19 0 10 28305 
+141.101.96.184 0 2 71687 
+141.101.104.167 0 4 161775 
+141.101.98.161 0 15 143801 
+173.245.48.177 0 6 6771 
+141.101.93.133 0 3 3061 
+131.228.29.125 0 1 1819 
+108.162.226.113 0 7 169823 
+46.188.50.220 0 1 1443 
+141.101.81.109 2 10 154006 20150425160355
+108.162.223.65 0 4 144806 
+141.101.98.159 0 97 199706 
+199.27.129.113 0 25 0 
+141.101.99.125 0 6 0 
+173.245.62.181 0 5 5042 
+131.228.29.1 0 1 2407 
+173.245.56.142 0 2 3596 
+173.245.56.161 0 20 0 
+141.101.104.189 42 142 249241 20150427230849
+195.189.123.18 9 78 1399032 20150424154557
+131.228.29.18 0 1 28473 
+93.170.131.88 2 2 63931 20150406212356
+173.245.54.138 3 3 120458 20150404142027
+141.101.105.28 46 47 1370077 20150427210147
+141.101.80.38 0 1 0 
+108.162.218.83 1 1 15302 20150403094910
+173.245.54.100 0 1 2407 
+141.101.104.213 1 2 123994 20150409133114
+91.202.21.50 15 347 7801976 20150420133556
+141.101.80.18 4 7 133808 20150408015553
+199.27.128.86 0 1 12740 
+141.101.105.30 0 6 0 
+199.27.133.246 0 2 8097 
+131.228.29.74 0 2 88705 
+108.162.215.175 0 1 1446 
+141.101.70.97 0 10 0 
+199.27.133.241 0 56 63317 
+217.174.224.62 14 343 1124034 20150421214613
+141.101.92.47 0 6 73849 
+199.27.129.41 0 15 37693 
+141.101.103.187 1 1 15302 20150401034347
+141.101.104.254 0 8 0 
+131.228.29.112 0 1 2248 
+141.101.81.137 0 5 2982 
+108.162.212.254 0 5 34574 
+141.101.92.32 1 1 29726 20150421155616
+198.41.243.176 0 6 43050 
+141.101.104.190 0 77 0 
+128.0.89.154 2 62 1375729 20150414223016
+141.101.99.138 0 9 1185 
+173.245.52.247 2 2 30922 20150409072158
+173.245.50.203 0 10 24824 
+108.162.215.116 0 10 102076 
+141.101.99.35 0 12 0 
+141.101.93.150 0 8 7185 
+108.162.245.54 0 4 4435 
+199.27.133.237 0 18 2796 
+199.27.133.162 0 1 72403 
+141.101.80.51 0 2 0 
+108.162.226.107 0 6 165866 
+199.27.128.61 0 2 24198 
+141.101.99.67 0 153 116447 
+141.101.104.151 2 6 273777 20150402001812
+199.27.129.143 24 102 763083 20150426105809
+141.101.104.62 0 46 58030 
+141.101.70.199 1 9 28037 20150427005710
+188.162.65.10 2 67 1626096 20150424201007
+141.101.79.61 0 7 55560 
+141.101.104.61 0 26 704536 
+199.27.133.175 1 63 15302 20150429221803
+141.101.99.161 0 31 0 
+108.162.215.246 0 1 896 
+93.84.51.211 2 69 1564183 20150419170637
+217.174.234.4 120 513 16409914 20150430114825
+173.245.49.187 0 1 1971 
+141.101.80.6 0 1 9786 
+199.27.133.101 0 1 0 
+217.174.228.182 24 131 3427312 20150423162127
+103.22.200.136 0 4 44861 
+108.162.245.67 0 10 4244 
+131.228.29.85 0 2 31032 
+141.101.99.34 0 6 0 
+91.194.207.130 1 32 793069 20150407120853
+108.162.246.33 0 1 0 
+141.101.105.21 0 21 24090 
+141.101.93.233 0 4 49695 
+141.101.93.149 0 4 28970 
+108.162.219.235 1 1 15296 20150410033014
+199.27.133.181 1 4 43326 20150413082657
+79.171.122.226 3 68 1677294 20150423183903
+199.27.133.121 0 5 0 
+108.162.246.107 0 16 107272 
+108.162.221.198 0 3 13557 
+108.162.223.143 0 2 0 
+128.68.212.31 1 68 1298698 20150407211705
+173.245.62.116 0 12 12594 
+141.101.93.148 0 2 0 
+108.162.229.231 0 3 3081 
+141.101.81.122 0 1 2822 
+131.228.29.11 0 1 8419 
+173.245.62.126 0 7 22129 
+141.101.99.98 0 127 232705 
+141.101.99.163 0 11 0 
+199.27.128.88 1 1 85923 20150427131455
+199.27.133.188 0 95 61639 
+131.228.29.6 0 1 2796 
+108.162.246.90 0 9 105257 
+108.162.221.178 0 10 153937 
+173.245.54.123 4 16 492749 20150424151314
+131.228.29.100 1 1 44805 20150409124304
+188.114.103.174 0 3 50711 
+108.162.246.83 0 3 1800 
+103.22.200.169 3 3 86019 20150402110344
+173.245.56.104 0 7 42058 
+131.228.29.101 0 2 4219 
+141.101.104.205 0 3 0 
+141.101.105.92 3 6 193357 20150406133125
+108.162.221.213 1 1 15461 20150406104958
+173.245.56.119 0 10 102562 
+108.162.246.72 0 9 0 
+199.27.133.201 0 2 8097 
+178.140.51.75 1 26 462520 20150430145029
+198.41.243.159 1 1 44797 20150424170324
+188.114.102.164 0 5 52540 
+141.101.99.173 0 23 0 
+141.101.99.120 0 83 171913 
+141.101.70.193 0 9 0 
+131.228.29.116 0 3 18888 
+199.27.133.159 0 100 197970 
+131.228.29.54 0 4 65929 
+141.101.99.113 0 81 0 
+108.162.215.144 0 5 19221 
+173.245.48.235 0 2 6771 
+141.101.99.156 0 7 786 
+108.162.246.64 23 23 1129788 20150419064026
+36.71.113.163 1 2 1443 20150426092244
+141.101.70.20 1 1 30404 20150427235437
+199.27.133.152 0 37 13228 
+199.27.133.128 8 10 686566 20150422052702
+141.101.105.46 14 31 416556 20150419050841
+131.228.29.75 0 2 32322 
+141.101.104.175 1 44 46915 20150401002106
+131.228.29.120 0 2 11018 
+108.162.246.88 0 3 1446 
+141.101.98.228 0 22 125061 
+131.228.29.63 1 4 50743 20150413150754
+131.228.29.79 0 2 3602 
+141.101.80.33 1 1 46004 20150403072524
+108.162.212.236 0 5 7626 
+131.228.29.26 0 3 133849 
+108.162.246.97 0 3 4734 
+108.162.246.122 0 7 4734 
+199.27.130.210 0 30 0 
+141.101.104.160 0 18 1800 
+199.27.129.95 0 4 75656 
+199.27.133.98 0 1 94879 
+176.195.252.116 1 34 793448 20150404044059
+199.27.133.137 0 1 0 
+141.101.104.187 0 130 113078 
+141.101.99.207 0 114 97218 
+131.228.29.41 0 1 61752 
+173.245.62.178 0 11 16969 
+173.245.48.213 0 2 0 
+199.27.133.248 0 4 4814 
+173.245.56.143 0 1 1789 
+131.228.29.19 0 2 5761 
+188.114.103.173 1 1 29720 20150422212756
+141.101.99.215 0 18 161297 
+108.162.223.101 0 1 0 
+141.101.99.153 0 53 88669 
+199.27.129.29 0 4 8538 
+141.101.79.85 0 15 786 
+141.101.104.249 0 7 109585 
+108.162.210.242 0 5 38442 
+46.161.41.199 18 18 381882 20150430044654
+79.193.33.149 2 64 1381120 20150423033418
+141.101.92.46 0 4 110080 
+199.27.133.214 0 3 14177 
+199.27.133.100 0 3 4814 
+141.101.104.138 0 146 217321 
+141.101.104.34 0 4 126912 
+141.101.98.197 0 8 11876 
+108.162.229.223 0 3 8419 
+173.245.62.111 0 6 6122 
+131.228.29.92 0 3 113510 
+108.162.246.58 0 9 0 
+141.101.105.118 5 6 126173 20150404141414
+123.125.71.44 1 1 43235 20150419115218
+128.199.201.12 1 2 1443 20150420171114
+108.162.215.118 0 3 21029 
+141.101.104.131 0 30 202573 
+141.101.96.207 0 4 34324 
+141.101.81.240 0 6 72018 
+173.245.56.140 0 2 5304 
+173.245.54.134 0 1 2407 
+188.114.103.171 0 6 244026 
+173.245.54.147 0 3 92355 
+108.162.215.173 0 3 32788 
+199.27.133.185 0 93 62365 
+199.27.128.65 0 38 0 
+108.162.222.169 0 3 72403 
+188.114.103.166 0 2 16838 
+141.101.104.211 0 22 0 
+141.101.104.199 0 13 62365 
+108.162.215.242 0 1 28637 
+199.27.133.135 17 55 645425 20150424001832
+108.162.223.5 0 1 17287 
+141.101.81.148 0 1 0 
+108.162.246.81 0 8 8166 
+195.191.230.80 1 28 579512 20150422101917
+199.27.133.204 0 1 0 
+199.27.133.160 0 35 233925 
+108.162.246.61 0 8 0 
+108.162.221.175 4 35 481020 20150422235230
+199.27.128.27 0 4 11749 
+173.245.62.109 0 6 172914 
+108.162.228.23 1 1 15302 20150402150950
+141.101.106.47 0 3 62365 
+141.101.104.221 0 6 35593 
+141.101.98.230 0 34 244022 
+141.101.70.22 1 1 30342 20150401090027
+108.162.223.227 0 1 0 
+173.245.50.187 0 28 182276 
+108.162.246.77 0 18 0 
+141.101.105.13 0 17 121446 
+141.101.80.4 1 4 54565 20150406034210
+173.245.56.109 0 1 1789 
+141.101.99.70 0 3 105494 
+178.120.199.2 11 107 2492114 20150401152349
+108.162.226.103 0 3 8390 
+173.245.54.133 3 6 121068 20150424151319
+108.162.221.176 0 7 4534 
+141.101.93.122 0 7 28970 
+173.245.62.160 0 5 0 
+173.245.54.107 0 1 2248 
+108.162.246.113 0 6 2892 
+108.162.215.113 0 4 0 
+141.101.99.209 30 30 1349217 20150425162703
+141.101.99.178 0 62 604 
+141.101.104.148 1 1 85612 20150415085726
+173.245.50.184 0 13 68538 
+173.245.49.245 6 6 91812 20150419053943
+141.101.104.126 0 102 109061 
+108.162.212.252 0 2 11611 
+173.245.56.110 0 28 268253 
+199.27.133.103 0 11 0 
+173.245.62.123 0 12 45319 
+141.101.93.135 0 3 21 
+131.228.29.56 1 5 59389 20150402144127
+141.101.99.116 0 1 2634 
+108.162.212.246 0 2 65206 
+198.41.234.45 0 1 185 
+173.245.49.164 0 1 1962 
+108.162.221.196 0 16 20661 
+188.114.102.172 0 1 5401 
+217.174.224.58 8 194 1599100 20150417050711
+141.101.98.166 0 13 1491 
+141.101.92.49 0 2 0 
+199.27.128.66 0 1 0 
+108.162.223.41 0 2 0 
+199.27.133.230 67 67 2434996 20150427102805
+141.101.105.111 0 6 0 
+199.27.129.5 0 26 58 
+108.162.223.173 0 6 38442 
+108.162.246.108 0 6 1800 
+173.245.56.130 0 1 62365 
+173.245.54.106 0 7 123504 
+141.101.106.11 0 5 0 
+141.101.104.64 0 129 223322 
+173.245.56.137 0 3 29405 
+141.101.104.83 3 4 128433 20150423010632
+139.194.101.106 1 2 1443 20150420141125
+199.27.129.77 0 50 3081 
+131.228.29.8 0 1 333 
+141.101.104.125 0 13 148743 
+131.228.29.107 0 1 30074 
+141.101.93.66 1 2 126004 20150428203121
+199.27.133.208 2 10 187597 20150429222957
+103.22.200.138 0 2 6608 
+173.245.49.192 0 3 17287 
+217.174.234.6 8 8 357654 20150421234927
+123.125.71.28 1 1 43469 20150415234620
+199.27.129.83 0 49 0 
+141.101.99.251 0 17 96257 
+173.245.49.88 20 20 306010 20150425184320
+103.22.200.134 0 2 5620 
+141.101.104.156 0 105 97958 
+108.162.245.79 0 9 9910 
+141.101.105.165 22 33 1033784 20150425160711
+173.245.48.111 0 1 1213 
+10.103.10.43 3 60 1225243 20150407200830
+141.101.99.189 0 61 1797 
+141.101.104.154 0 204 176932 
+108.162.215.244 1 5 293167 20150425162823
+141.101.99.77 0 88 163790 
+131.228.29.33 0 2 42761 
+188.162.65.85 1 72 1461217 20150425201127
+108.162.215.219 0 4 4496 
+141.101.81.80 1 2 29942 20150413010239
+141.101.99.84 0 2 11749 
+173.245.48.217 1 4 17264 20150402170528
+108.162.246.47 0 1 0 
+173.245.48.237 0 1 747 
+103.22.200.143 0 4 22159 
+108.162.246.99 0 9 92799 
+141.101.81.251 0 3 0 
+173.245.56.126 6 11 249011 20150424151259
+141.101.81.106 1 9 28729 20150414001143
+141.101.105.44 0 6 50199 
+141.101.99.60 0 72 288997 
+198.41.243.178 0 6 66279 
+141.101.104.244 0 2 12798 
+141.101.105.37 0 24 50785 
+185.3.34.226 0 1 22187 
+173.245.62.124 0 12 180778 
+141.101.81.96 0 1 30074 
+10.103.19.8 2 4 54997 20150405001257
+199.27.129.155 0 50 0 
+199.27.129.119 24 25 357959 20150401182140
+173.245.49.178 0 6 3225 
+141.101.104.60 0 126 203363 
+199.27.133.127 0 26 5682 
+141.101.104.207 0 12 96257 
+141.101.99.171 0 21 63458 
+131.228.29.121 0 5 129064 
+108.162.208.166 12 12 183612 20150412123018
+86.98.52.196 1 1 31750 20150413075145
+141.101.105.73 46 49 1267850 20150428102249
+173.245.56.120 4 21 632033 20150424151322
+141.101.81.239 0 9 98 
+173.245.49.151 0 3 4734 
+108.162.228.77 1 1 43326 20150414011608
+141.101.104.237 0 4 24423 
+141.101.99.245 0 16 141786 
+108.162.210.240 0 7 24503 
+199.27.129.131 0 25 0 
+173.245.49.154 0 3 747 
+108.162.212.231 0 20 197754 
+108.162.221.195 0 11 99076 
+103.22.200.218 0 2 47542 
+141.101.104.233 0 9 35593 
+141.101.99.79 1 1 15296 20150405224118
+131.228.29.61 0 1 2939 
+188.114.103.154 0 3 32475 
+141.101.105.15 0 17 333 
+173.245.50.201 3 11 128022 20150425213923
+141.101.104.134 5 46 201928 20150402143314
+173.245.54.125 0 6 721608 
+131.228.29.117 0 3 34980 
+108.162.226.105 0 3 49941 
+141.101.105.123 0 19 0 
+108.162.246.89 2 2 64069 20150406073229
+108.162.212.33 0 11 174851 
+131.228.29.3 0 2 8979 
+141.101.99.91 0 11 28473 
+141.101.104.141 0 140 69550 
+141.101.97.178 0 2 73894 
+173.245.54.126 0 7 190922 
+141.101.104.184 28 42 1050832 20150430060324
+141.101.93.84 0 10 13635 
+77.67.222.172 2 68 1563736 20150421153413
+168.235.196.74 3 91 1198741 20150422073239
+173.245.62.115 0 6 2328 
+141.101.92.19 0 9 113670 
+131.228.29.30 0 1 4069 
+108.162.223.131 0 2 0 
+108.162.246.120 0 1 2822 
+141.101.104.165 0 135 174278 
+141.101.99.28 0 22 200879 
+141.101.104.200 0 13 96648 
+85.115.224.195 8 83 2440331 20150411192155
+54.246.252.43 3 68 1553764 20150405084046
+199.27.133.187 0 34 1164 
+199.27.130.174 0 3 8817 
+141.101.79.13 0 11 72738 
+141.101.99.145 3 26 28687 20150412233816
+168.235.195.110 1 27 650877 20150416231049
+141.101.104.252 0 103 96257 
+141.101.98.190 0 82 88878 
+141.101.99.108 0 165 35593 
+141.101.93.82 0 8 1826 
+173.245.62.170 0 5 0 
+141.101.97.185 0 3 88954 
+141.101.106.23 0 4 1249 
+173.245.62.198 1 1 29986 20150406181306
+141.101.99.212 0 3 117285 
+141.101.81.161 1 1 28693 20150411025330
+141.101.80.24 0 10 28972 
+141.101.70.145 0 15 0 
+199.27.133.203 0 17 26203 
+131.228.29.77 0 4 110530 
+176.195.226.132 2 25 577657 20150404183609
+141.101.80.34 0 4 0 
+188.114.102.166 0 4 5940 
+131.228.29.13 0 4 166135 
+173.245.48.211 0 2 0 
+131.228.29.70 0 1 333 
+199.27.133.211 0 16 0 
+173.245.49.167 1 1 15302 20150410151018
+141.101.104.104 1 39 120220 20150425071408
+198.41.243.177 0 2 72403 
+108.162.212.248 0 8 181470 
+141.101.70.103 1 2 29498 20150420123635
+46.72.196.221 2 46 980655 20150416004349
+198.41.243.182 0 2 4360 
+103.22.200.130 16 21 640623 20150413104419
+188.114.103.160 0 3 64021 
+131.228.29.39 2 4 332721 20150413150655
+195.189.123.16 5 50 968128 20150414083518
+103.22.200.142 0 2 2297 
+188.114.102.155 0 2 9786 
+141.101.105.68 0 11 0 
+141.101.104.65 1 9 140937 20150425140315
+199.27.133.105 1 11 86793 20150404083414
+199.27.129.107 0 25 0 
+108.162.221.194 0 5 9183 
+141.101.106.5 0 7 0 
+173.245.49.108 4 4 61208 20150430224259
+141.101.105.109 0 2 0 
+108.162.246.68 0 26 8419 
+141.101.104.140 0 10 348527 
+141.101.93.81 0 6 65208 
+141.101.105.89 1 3 18174 20150423184047
+141.101.105.116 0 9 0 
+95.28.9.213 4 130 2885254 20150430202606
+141.101.99.242 0 128 136920 
+217.174.234.1 3 49 1040091 20150409234444
+95.31.249.138 1 1 44860 20150416000144
+108.162.246.65 0 27 105257 
+141.101.99.167 0 31 159655 
+176.195.156.32 2 26 519175 20150404183550
+141.101.99.135 0 7 96453 
+131.228.29.66 0 2 4048 
+131.228.29.84 0 1 24378 
+141.101.99.80 0 89 163664 
+131.228.29.89 0 2 24531 
+108.162.246.102 0 7 35836 
+131.228.29.40 0 1 83893 
+131.228.29.45 0 3 71759 
+173.245.62.156 0 5 0 
+141.101.105.120 1 10 28921 20150427195345
+141.101.81.233 2 5 58151 20150415215139
+141.101.70.181 0 7 0 
+141.101.99.78 0 17 53785 
+141.101.81.67 0 3 0 
+123.125.71.20 1 1 43235 20150419174800
+141.101.104.228 0 13 0 
+173.245.56.117 2 3 185752 20150426201710
+141.101.105.74 0 23 0 
+141.101.81.79 0 3 0 
+94.102.179.207 5 31 483340 20150422070432
+199.27.128.25 0 2 22000 
+93.80.147.37 2 27 494855 20150404183559
+141.101.98.223 0 37 64772 
+173.245.62.184 0 5 0 
+141.101.80.10 0 9 36639 
+173.245.62.94 0 6 3600 
+199.27.133.190 59 63 2338134 20150425213542
+141.101.80.35 0 1 0 
+108.162.245.4 0 1 0 
+141.101.70.23 0 6 0 
+141.101.97.188 0 2 32833 
+217.174.224.56 20 287 4476351 20150430200623
+131.228.29.103 1 4 73257 20150408223807
+141.101.99.186 0 15 50942 
+141.101.104.145 0 253 139816 
+141.101.99.149 0 2 108006 
+103.22.200.217 0 1 2675 
+199.27.133.95 2 2 117841 20150411150941
+199.27.133.217 0 13 0 
+108.162.215.181 0 5 333 
+141.101.99.234 49 172 2204906 20150430225928
+141.101.104.31 3 148 137022 20150424220134
+168.235.194.115 1 1 18156 20150428232407
+173.245.56.135 0 1 72403 
+141.101.99.180 0 10 91546 
+199.27.133.150 1 21 82549 20150425205632
+195.189.123.174 2 4 136967 20150405220242
+141.101.105.17 0 4 65353 
+141.101.99.30 0 44 47211 
+65.255.37.149 1 4 54089 20150416204940
+141.101.104.164 0 132 161883 
+141.101.104.196 0 6 62365 
+173.245.48.180 5 5 256912 20150425224544
+141.101.81.70 0 8 2127 
+198.41.242.177 0 2 1491 
+94.102.179.201 11 112 2525015 20150415111256
+141.101.99.233 0 18 153793 
+188.114.102.162 0 3 76003 
+173.245.62.139 0 1 12931 
+141.101.99.96 0 313 199835 
+141.101.105.35 0 1 0 
+141.101.104.173 0 8 0 
+141.101.81.133 0 6 141384 
+173.245.62.105 12 18 842061 20150415211324
+173.245.62.89 0 1 14282 
+199.27.133.178 0 30 0 
+141.101.105.100 0 81 68251 
+173.245.54.118 9 12 392787 20150424151324
+108.162.212.31 0 7 49547 
+108.162.246.57 0 23 53508 
+141.101.104.107 0 1 96257 
+141.101.70.121 1 9 92099 20150427192943
+173.245.48.113 1 13 29426 20150428020139
+108.162.215.217 0 2 0 
+141.101.105.50 2 198 134672 20150409152756
+198.41.243.201 0 4 20385 
+217.174.232.9 18 417 7661701 20150428060143
+199.27.133.155 0 7 27725 
+141.101.105.6 0 14 148963 
+108.162.215.171 0 2 18778 
+173.245.49.100 1 1 15302 20150419143314
+141.101.99.89 0 44 2248 
+108.162.246.119 9 23 591443 20150414232309
+141.101.99.182 0 10 0 
+173.245.62.149 0 5 0 
+141.101.105.47 0 21 0 
+141.101.92.51 0 2 0 
+141.101.97.201 0 5 144009 
+173.245.54.143 0 1 5042 
+188.114.103.159 0 1 7185 
+141.101.81.254 0 1 185 
+173.245.49.175 0 4 10414 
+199.27.128.91 0 2 22222 
+173.245.49.116 1 1 43326 20150413213055
+5.166.39.235 1 33 626879 20150407211705
+199.27.133.205 0 24 0 
+141.101.105.94 0 3 0 
+108.162.246.117 0 10 31204 
+141.101.99.254 0 111 114317 
+131.228.29.5 1 5 81710 20150413150730
+141.101.99.157 0 6 0 
+217.12.206.140 1 1 43289 20150429234146
+108.162.212.233 0 33 224255 
+108.162.246.93 0 10 31792 
+199.27.130.204 0 7 46781 
+176.14.7.70 1 33 641524 20150404044059
+173.245.62.92 0 6 670 
+199.27.133.235 0 16 0 
+141.101.93.123 0 12 180796 
+141.101.104.128 5 91 646869 20150422133831
+131.228.29.95 0 4 37061 
+141.101.104.251 0 11 106907 
+108.162.215.211 0 2 0 
+188.114.103.170 0 2 2328 
+141.101.99.69 0 117 226528 
+141.101.93.70 0 17 110388 
+188.114.103.169 0 2 2269 
+173.245.56.128 0 5 167439 
+199.27.133.250 0 28 7199 
+108.162.223.29 0 1 0 
+141.101.104.224 47 56 2365839 20150428164601
+108.162.215.147 0 2 21029 
+141.101.93.138 0 9 83417 
+108.162.246.38 0 1 0 
+141.101.98.192 0 33 104960 
+141.101.105.12 25 29 1286506 20150426123227
+173.245.54.113 0 21 184710 
+188.114.102.170 0 3 8251 
+173.245.49.160 0 1 1801 
+199.27.128.119 0 3 1441 
+108.162.226.111 0 1 49695 
+198.41.235.23 1 1 15461 20150411104150
+199.27.130.192 0 39 132307 
+199.27.133.227 0 4 0 
+141.101.104.232 0 1 11111 
+173.245.54.160 0 5 0 
+141.101.105.42 0 40 173702 
+141.101.104.155 0 126 62365 
+198.41.242.201 0 6 35991 
+108.162.223.191 0 1 0 
+195.189.123.2 3 99 1812760 20150412153753
+131.228.29.71 0 2 7932 
+173.245.48.186 0 5 79981 
+93.80.42.52 1 1 18162 20150407211705
+199.27.133.147 0 30 0 
+188.114.102.150 0 3 3323 
+131.228.29.68 0 3 12064 
+141.101.99.122 0 104 96257 
+108.162.226.102 0 8 190168 
+108.162.223.119 0 2 0 
+141.101.104.36 2 3 155709 20150426093027
+131.228.29.123 0 2 88253 
+23.236.125.187 3 94 1638827 20150425122743
+141.101.81.95 0 1 2822 
+220.181.108.117 1 1 43235 20150419094052
+141.101.106.53 0 9 0 
+131.228.29.37 0 4 71973 
+188.114.103.162 0 4 122760 
+173.245.54.156 0 10 0 
+141.101.97.181 0 1 335 
+173.245.62.125 0 1 10882 
+173.245.62.100 0 6 42 
+141.101.105.96 1 8 88486 20150401105010
+108.162.212.245 0 2 28314 
+141.101.96.187 0 1 3813 
+199.27.130.145 0 1 0 
+141.101.99.175 0 24 62365 
+103.22.200.140 0 2 15460 
+141.101.105.72 0 7 164052 
+131.228.29.59 0 3 91112 
+141.101.92.23 0 3 2634 
+188.114.103.201 1 1 14908 20150416104035
+199.27.128.63 0 5 22187 
+141.101.98.165 0 122 15426 
+5.18.44.155 2 68 1563644 20150418021551
+173.245.62.202 1 1 15302 20150411125730
+141.101.104.226 0 16 96257 
+108.162.245.92 0 21 9206 
+173.245.56.101 0 7 0 
+141.101.105.98 1 12 15302 20150428230030
+173.245.62.187 0 5 0 
+141.101.93.247 0 20 83275 
+195.154.181.152 35 35 991192 20150401195142
+95.211.211.182 1 2 1443 20150403091004
+131.228.29.97 0 1 17287 
+141.101.99.73 0 13 232636 
+173.245.48.247 0 1 335 
+108.162.218.41 1 1 15296 20150405005926
+108.162.215.248 0 1 86457 
+141.101.99.221 0 17 141938 
+141.101.104.219 0 36 0 
+141.101.104.158 25 39 1282526 20150403145145
+141.101.99.104 0 109 197607 
+217.174.233.6 19 149 429610 20150430090702
+173.245.62.158 0 5 0 
+141.101.105.10 0 4 91153 
+141.101.104.33 0 8 65773 
+141.101.104.169 0 6 23964 
+173.245.62.147 0 5 0 
+141.101.99.106 0 94 0 
+217.174.227.66 45 364 5350222 20150427120045
+173.245.50.199 0 15 473256 
+141.101.98.163 0 37 4381 
+173.245.49.159 0 3 3261 
+141.101.99.252 0 113 219577 
+198.41.242.181 0 2 3813 
+173.245.54.130 3 14 616417 20150410151331
+141.101.104.202 5 13 147881 20150417115540
+141.101.98.225 0 1 75656 
+141.101.96.182 0 5 14221 
+199.27.128.87 0 2 5878 
+173.245.49.106 1 1 15302 20150421043136
+141.101.104.194 1 86 118025 20150425101533
+131.228.29.87 0 2 11007 
+141.101.104.230 0 14 0 
+141.101.99.240 0 119 133578 
+141.101.104.215 0 77 0 
+141.101.105.34 0 9 0 
+46.23.66.107 1 2 1443 20150413184227
+141.101.104.162 6 310 284425 20150426074424
+198.41.242.182 5 16 335469 20150425162614
+141.101.105.91 0 18 0 
+141.101.104.87 0 18 47211 
+141.101.97.199 2 2 58555 20150419191000
+141.101.99.188 0 5 47211 
+198.41.234.51 0 1 0 
+108.162.223.149 0 1 0 
+199.27.129.101 0 4 10882 
+199.27.128.113 0 52 5160 
+202.245.142.7 1 68 1521596 20150427115822
+141.101.97.186 0 2 51943 
+173.245.48.115 0 1 185 
+108.162.220.11 11 11 168316 20150430083802
+217.174.224.54 6 213 641513 20150428205503
+173.245.56.164 0 1 335 
+141.101.105.114 26 27 1251763 20150423114956
+108.162.246.85 7 16 320518 20150418092949
+176.195.25.80 0 34 627820 
+141.101.104.182 0 23 65966 
+173.245.56.153 28 43 687984 20150417150604
+178.172.249.173 2 63 1333354 20150405170543
+173.245.62.140 0 1 11749 
+141.101.105.57 0 150 112060 
+108.162.246.124 0 21 94716 
+199.27.133.249 0 12 0 
+220.181.108.102 1 1 43469 20150415234755
+131.228.29.16 0 2 1499 
+198.41.242.178 0 4 3957 
+173.245.48.171 0 4 14124 
+141.101.81.69 0 1 30074 
+131.228.29.47 0 4 10550 
+141.101.105.40 0 2 97421 
+199.27.133.183 0 1 10655 
+108.162.223.221 0 1 0 
+141.101.105.76 0 14 0 
+141.101.105.19 0 102 78606 
+141.101.104.143 0 2 110881 
+141.101.104.59 0 264 398066 
+141.101.104.178 0 238 68705 
+108.162.218.101 1 1 15296 20150404202633
+141.101.99.99 0 22 111433 
+141.101.93.251 0 7 116425 
+180.251.60.144 1 2 1443 20150416190748
+141.101.105.8 0 25 101521 
+173.245.62.90 1 1 15302 20150430180827
+141.101.104.171 2 9 309715 20150423140109
+198.41.235.5 2 2 30604 20150404234753
+188.114.102.169 0 4 40736 
+141.101.104.192 0 29 62365 
+173.245.62.103 0 6 9468 
+199.27.133.107 0 13 0 
+141.101.104.209 0 5 9364 
+141.101.104.102 0 2 113150 
+199.27.129.71 0 30 1801 
+141.101.79.133 3 12 250235 20150428160434
+173.245.56.155 0 5 0 
+199.27.129.149 0 80 329618 
+108.162.246.115 0 22 218356 
+141.101.104.136 0 11 62698 
+173.245.62.128 0 3 1441 
+173.245.56.146 0 1 1446 
+141.101.99.249 0 118 56229 
+199.27.133.149 0 4 80143 
+141.101.81.135 0 15 64167 
+141.101.99.211 0 3 211328 
+195.189.123.211 3 55 1088866 20150404063929
+108.162.215.145 0 6 0 
+141.101.81.164 0 1 1491 
+141.101.106.17 0 8 0 
+141.101.93.164 0 2 21029 
+173.245.48.141 0 1 2841 
+199.27.130.168 0 62 0 
+108.162.219.7 1 1 15284 20150405095734
+141.101.98.194 0 262 25274 
+108.162.246.86 0 4 34574 
+173.245.48.220 0 3 1801 
+188.242.128.247 3 68 1473934 20150428051110
+131.228.29.10 0 2 3543 
+173.245.62.171 0 10 0 
+141.101.70.91 0 10 0 
+173.245.56.121 0 3 63087 
+91.238.230.250 2 72 1568945 20150402211444
+141.101.80.31 0 1 0 
+178.120.249.226 1 1 45982 20150425141501
+141.101.79.91 1 33 68850 20150413174147
+108.162.246.36 0 1 0 
+108.162.221.191 0 2 5614 
+173.245.54.115 0 7 0 
+141.101.104.246 0 12 20157 
+141.101.93.237 10 15 375443 20150424183220
+141.101.96.186 0 2 162113 
+141.101.104.188 0 128 126441 
+141.101.99.133 0 3 0 
+173.245.62.164 1 6 43386 20150426120524
+141.101.81.136 0 6 94554 
+173.245.62.132 0 6 5268 
+141.101.99.124 0 97 46190 
+217.174.234.3 145 545 18855145 20150430075907
+173.245.54.121 6 9 186209 20150424151329
+141.101.104.217 0 16 3323 
+108.162.246.110 0 21 254279 
+173.245.48.215 0 2 0 
+188.162.65.30 2 4 247950 20150426130257
+141.101.70.163 0 12 0 
+141.101.80.8 0 4 92793 
+141.101.104.84 0 14 0 
+173.245.54.110 0 15 11826 
+141.101.105.45 0 15 147928 
+108.162.246.56 0 14 1491 
+108.162.210.243 0 2 48224 
+199.27.133.153 56 63 2229134 20150425090949
+108.162.212.37 0 1 30074 
+131.228.29.49 0 2 7194 
+151.249.213.186 1 26 515613 20150415203832
+141.101.99.184 0 34 64705 
+141.101.99.217 0 29 97990 
+131.228.29.52 0 1 333 
+108.162.226.100 0 2 768 
+131.228.29.29 0 3 8950 
+141.101.104.242 0 4 3555 
+173.245.50.205 0 10 86291 
+141.101.93.160 0 2 0 
+199.27.133.97 0 15 3644 
+217.174.232.6 10 175 3465423 20150426225339
+108.162.246.35 0 3 0 
+199.27.133.240 0 21 333 
+173.245.62.102 0 6 3458 
+199.27.133.247 0 18 6190 
+108.162.212.229 0 15 20110 
+141.101.104.247 258 267 7539134 20150430175349
+173.245.48.188 0 4 2906 
+173.245.54.139 0 2 54055 
+141.101.99.142 135 162 5335441 20150424175447
+61.135.165.53 1 1 43364 20150426013149
+37.235.249.63 20 133 3653671 20150417205251
+141.101.81.84 0 9 2796 
+141.101.93.249 0 12 269161 
+131.228.29.114 0 3 14322 
+141.101.98.231 0 2 0 
+80.81.33.190 10 87 1995500 20150421162133
+173.245.48.249 0 1 2248 
+108.162.215.191 0 4 62538 
+141.101.99.87 0 25 67624 
+141.101.104.204 0 9 0 
+141.101.99.201 0 102 324872 
+141.101.104.28 1 24 347421 20150430163352
+173.245.54.122 0 13 262276 
+108.162.210.244 0 5 3458 
+141.101.104.82 0 5 96257 
+141.101.81.93 0 29 0 
+141.101.99.205 0 5 278978 
+141.101.99.31 0 92 149334 
+141.101.80.37 0 2 0 
+173.245.54.154 1 6 43347 20150422151502
+188.114.103.153 0 1 0 
+141.101.99.218 0 6 64282 
+176.195.133.116 2 27 520904 20150403171723
+199.27.133.207 0 2 3711 
+93.80.136.102 1 26 456141 20150430145015
+131.228.29.35 0 2 22282 
+173.245.50.202 0 8 732800 
+141.101.99.118 0 85 158622 
+141.101.99.97 161 170 6299082 20150425232241
+131.228.29.55 0 1 21 
+173.245.62.127 0 12 13788 
+131.228.29.118 0 4 78274 
+131.228.29.7 0 1 3813 
+141.101.99.109 7 95 136952 20150425224752
+141.101.81.121 0 4 1494 
+141.101.104.186 0 12 120226 
+46.73.199.218 2 27 521805 20150404183611
+173.245.54.124 0 7 132197 
+141.101.105.77 0 9 62365 
+141.101.105.43 2 7 124809 20150428200638
+131.228.29.62 0 2 185586 
+173.245.62.117 0 6 666 
+173.245.49.184 0 1 2841 
+141.101.105.22 0 13 62365 
+108.162.246.106 0 16 278672 
+141.101.70.133 7 36 201294 20150424130014
+199.27.128.120 0 1 11947 
+141.101.104.181 0 24 140199 
+108.162.229.224 2 2 57510 20150414081827
+108.162.246.53 0 1 0 
+106.0.176.61 1 8 432195 20150429074020
+141.101.99.85 237 243 9850287 20150426054439
+178.204.192.179 1 66 1519294 20150423222029
+131.228.29.9 1 2 47107 20150402144051
+141.101.99.246 11 11 384213 20150425170418
+131.228.29.22 0 2 112530 
+199.27.133.202 0 2 19572 
+141.101.105.113 1 9 29720 20150424192352
+173.245.56.138 0 1 21029 
+131.228.29.115 0 2 6180 
+158.181.254.48 3 38 726706 20150422232224
+141.101.93.234 0 1 9732 
+173.245.48.140 0 1 2407 
+141.101.106.41 2 5 58455 20150409122727
+173.245.56.105 17 24 964839 20150425182803
+141.101.81.250 0 1 331 
+141.101.106.29 0 8 0 
+141.101.81.82 0 4 0 
+95.68.184.104 0 1 22187 
+199.27.128.67 0 1 12931 
+141.101.79.67 0 30 364223 
+198.41.242.180 1 5 131512 20150415232704
+107.167.110.12 1 1 43615 20150430034829
+141.101.104.236 0 88 51263 
+141.101.99.160 0 2 0 
+108.162.246.52 0 2 0 
+85.26.186.187 0 1 22187 
+141.101.104.193 0 10 96257 
+141.101.99.150 0 13 38572 
+199.27.133.126 2 26 170176 20150424154534
+131.228.29.73 0 3 65529 
+141.101.105.32 0 12 747 
+141.101.80.22 0 7 9253 
+141.101.99.102 0 33 310573 
+141.101.99.172 0 43 35593 
+141.101.104.137 0 21 97958 
+141.101.105.93 1 2 28693 20150412005557
+131.228.29.53 0 1 9732 
+141.101.105.49 9 23 249736 20150428164622
+108.162.215.218 0 2 0 
+188.114.103.155 0 1 96 
+199.27.130.180 0 3 72594 
+141.101.104.35 0 134 18132 
+131.228.29.14 0 2 105678 
+141.101.79.73 0 14 31233 
+141.101.79.139 1 6 55544 20150428114026
+108.162.221.177 0 8 79771 
+141.101.79.79 0 1 9786 
+217.174.232.7 5 177 3219742 20150425214341
+108.162.215.190 0 4 86457 
+141.101.99.208 0 45 68870 
+141.101.80.32 0 4 98189 
+141.101.104.81 0 17 0 
+199.27.128.28 0 25 17488 
+173.245.62.136 0 6 8138 
+141.101.81.160 0 1 0 
+188.114.102.154 0 1 0 
+131.228.29.80 0 3 5423 
+173.245.48.206 0 4 0 
+141.101.93.248 0 10 119866 
+131.228.29.27 0 1 8097 
+217.174.224.52 3 35 117076 20150430220426
+141.101.104.139 0 61 588045 
+199.27.128.89 0 16 0 
+108.162.223.95 1 1 15302 20150428110302
+199.27.133.129 0 11 0 
+141.101.98.191 0 92 1729 
+173.245.48.236 1 1 15296 20150421195734
+199.27.133.99 0 17 1801 
+216.163.188.232 1 1 18162 20150409102712
+199.27.133.177 0 1 4360 
+141.101.99.214 0 11 205833 
+173.245.56.144 0 4 130534 
+141.101.81.81 0 11 9289 
+141.101.81.236 0 14 40127 
+173.245.62.120 0 6 167786 
+141.101.99.154 0 28 55547 
+141.101.104.176 0 20 2388 
+141.101.81.108 0 25 11505 
+141.101.81.107 0 1 1801 
+141.101.98.196 0 110 109210 
+141.101.104.161 0 252 56892 
+108.162.223.185 0 1 0 
+131.228.29.69 0 1 2822 
+173.245.62.98 0 12 71316 
+108.162.215.135 0 3 238742 
+199.27.133.180 0 62 2841 
+141.101.97.184 0 1 1491 
+141.101.92.9 0 11 3625 
+141.101.92.20 1 10 165942 20150428082548
+141.101.99.220 0 220 632629 
+141.101.105.55 0 9 52706 
+108.162.215.220 0 2 0 
+141.101.104.130 0 77 206796 
+141.101.99.238 0 199 149237 
+199.27.133.174 0 4 1789 
+91.221.154.68 4 74 1646039 20150427220132
+173.245.56.141 0 2 19088 
+108.162.246.112 0 26 122525 
+141.101.105.9 0 153 11853 
+108.162.226.104 1 6 207537 20150413103954
+188.114.102.159 0 6 108405 
+173.245.56.108 0 14 7192 
+141.101.99.213 0 30 50825 
+131.228.29.36 0 3 145249 
+173.245.48.184 0 3 3261 
+173.245.54.112 1 18 64886 20150402040002
+173.245.50.183 0 16 61032 
+108.162.229.196 0 3 5042 
+199.27.133.189 0 3 2675 
+141.101.97.182 0 4 40351 
+173.245.50.198 0 19 47814 
+173.245.54.108 0 1 236825 
+198.41.242.175 0 2 21 
+108.162.215.137 0 2 2248 
+141.101.99.146 0 1 62365 
+199.27.133.245 0 24 2580 
+198.41.242.192 1 1 44732 20150411074251
+141.101.97.187 1 2 19533 20150427132627
+141.101.98.158 0 48 236415 
+141.101.98.227 0 55 786 
+141.101.99.179 128 174 5988269 20150426065444
+141.101.105.119 0 8 14341 
+108.162.221.197 0 11 11218 
+199.27.130.146 0 36 15684 
+141.101.92.22 0 4 4069 
+173.245.54.105 0 14 108110 
+141.101.104.212 0 2 0 
+108.162.219.209 2 2 30598 20150404220041
+188.114.102.148 0 1 0 
+173.245.54.119 0 2 158622 
+141.101.104.220 0 16 35289 
+141.101.99.126 0 12 0 
+173.245.56.154 0 15 0 
+141.101.99.152 0 16 3806 
+141.101.99.64 1 15 581495 20150428153319
+141.101.104.243 0 16 0 
+173.245.54.144 0 3 5331 
+199.27.133.231 0 16 0 
+217.174.228.181 9 16 606791 20150429143044
+108.162.219.225 1 1 15302 20150405050408
+141.101.99.76 5 26 2779 20150425214214
+141.101.93.134 0 3 1164 
+131.228.29.111 0 1 1729 
+198.41.234.15 0 1 0 
+173.245.62.119 0 12 7388 
+141.101.93.162 0 2 0 
+199.27.133.242 0 2 2675 
+199.27.133.108 0 1 0 
+123.125.71.69 1 1 43229 20150419093836
+199.27.129.11 0 26 10909 
+141.101.104.149 0 102 15464 
+141.101.105.56 0 76 3081 
+141.101.80.47 0 2 0 
+5.45.192.69 1 4 189963 20150411163720
+141.101.99.112 0 118 3081 
+108.162.226.147 1 1 85361 20150402103901
+141.101.104.103 0 6 35593 
+216.163.188.220 1 1 43336 20150429074110
+141.101.81.147 0 4 0 
+131.228.29.108 0 1 236825 
+131.228.29.93 1 3 49152 20150409124340
+199.27.128.60 0 35 0 
+141.101.81.111 0 12 107809 
+199.27.133.163 0 3 53026 
+108.162.245.17 0 3 0 
+141.101.104.144 0 4 224647 
+173.245.56.123 0 6 15912 
+108.162.215.117 0 2 0 
+103.22.200.139 0 1 8097 
+141.101.99.33 0 26 2822 
+141.101.93.69 0 15 173611 
+131.228.29.126 0 2 99518 
+108.162.215.247 0 1 8419 
+108.162.215.239 0 1 333 
+141.101.99.94 0 44 224289 
+141.101.99.250 0 107 227671 
+141.101.104.198 2 14 160469 20150417192545
+141.101.79.7 0 5 3081 
+131.228.29.86 0 2 6317 
+108.162.246.109 0 1 8097 
+141.101.99.119 0 113 86876 
+173.245.54.164 0 15 0 
+206.71.233.94 4 69 1608010 20150409203758
+108.162.246.32 0 3 0 
+108.162.246.128 0 7 7911 
+141.101.92.50 0 3 185 
+195.50.30.219 2 64 1413895 20150421042646
+173.245.56.125 1 11 66686 20150410151328
+141.101.99.165 0 2 0 
+173.245.49.177 3 3 86115 20150414081803
+108.162.215.176 0 1 21029 
+94.102.179.203 2 30 586125 20150428205514
+141.101.81.162 0 3 0 
+103.22.200.144 0 1 8419 
+108.162.215.207 0 3 1971 
+141.101.105.95 34 37 976406 20150427024141
+173.245.54.127 0 9 77992 
+173.245.49.152 1 2 74773 20150414081953
+108.162.223.53 0 1 0 
+141.101.99.128 2 7 30604 20150405105633
+141.101.99.170 1 29 47207 20150427140520
+141.101.104.206 0 8 0 
+108.162.226.108 0 3 65519 
+141.101.105.20 41 135 2257908 20150425210113
+141.101.99.83 0 33 151312 
+141.101.97.179 0 5 126010 
+141.101.99.137 1 15 88659 20150408175053
+108.162.246.94 0 7 101949 
+198.41.243.180 0 4 51943 
+173.245.56.139 0 1 4734 
+108.162.223.83 0 1 0 
+141.101.105.38 1 137 117408 20150417221156
+141.101.99.231 17 19 677390 20150428060557
+108.162.246.98 0 1 0 
+188.114.102.157 1 7 96316 20150405102848
+108.162.226.101 0 3 113700 
+141.101.104.191 0 15 12931 
+141.101.105.79 0 8 0 
+108.162.212.232 0 12 79487 
+141.101.99.61 0 103 213231 
+173.245.49.189 0 3 72403 
+173.245.62.174 0 10 0 
+141.101.99.143 0 17 27665 
+141.101.98.193 0 64 238742 
+108.162.223.161 0 2 0 
+199.27.133.132 0 39 80021 
+199.27.129.59 0 26 1213 
+141.101.99.129 0 1 96257 
+141.101.105.16 0 161 346032 
+141.101.92.45 1 9 54718 20150430113404
+141.101.99.203 0 17 66076 
+199.27.130.246 0 2 104740 
+141.101.104.26 13 153 140045 20150430163359
+188.114.102.160 0 3 37655 
+199.27.133.186 0 63 5644 
+141.101.104.234 1 14 207585 20150425141526
+141.101.104.250 0 14 0 
+199.27.133.228 0 38 15196 
+173.245.54.166 0 5 0 
+173.245.48.240 0 1 0 
+198.41.243.175 2 4 64155 20150421101424
+141.101.106.35 4 4 119971 20150430103557
+141.101.104.166 0 123 65205 
+131.228.29.50 0 2 48293 
+141.101.105.27 0 11 0 
+108.162.246.123 0 1 1801 
+199.27.129.179 0 77 13193 
+131.228.29.34 0 1 1164 
+10.103.0.211 2 24 752672 20150402092800
+141.101.104.238 0 90 52706 
+141.101.104.142 0 102 1249 
+141.101.99.243 0 111 75225 
+173.245.48.212 0 1 1801 
+141.101.93.121 5 8 119366 20150426193450
+141.101.99.92 119 217 4422132 20150425203840
+141.101.93.83 3 10 92734 20150420213153
+173.245.56.103 0 22 89409 
+173.245.52.239 1 1 15302 20150403064941
+141.101.80.25 0 1 50785 
+141.101.99.110 0 83 21 
+141.101.104.231 0 9 0 
+141.101.81.124 0 15 194968 
+141.101.99.244 0 21 194844 
+141.101.99.107 0 244 12098 
+131.228.29.122 0 1 4460 
+188.114.103.192 0 3 187007 
+141.101.97.180 1 3 67233 20150416125152
+131.228.29.44 0 2 36508 
+131.228.29.76 0 7 65270 
+108.162.246.63 0 9 0 
+141.101.81.234 3 17 329372 20150429230602
+141.101.81.123 2 3 86540 20150413215406
+173.245.48.139 10 10 450456 20150427054157
+141.101.105.53 0 75 192514 
+173.245.56.157 0 10 0 
+173.245.56.129 0 8 190827 
+109.72.226.151 2 69 1565288 20150426151723
+141.101.105.41 30 95 1826519 20150429203233
+188.114.102.152 0 2 2388 
+199.27.129.167 0 30 8103 
+141.101.79.103 0 8 0 
+199.27.128.116 0 2 0 
+188.114.103.183 1 4 228759 20150405102901
+77.67.200.175 3 75 1904078 20150426234205
+141.101.79.115 0 1 26513 
+141.101.104.109 0 1 43942 
+108.162.246.31 0 2 0 
+131.228.29.82 0 5 73571 
+173.245.48.142 0 9 1825 
+141.101.99.155 0 38 15210 
+178.236.140.189 1 65 1469698 20150410193258
+173.245.56.116 0 8 290544 
+131.228.29.99 0 5 117875 
+199.27.133.243 0 3 2388 
+199.27.129.23 0 53 18225 
+108.162.215.243 1 1 86799 20150404090235
+199.27.133.212 0 61 97253 
+199.27.133.134 0 14 0 
+141.101.98.198 0 28 6945 
+108.162.246.78 0 9 0 
+173.245.54.146 0 4 25481 
+141.101.104.132 1 260 22329 20150420175016
+173.245.62.168 14 15 1032376 20150430064553
+199.27.133.161 0 3 19464 
+199.27.128.64 0 17 0 
+141.101.105.14 0 91 50642 
+188.114.103.157 0 1 8419 
+173.245.54.117 3 5 141267 20150424151332
+31.132.122.67 5 85 2592212 20150427143908
+131.228.29.91 0 3 57835 
+188.114.103.172 0 1 4069 
+173.245.54.141 0 1 2248 
+188.114.102.173 0 1 4360 
+141.101.80.5 0 19 365021 
+141.101.81.138 0 12 128003 
+141.101.105.88 39 44 1659120 20150429060913
+108.162.245.42 0 27 1664 
+141.101.70.175 1 1 92099 20150429165930
+188.114.103.167 0 3 56183 
+141.101.81.252 0 2 0 
+141.101.104.147 0 19 171420 
+108.162.215.108 0 5 3081 
+141.101.92.35 0 2 0 
+199.27.133.184 0 33 5592 
+141.101.104.210 0 19 94422 
+141.101.104.174 143 143 5497917 20150429110843
+199.27.133.221 0 11 0 
+108.162.215.178 0 3 1164 
+141.101.98.229 0 57 112934 
+108.162.246.62 0 36 62085 
+217.174.232.5 11 311 5221347 20150430193640
+141.101.99.148 9 31 422343 20150415073926
+141.101.70.157 0 5 0 
+141.101.105.117 0 6 0 
+173.245.49.163 0 1 2407 
+188.114.103.149 0 1 62365 
+108.162.221.174 0 19 599011 
+103.22.200.137 0 4 127854 
+108.162.238.228 1 1 15302 20150418001944
+173.245.62.175 0 5 0 
+141.101.93.151 0 4 6982 
+173.245.62.182 0 10 0 
+141.101.96.180 0 1 86457 
+108.162.246.82 0 7 7882 
+173.245.49.221 14 14 424095 20150430151210
+141.101.70.109 0 25 0 
+141.101.99.100 0 28 0 
+173.245.49.149 0 1 2407 
+131.228.29.57 0 3 7845 
+199.27.133.233 0 39 15756 
+141.101.104.63 1 16 50736 20150410175111
+131.228.29.46 0 2 29420 
+199.27.130.198 0 32 104676 
+173.245.56.136 1 4 28701 20150402185222
+131.228.29.32 0 2 5857 
+173.245.54.103 0 8 6007 
+141.101.93.136 1 7 83574 20150409155152
+141.101.99.71 0 79 3178 
+141.101.93.67 2 7 48235 20150424183110
+173.245.54.132 0 7 91843 
+199.27.133.158 0 28 0 
+199.27.133.238 0 53 2988 
+141.101.99.66 0 41 251942 
+173.245.52.211 3 3 94935 20150407022138
+131.228.29.102 0 1 9786 
+141.101.92.8 0 4 8166 
+217.174.224.57 2 21 250835 20150430223306
+108.162.218.245 1 1 15302 20150405022508
+141.101.99.95 1 80 266292 20150409160109
+103.22.200.179 1 1 85929 20150420204256
+173.245.48.242 0 1 3261 
+193.7.160.245 22 123 3045704 20150424141628
+141.101.104.153 1 2 43903 20150420233930
+199.27.133.102 0 5 1962 
+141.101.96.178 0 1 21 
+141.101.99.115 0 14 44012 
+173.245.56.150 0 10 0 
+108.162.223.167 0 2 49695 
+23.236.125.189 5 84 1370842 20150409213303
+199.27.133.94 0 11 0 
+173.245.56.152 0 5 0 
+141.101.92.48 0 2 8419 
+131.228.29.104 0 4 49010 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20150401 648 2486 45261963 126
+20150402 542 2557 37195615 138
+20150403 750 3040 50682604 133
+20150404 420 2456 32486994 115
+20150405 608 2816 44489390 123
+20150406 532 2306 32170724 110
+20150407 406 2026 28327910 89
+20150408 692 2385 42057830 90
+20150409 518 2571 42150278 108
+20150410 453 2554 37496065 115
+20150411 527 2528 40443638 106
+20150412 308 2269 29975772 110
+20150413 527 2804 40170137 122
+20150414 662 2750 47751747 122
+20150415 314 1979 26832277 105
+20150416 278 2079 28082956 76
+20150417 385 2844 43730574 111
+20150418 286 1842 28243311 71
+20150419 185 1490 18587918 75
+20150420 195 1903 28029387 63
+20150421 226 1918 27717706 76
+20150422 258 2177 31574140 74
+20150423 270 1917 27554313 78
+20150424 517 2349 37980749 115
+20150425 723 3182 52849735 118
+20150426 264 2322 30411995 91
+20150427 526 2366 39466849 82
+20150428 313 1772 25499101 68
+20150429 293 1383 19226553 72
+20150430 285 1296 19772606 65
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 154
+5mn-15mn 178
+30s-2mn 308
+15mn-30mn 123
+2mn-5mn 192
+0s-30s 1816
+30mn-1h 176
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 76
+/tm/weather/forecast 4123 156332852 1538 1399
+/tm/ 1337 53808012 399 376
+/ru/meteo-data/current-data 1250 22446235 33 41
+/ru/meteo-data/current-data/form/current_data 1185 50735053 21 12
+/ru/weather/forecast 525 13391009 127 230
+/tm/weather/weather-now 511 31922012 47 126
+/ru/ 395 17405223 231 89
+/ru/meteo-data/forecast/form/forecast 286 9213837 0 2
+/en/photo-gallery/image 241 17725372 0 1
+/ru/photo-gallery/image 239 17666127 1 3
+/en/component/users/ 195 2975241 132 131
+/en/documents/law 21 946765 7 5
+/ru/documents/regulation 27 832602 3 2
+/tm/component/users/ 29 468831 9 10
+/tm/photo-gallery 44 761862 2 8
+/en/photo-gallery/60-year 10 237246 0 0
+/tm/photo-gallery/amyderya 9 159843 0 0
+/en/photo-gallery 19 322227 1 1
+/en/photo-gallery/ilchik 10 173070 0 0
+/ru/meteo-data/forecast 209 4072253 11 6
+/en/contact 13 278550 0 1
+/ru/contact 23 520326 3 6
+/tm/documents/structure 22 388470 1 4
+/ru/documents/law 38 1742384 17 12
+/tm/contact 32 704720 6 10
+/ru 4 179145 2 2
+/ru/documents/structure 35 663452 3 7
+/ru/documents/history/ 2 59972 2 2
+/ru/informers 18 300220 0 2
+/en/weather/weather-now 22 1492376 2 2
+/tm/documents/history 34 647292 9 11
+/tm/sitemap 50 725553 3 5
+/ru/meteo-data/current-data/form/index.php 10 146415 5 0
+/en/links 29 1403681 1 2
+/en/informers 18 281588 2 2
+/ru/informers/new-informer 4 150560 1 0
+/templates/meteo/fonts/fontawesome-webfont.ttf 20 342380 20 20
+/ru/links 47 2337661 2 18
+/tm/documents/law 65 2271180 8 20
+/tm/links 73 3620434 2 14
+/templates/meteo/fonts/fontawesome-webfont.woff 180 2755632 122 151
+/ru/documents/history 36 1081967 13 8
+/en/photo-gallery/geoktepe 11 180079 0 0
+/plugins/system/remember/remember.php 2 0 0 1
+/en/weather/forecast 169 4693617 55 54
+/en/sitemap 15 216612 1 1
+/tm/meteo-data/forecast/form/index.php 12 171234 0 1
+/tm/photo-gallery/60-year 7 169037 0 0
+/tm/photo-gallery/geoktepe 11 185130 0 1
+/informer/cityname.php 2 69 1 1
+/ru/photo-gallery/ilchik 10 182294 1 1
+/ru/photo-gallery/60-year 12 295832 0 0
+/ru/photo-gallery/geoktepe 10 172926 1 1
+/language/en-GB/en-GB.xml 1 4337 0 0
+/ru/informers/ 1 16514 0 1
+/tm/informers 26 421557 3 4
+/tm/meteo-data/forecast 221 4196032 6 6
+/components/com_sexycontactform/ 6 0 6 6
+/en/ 30 1302084 4 5
+/ru/weather/weather-now 141 9831469 25 57
+/tm/photo-gallery/ilchik 7 124244 0 0
+/ru/sitemap 22 346460 5 0
+/ru/documents/regulation/ 1 31043 1 1
+/ru/component/users/ 40 637131 13 4
+/ru/photo-gallery 16 284309 1 2
+/tm/meteo-data/current-data 6 104676 0 0
+/en/documents/regulation 22 553340 0 2
+/templates/meteo/fonts/fontawesome-webfont.eot 65 928992 23 40
+/administrator/index.php 57 384677 2 2
+/en/documents/structure 18 285774 1 1
+/en/documents/history 20 375606 1 3
+/tm/documents/regulation 34 864501 10 9
+/ru/photo-gallery/amyderya 11 200532 1 1
+/tm/meteo-data/forecast/form/forecast 216 6774776 0 0
+/en/photo-gallery/amyderya 10 173080 0 0
+/tm/photo-gallery/image 239 17763745 0 1
+END_SIDER
